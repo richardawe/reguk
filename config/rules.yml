@@ -1,0 +1,85 @@
+scoring:
+  threshold: 0.5
+  max_items: 30
+
+keywords:
+  # Core UK regulators
+  fca: 2.0
+  pra: 2.0
+  ico: 2.0
+  cma: 2.0
+  frc: 2.0
+  ofgem: 2.0
+  ofcom: 1.5
+  psr: 1.5
+  hmrc: 1.5
+  financial conduct authority: 2.5
+  prudential regulation authority: 2.5
+  information commissioner: 2.5
+  competition and markets authority: 2.5
+  financial reporting council: 2.0
+  bank of england: 2.0
+  hm treasury: 1.5
+
+  # UK enforcement / action terms (high signal)
+  final notice: 3.0
+  warning notice: 3.0
+  prohibition order: 3.0
+  supervisory notice: 2.5
+  decision notice: 2.5
+  enforcement notice: 2.5
+  civil money penalty: 2.5
+  enforcement action: 2.5
+  market investigation: 2.5
+  merger inquiry: 2.0
+  phase 2: 2.0
+
+  # Data protection
+  uk gdpr: 2.0
+  gdpr: 1.5
+  data protection: 1.5
+  data breach: 2.0
+  reprimand: 2.0
+
+  # Financial services terms
+  consumer duty: 2.0
+  smcr: 2.0
+  mifid: 1.5
+  fscs: 1.5
+  authorised firm: 1.5
+  regulated firm: 1.5
+  approved person: 1.5
+  capital requirements: 1.5
+  prudential: 1.5
+  systemic risk: 2.0
+  financial stability: 1.5
+  stress test: 1.5
+
+  # General regulatory signal
+  enforcement: 2.0
+  penalty: 2.0
+  fine: 2.0
+  sanction: 2.0
+  investigation: 1.5
+  settlement: 1.5
+  compensation: 1.5
+  redress: 1.5
+  compliance: 1.0
+  guidance: 1.0
+  consultation: 1.0
+  proposed: 0.5
+  final: 0.5
+  rule: 0.5
+  order: 1.0
+  revocation: 2.0
+  suspension: 2.0
+
+source_trust:
+  FCA News: 1.2
+  FCA Final Notices: 1.5
+  Bank of England News: 1.2
+  ICO News: 1.1
+  CMA News: 1.1
+  HM Treasury: 1.0
+  FRC News: 1.0
+  default: 1.0

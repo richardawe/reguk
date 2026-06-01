@@ -1,0 +1,8 @@
+window.SMARTKIT_DATA = {
+  "generated_at": "2026-06-01T00:00:00+00:00",
+  "title": "UK Regulatory Monitor",
+  "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
+  "schedule_note": "Updated every 6 hours via GitHub Actions",
+  "item_count": 0,
+  "items": []
+};

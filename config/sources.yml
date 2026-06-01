@@ -1,0 +1,40 @@
+sources:
+  # FCA — Financial Conduct Authority press releases and news.
+  # Covers enforcement, guidance, and policy announcements.
+  - url: https://www.fca.org.uk/news/rss.xml
+    type: rss
+    name: FCA News
+
+  # FCA enforcement notices (final notices, warning notices, prohibition orders).
+  # High-signal feed for regulated-firm actions.
+  - url: https://www.fca.org.uk/news/final-notices/rss.xml
+    type: rss
+    name: FCA Final Notices
+
+  # Bank of England / PRA — prudential regulation, financial stability, policy.
+  - url: https://www.bankofengland.co.uk/rss/news
+    type: rss
+    name: Bank of England News
+
+  # ICO — Information Commissioner's Office. Data protection enforcement,
+  # fines under GDPR/UK GDPR, and guidance.
+  - url: https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/rss/
+    type: rss
+    name: ICO News
+
+  # CMA — Competition and Markets Authority. Merger reviews, market
+  # investigations, and antitrust enforcement.
+  - url: https://www.gov.uk/search/news-and-communications.atom?organisations[]=competition-and-markets-authority
+    type: rss
+    name: CMA News
+
+  # HM Treasury — regulatory policy, financial services legislation.
+  - url: https://www.gov.uk/government/organisations/hm-treasury.atom
+    type: rss
+    name: HM Treasury
+
+  # FRC — Financial Reporting Council. Audit, accounting, and corporate
+  # governance standards and enforcement.
+  - url: https://www.frc.org.uk/news/rss
+    type: rss
+    name: FRC News

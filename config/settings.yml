@@ -1,0 +1,14 @@
+dashboard:
+  title: UK Regulatory Monitor
+  subtitle: FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking
+  schedule_note: Updated every 6 hours via GitHub Actions
+
+model:
+  # Tier 1: add OPENROUTER_API_KEY as a GitHub secret to enable LLM extraction.
+  # Free-tier model availability rotates — update "name" if retired.
+  # See https://openrouter.ai/models?q=:free for current options.
+  name: meta-llama/llama-3.1-8b-instruct:free
+  max_tokens: 512
+  timeout_seconds: 30
+  # Tier 2: change "name" to any model string, or set base_url for another provider.
+  # base_url: https://api.openai.com/v1
