@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T04:08:36.799085+00:00",
+  "generated_at": "2026-06-04T09:57:56.810676+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -41,41 +41,6 @@
       "extraction_tier": 0
     },
     {
-      "title": "FCA fines and bans Frank Breuer for serious misconduct in pension transfer advice",
-      "summary": "The FCA has banned Frank Breuer from working in UK financial services and fined him £755,000 for repeatedly acting without integrity and putting customers at risk for personal financial gain.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-fines-bans-frank-breuer-serious-misconduct-pension-transfer-advice",
-      "published": "Tuesday, May 12, 2026 - 09:00",
-      "source": "FCA News",
-      "score": 19.8,
-      "action_type": "enforcement",
-      "entities": [
-        "Frank Breuer",
-        "Mr Breuer",
-        "Bluesky Wealth Management Limited",
-        "In October",
-        "By September",
-        "Financial Ombudsman Service",
-        "Financial Services Compensation Scheme",
-        "Therese Chambers",
-        "From June",
-        "In January"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "final notice",
-        "fscs",
-        "enforcement",
-        "penalty",
-        "fine",
-        "compensation",
-        "redress",
-        "final",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "FCA, Bank of England and Treasury joint statement on frontier AI models and cyber resilience",
       "summary": "Why frontier AI matters for firmsArtificial intelligence (AI) continues to evolve rapidly. Frontier AI models represent a step-change in capability, with significant implications for cyber security and operational resilience.",
       "url": "https://www.fca.org.uk/news/statements/fca-boe-treasury-joint-statement-frontier-ai-models-cyber-resilience",
@@ -99,6 +64,32 @@
         "financial stability",
         "guidance",
         "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "FCA launches investigation into second motor finance claims management company",
+      "summary": "The FCA has opened an enforcement investigation into Consultation Claims Limited (CCL) following concerns about its conduct in the period April 2025 to December 2025 in relation to motor finance claims.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-launches-investigation-second-motor-finance-claims-management-company",
+      "published": "Thursday, June 4, 2026 - 11:07",
+      "source": "FCA News",
+      "score": 12.6,
+      "action_type": "enforcement",
+      "entities": [
+        "Consultation Claims Limited",
+        "Claims Management Ombudsman",
+        "Solicitors Regulation Authority",
+        "Legal Ombudsman",
+        "Voluntary Requirement"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra",
+        "ico",
+        "enforcement",
+        "investigation",
+        "consultation"
       ],
       "extraction_tier": 0
     },
@@ -542,7 +533,7 @@
       "title": "CMA concludes market investigation with major reforms to veterinary sector",
       "summary": "The CMA has set out its final reforms – which will start coming into force later this year – to help pet owners better navigate the vet services market.",
       "url": "https://www.gov.uk/government/news/cma-concludes-market-investigation-with-major-reforms-to-veterinary-sector",
-      "published": "2026-06-04T04:08:35.935890+00:00",
+      "published": "2026-06-04T09:57:55.814009+00:00",
       "source": "CMA News",
       "score": 7.15,
       "action_type": "other",
@@ -603,7 +594,7 @@
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-06-04T04:08:35.935780+00:00",
+      "published": "2026-06-04T09:57:55.813927+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -622,7 +613,7 @@
       "title": "CMA orders the AA and BSM driving schools to refund learner drivers over drip pricing",
       "summary": "The AA Driving School and BSM Driving School – both of which are owned by the AA – must refund more than 80,000 customers and pay a fine of £4.2 million.",
       "url": "https://www.gov.uk/government/news/cma-orders-the-aa-and-bsm-driving-schools-to-refund-learner-drivers-over-drip-pricing",
-      "published": "2026-06-04T04:08:35.935863+00:00",
+      "published": "2026-06-04T09:57:55.813988+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -641,7 +632,7 @@
       "title": "CMA response to government in relation to childcare provision",
       "summary": "A letter from Sarah Cardell, Chief Executive of the Competition and Markets Authority (CMA), to Bridget Phillipson, Secretary of State for Education.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-06-04T04:08:35.935788+00:00",
+      "published": "2026-06-04T09:57:55.813933+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -662,7 +653,7 @@
       "title": "CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
       "summary": "The Competition and Markets Authority (CMA) has published its advice to Department for Environment, Food &amp; Rural Affairs (Defra) on the reform of veterinary sector regulation.",
       "url": "https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966",
-      "published": "2026-06-04T04:08:35.935830+00:00",
+      "published": "2026-06-04T09:57:55.813964+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "rulemaking",
