@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-06-04T09:57:56.810676+00:00",
+  "generated_at": "2026-06-04T15:18:36.075959+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -71,7 +71,7 @@ window.SMARTKIT_DATA = {
       "title": "FCA launches investigation into second motor finance claims management company",
       "summary": "The FCA has opened an enforcement investigation into Consultation Claims Limited (CCL) following concerns about its conduct in the period April 2025 to December 2025 in relation to motor finance claims.",
       "url": "https://www.fca.org.uk/news/press-releases/fca-launches-investigation-second-motor-finance-claims-management-company",
-      "published": "Thursday, June 4, 2026 - 11:07",
+      "published": "Thursday, June 4, 2026 - 09:07",
       "source": "FCA News",
       "score": 12.6,
       "action_type": "enforcement",
@@ -226,26 +226,6 @@ window.SMARTKIT_DATA = {
         "pra",
         "consumer duty",
         "settlement"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "PRA to streamline supervision as part of 2026 priorities",
-      "summary": "The Prudential Regulation Authority (PRA) has today published its supervisory priorities for 2026, outlining in a letter its sector-specific priorities for the coming year to all banks, building societies, insurers and other PRA-regulated firms.",
-      "url": "https://www.bankofengland.co.uk/news/2026/january/pra-to-streamline-supervision-as-part-of-2026-priorities",
-      "published": "2026-01-15T10:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 9.0,
-      "action_type": "rulemaking",
-      "entities": [
-        "The Prudential Regulation Authority"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "prudential regulation authority",
-        "regulated firm",
-        "prudential"
       ],
       "extraction_tier": 0
     },
@@ -533,7 +513,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA concludes market investigation with major reforms to veterinary sector",
       "summary": "The CMA has set out its final reforms – which will start coming into force later this year – to help pet owners better navigate the vet services market.",
       "url": "https://www.gov.uk/government/news/cma-concludes-market-investigation-with-major-reforms-to-veterinary-sector",
-      "published": "2026-06-04T09:57:55.814009+00:00",
+      "published": "2026-06-04T15:18:35.177090+00:00",
       "source": "CMA News",
       "score": 7.15,
       "action_type": "other",
@@ -594,7 +574,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-06-04T09:57:55.813927+00:00",
+      "published": "2026-06-04T15:18:35.176984+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -613,7 +593,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders the AA and BSM driving schools to refund learner drivers over drip pricing",
       "summary": "The AA Driving School and BSM Driving School – both of which are owned by the AA – must refund more than 80,000 customers and pay a fine of £4.2 million.",
       "url": "https://www.gov.uk/government/news/cma-orders-the-aa-and-bsm-driving-schools-to-refund-learner-drivers-over-drip-pricing",
-      "published": "2026-06-04T09:57:55.813988+00:00",
+      "published": "2026-06-04T15:18:35.177063+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -632,7 +612,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to government in relation to childcare provision",
       "summary": "A letter from Sarah Cardell, Chief Executive of the Competition and Markets Authority (CMA), to Bridget Phillipson, Secretary of State for Education.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-06-04T09:57:55.813933+00:00",
+      "published": "2026-06-04T15:18:35.176991+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -653,7 +633,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
       "summary": "The Competition and Markets Authority (CMA) has published its advice to Department for Environment, Food &amp; Rural Affairs (Defra) on the reform of veterinary sector regulation.",
       "url": "https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966",
-      "published": "2026-06-04T09:57:55.813964+00:00",
+      "published": "2026-06-04T15:18:35.177032+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "rulemaking",
@@ -662,6 +642,25 @@ window.SMARTKIT_DATA = {
         "The Competition",
         "Markets Authority",
         "Rural Affairs"
+      ],
+      "dates": [],
+      "key_terms": [
+        "cma",
+        "competition and markets authority"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Registering with and reporting your fuel prices to Fuel Finder",
+      "summary": "Open letter from the Competition and Markets Authority (CMA) to road fuel retailers.",
+      "url": "https://www.gov.uk/government/publications/registering-with-and-reporting-your-fuel-prices-to-fuel-finder",
+      "published": "2026-06-04T15:18:35.177070+00:00",
+      "source": "CMA News",
+      "score": 4.95,
+      "action_type": "other",
+      "entities": [
+        "Fuel Finder Open",
+        "Markets Authority"
       ],
       "dates": [],
       "key_terms": [
