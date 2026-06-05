@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-06-05T03:54:06.030845+00:00",
+  "generated_at": "2026-06-05T09:53:15.208025+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -116,6 +116,33 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "Simpler climate reporting rules could save firms £20m annually",
+      "summary": "Investment firms could save around £20m a year under new proposals from the FCA to simplify climate reporting for investment products.",
+      "url": "https://www.fca.org.uk/news/press-releases/simpler-climate-reporting-rules-could-save-firms-20m-annually",
+      "published": "Friday, June 5, 2026 - 10:39",
+      "source": "FCA News",
+      "score": 10.2,
+      "action_type": "rulemaking",
+      "entities": [
+        "Task Force",
+        "Financial Disclosures",
+        "Consumer Duty",
+        "Michelle Beck",
+        "Sustainability Disclosure Requirements"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra",
+        "consumer duty",
+        "consultation",
+        "proposed",
+        "final",
+        "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "The Bank, FCA and HM Treasury joint statement on Frontier AI models and cyber resilience",
       "summary": "Statement from the Bank of England, Financial Conduct Authority and HM Treasury",
       "url": "https://www.bankofengland.co.uk/news/2026/may/boe-fca-and-hm-treasury-joint-statement-on-frontier-ai-models-and-cyber-resilience",
@@ -209,27 +236,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "FCA reviews whether investment firms are doing enough to support bereaved customers",
-      "summary": "The FCA is reviewing how consumer investment firms support bereaved customers and whether they're getting it right.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-reviews-whether-investment-firms-are-doing-enough-support-bereaved-customers",
-      "published": "Wednesday, May 13, 2026 - 11:01",
-      "source": "FCA News",
-      "score": 9.0,
-      "action_type": "settlement",
-      "entities": [
-        "Kate Tuckley",
-        "Consumer Investments Regulatory Priorities"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "consumer duty",
-        "settlement"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Firms have improved but must do more to prevent sanctions breaches",
       "summary": "Financial firms have made progress in preventing sanctions breaches – with £37bn worth of assets frozen in the UK as of last year – but gaps remain, warns the FCA.",
       "url": "https://www.fca.org.uk/news/press-releases/firms-have-improved-must-do-more-prevent-sanctions-breaches",
@@ -316,32 +322,6 @@ window.SMARTKIT_DATA = {
         "enforcement",
         "sanction",
         "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA announces new appointments to executive team",
-      "summary": "The FCA has announced 2 permanent appointments to its executive team, strengthening leadership at a pivotal time for UK and global financial markets.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-announces-new-appointments-executive-team",
-      "published": "Wednesday, May 13, 2026 - 12:36",
-      "source": "FCA News",
-      "score": 8.4,
-      "action_type": "enforcement",
-      "entities": [
-        "Simon Walls",
-        "London Interbank Offered Rate",
-        "Johan Sekora",
-        "Nikhil Rathi",
-        "Swedish Police",
-        "Parliamentary Studies",
-        "Leeds University"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "bank of england",
-        "fine",
-        "compliance"
       ],
       "extraction_tier": 0
     },
@@ -513,7 +493,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA concludes market investigation with major reforms to veterinary sector",
       "summary": "The CMA has set out its final reforms – which will start coming into force later this year – to help pet owners better navigate the vet services market.",
       "url": "https://www.gov.uk/government/news/cma-concludes-market-investigation-with-major-reforms-to-veterinary-sector",
-      "published": "2026-06-05T03:54:05.110266+00:00",
+      "published": "2026-06-05T09:53:13.927438+00:00",
       "source": "CMA News",
       "score": 7.15,
       "action_type": "other",
@@ -574,7 +554,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-06-05T03:54:05.110160+00:00",
+      "published": "2026-06-05T09:53:13.927382+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -593,7 +573,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders the AA and BSM driving schools to refund learner drivers over drip pricing",
       "summary": "The AA Driving School and BSM Driving School – both of which are owned by the AA – must refund more than 80,000 customers and pay a fine of £4.2 million.",
       "url": "https://www.gov.uk/government/news/cma-orders-the-aa-and-bsm-driving-schools-to-refund-learner-drivers-over-drip-pricing",
-      "published": "2026-06-05T03:54:05.110240+00:00",
+      "published": "2026-06-05T09:53:13.927424+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -609,10 +589,29 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "Bank of England and Financial Conduct Authority – Memorandum of Understanding on the supervision of Financial Market Infrastructure",
+      "summary": "Joint statement from the Bank of England and Financial Conduct Authority",
+      "url": "https://www.bankofengland.co.uk/news/2026/june/boe-and-fca-mou-on-supervision-of-financial-market-infrastructures",
+      "published": "2026-06-05T09:25:00+00:00",
+      "source": "Bank of England News",
+      "score": 5.4,
+      "action_type": "other",
+      "entities": [
+        "Financial Conduct Authority",
+        "Financial Market Infrastructure Joint"
+      ],
+      "dates": [],
+      "key_terms": [
+        "financial conduct authority",
+        "bank of england"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "CMA response to government in relation to childcare provision",
       "summary": "A letter from Sarah Cardell, Chief Executive of the Competition and Markets Authority (CMA), to Bridget Phillipson, Secretary of State for Education.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-06-05T03:54:05.110167+00:00",
+      "published": "2026-06-05T09:53:13.927385+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -633,7 +632,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
       "summary": "The Competition and Markets Authority (CMA) has published its advice to Department for Environment, Food &amp; Rural Affairs (Defra) on the reform of veterinary sector regulation.",
       "url": "https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966",
-      "published": "2026-06-05T03:54:05.110208+00:00",
+      "published": "2026-06-05T09:53:13.927407+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "rulemaking",
@@ -654,7 +653,7 @@ window.SMARTKIT_DATA = {
       "title": "Registering with and reporting your fuel prices to Fuel Finder",
       "summary": "Open letter from the Competition and Markets Authority (CMA) to road fuel retailers.",
       "url": "https://www.gov.uk/government/publications/registering-with-and-reporting-your-fuel-prices-to-fuel-finder",
-      "published": "2026-06-05T03:54:05.110247+00:00",
+      "published": "2026-06-05T09:53:13.927428+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
