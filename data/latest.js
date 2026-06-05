@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-06-05T09:53:15.208025+00:00",
+  "generated_at": "2026-06-05T14:54:02.995115+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -37,33 +37,6 @@ window.SMARTKIT_DATA = {
         "consultation",
         "rule",
         "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA, Bank of England and Treasury joint statement on frontier AI models and cyber resilience",
-      "summary": "Why frontier AI matters for firmsArtificial intelligence (AI) continues to evolve rapidly. Frontier AI models represent a step-change in capability, with significant implications for cyber security and operational resilience.",
-      "url": "https://www.fca.org.uk/news/statements/fca-boe-treasury-joint-statement-frontier-ai-models-cyber-resilience",
-      "published": "Friday, May 15, 2026 - 16:19",
-      "source": "FCA News",
-      "score": 14.4,
-      "action_type": "guidance",
-      "entities": [
-        "The Government",
-        "Cross Market Operational Resilience Group",
-        "Risk Mitigation Webinar",
-        "National Cyber Security Centre"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "bank of england",
-        "data protection",
-        "regulated firm",
-        "financial stability",
-        "guidance",
-        "rule"
       ],
       "extraction_tier": 0
     },
@@ -306,26 +279,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Working together against financial crime",
-      "summary": "Speech by Nikhil Rathi, FCA chief executive at the FCA's financial crime conference.\n\nA new threat landscapeFinancial crime is changing – fast.It’s more technologically enabled. More organised than ever before. And moving at speed.",
-      "url": "https://www.fca.org.uk/news/speeches/working-together-against-financial-crime",
-      "published": "Thursday, May 14, 2026 - 11:00",
-      "source": "FCA News",
-      "score": 8.4,
-      "action_type": "enforcement",
-      "entities": [
-        "Nikhil Rathi"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "enforcement",
-        "sanction",
-        "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "FCA and Bank of England set out shared vision for tokenisation in UK wholesale markets",
       "summary": "The Financial Conduct Authority and the Bank of England set out a shared vision and seek industry views on the future of UK wholesale markets",
       "url": "https://www.bankofengland.co.uk/news/2026/may/fca-and-boe-set-out-shared-vision-for-tokenisation-in-uk-wholesale-markets",
@@ -493,7 +446,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA concludes market investigation with major reforms to veterinary sector",
       "summary": "The CMA has set out its final reforms – which will start coming into force later this year – to help pet owners better navigate the vet services market.",
       "url": "https://www.gov.uk/government/news/cma-concludes-market-investigation-with-major-reforms-to-veterinary-sector",
-      "published": "2026-06-05T09:53:13.927438+00:00",
+      "published": "2026-06-05T14:54:02.186888+00:00",
       "source": "CMA News",
       "score": 7.15,
       "action_type": "other",
@@ -554,7 +507,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-06-05T09:53:13.927382+00:00",
+      "published": "2026-06-05T14:54:02.186787+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -573,7 +526,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders the AA and BSM driving schools to refund learner drivers over drip pricing",
       "summary": "The AA Driving School and BSM Driving School – both of which are owned by the AA – must refund more than 80,000 customers and pay a fine of £4.2 million.",
       "url": "https://www.gov.uk/government/news/cma-orders-the-aa-and-bsm-driving-schools-to-refund-learner-drivers-over-drip-pricing",
-      "published": "2026-06-05T09:53:13.927424+00:00",
+      "published": "2026-06-05T14:54:02.186863+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -611,7 +564,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to government in relation to childcare provision",
       "summary": "A letter from Sarah Cardell, Chief Executive of the Competition and Markets Authority (CMA), to Bridget Phillipson, Secretary of State for Education.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-06-05T09:53:13.927385+00:00",
+      "published": "2026-06-05T14:54:02.186794+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -632,7 +585,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
       "summary": "The Competition and Markets Authority (CMA) has published its advice to Department for Environment, Food &amp; Rural Affairs (Defra) on the reform of veterinary sector regulation.",
       "url": "https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966",
-      "published": "2026-06-05T09:53:13.927407+00:00",
+      "published": "2026-06-05T14:54:02.186833+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "rulemaking",
@@ -653,7 +606,7 @@ window.SMARTKIT_DATA = {
       "title": "Registering with and reporting your fuel prices to Fuel Finder",
       "summary": "Open letter from the Competition and Markets Authority (CMA) to road fuel retailers.",
       "url": "https://www.gov.uk/government/publications/registering-with-and-reporting-your-fuel-prices-to-fuel-finder",
-      "published": "2026-06-05T09:53:13.927428+00:00",
+      "published": "2026-06-05T14:54:02.186869+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -665,6 +618,46 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "competition and markets authority"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Silicon Marketing Limited in administration",
+      "summary": "On 21 May 2026, Silicon Marketing Limited (Silicon) entered administration. Carrie James and Nick Parsk of Oury Clark were appointed as joint administrators.",
+      "url": "https://www.fca.org.uk/news/news-stories/silicon-marketing-limited-administration",
+      "published": "Friday, June 5, 2026 - 11:53",
+      "source": "FCA News",
+      "score": 4.8,
+      "action_type": "settlement",
+      "entities": [
+        "Silicon Marketing Limited",
+        "Carrie James",
+        "Nick Parsk",
+        "Oury Clark",
+        "Firm Reference Number"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "ico"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Bank of England and FCA MoU on supervision of market infrastructure: 2025/26 review",
+      "summary": "The Bank of England has published a joint review with the FCA on how the Memorandum of Understanding (MoU) for financial market infrastructure (FMI) is working.\n\nThe Bank of England and the FCA (the authorities) cooperate on the supervision of FMIs.",
+      "url": "https://www.fca.org.uk/news/statements/bank-england-fca-mou-supervision-market-infrastructure-review-2025-26",
+      "published": "Friday, June 5, 2026 - 10:30",
+      "source": "FCA News",
+      "score": 4.8,
+      "action_type": "other",
+      "entities": [
+        "The Bank"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "bank of england"
       ],
       "extraction_tier": 0
     }
