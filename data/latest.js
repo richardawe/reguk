@@ -1,42 +1,38 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-06-08T04:07:32.406591+00:00",
+  "generated_at": "2026-06-08T10:58:47.544827+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
   "item_count": 30,
   "items": [
     {
-      "title": "FCA and Bank of England set out shared vision for tokenisation in UK wholesale markets",
-      "summary": "UK financial firms can adopt tokenisation and distributed ledger technology (DLT) with greater confidence, as the Financial Conduct Authority (FCA) and the Bank of England set out a shared vision and seek industry views on the future of UK wholesale ",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-and-bank-england-set-out-shared-vision-tokenisation-uk-wholesale-markets",
-      "published": "Monday, May 18, 2026 - 07:00",
+      "title": "Consumers warned about misleading car finance 'money tips' claims ads",
+      "summary": "Consumers are being warned to be wary of misleading car finance 'money tips' adverts issued by claims management companies (CMCs) and law firms on social media.",
+      "url": "https://www.fca.org.uk/news/press-releases/consumers-warned-about-misleading-car-finance-money-tips-claims-ads",
+      "published": "Monday, June 8, 2026 - 08:31",
       "source": "FCA News",
-      "score": 25.8,
+      "score": 15.0,
       "action_type": "enforcement",
       "entities": [
-        "Financial Conduct Authority",
-        "Simon Walls",
-        "Sarah Breeden",
-        "The Bank",
-        "The Prudential Regulation Authority",
-        "Digital Securities Sandbox"
+        "Martin Lewis",
+        "Money Savings Expert",
+        "Alison Walters",
+        "Information Commissioner",
+        "Claims Management Ombudsman",
+        "Solicitors Regulation Authority",
+        "Legal Ombudsman",
+        "The Claims Protection Agency Limited",
+        "Consultation Claims Limited"
       ],
       "dates": [],
       "key_terms": [
         "fca",
         "pra",
-        "financial conduct authority",
-        "prudential regulation authority",
-        "bank of england",
-        "hm treasury",
-        "prudential",
-        "financial stability",
-        "settlement",
-        "compliance",
-        "guidance",
-        "consultation",
-        "rule",
-        "order"
+        "information commissioner",
+        "enforcement",
+        "investigation",
+        "compensation",
+        "consultation"
       ],
       "extraction_tier": 0
     },
@@ -85,6 +81,37 @@ window.SMARTKIT_DATA = {
         "prudential",
         "penalty",
         "fine"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "FCA secures confiscation order against Ponzi scheme fraudster",
+      "summary": "The FCA has secured a confiscation order of £452,286.80 against convicted fraudster Daniel Pugh.\n\nMr Pugh, 36, is serving a 7 years and 6 months prison sentence for defrauding investors out of £1.3m.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-secures-confiscation-order-against-ponzi-scheme-fraudster",
+      "published": "Monday, June 8, 2026 - 12:11",
+      "source": "FCA News",
+      "score": 11.4,
+      "action_type": "enforcement",
+      "entities": [
+        "Daniel Pugh",
+        "Mr Pugh",
+        "Southwark Crown Court",
+        "Steve Smart",
+        "If Mr Pugh",
+        "Financial Conduct Authority",
+        "Unauthorised Business Department",
+        "Operation Haines Case Team",
+        "Endeavour Square",
+        "Crime Act"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "financial conduct authority",
+        "enforcement",
+        "compensation",
+        "final",
+        "order"
       ],
       "extraction_tier": 0
     },
@@ -256,29 +283,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Our response to the Treasury’s policy statement on Consumer Credit Act reform",
-      "summary": "The Treasury has published its policy statement today on reform of the Consumer Credit Act 1974 (CCA).",
-      "url": "https://www.fca.org.uk/news/statements/our-response-treasurys-policy-statement-consumer-credit-act-reform",
-      "published": "Monday, May 18, 2026 - 13:10",
-      "source": "FCA News",
-      "score": 8.4,
-      "action_type": "guidance",
-      "entities": [
-        "Consumer Credit Act",
-        "The Treasury",
-        "Consumer Duty"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "consumer duty",
-        "settlement",
-        "guidance",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "FCA and Bank of England set out shared vision for tokenisation in UK wholesale markets",
       "summary": "The Financial Conduct Authority and the Bank of England set out a shared vision and seek industry views on the future of UK wholesale markets",
       "url": "https://www.bankofengland.co.uk/news/2026/may/fca-and-boe-set-out-shared-vision-for-tokenisation-in-uk-wholesale-markets",
@@ -381,25 +385,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Is the claims management market working?",
-      "summary": "When consumers are wronged, many rightly seek fair compensation. Some complain directly, without paying a penny using free Ombudsman services. Others turn to claims management companies (CMCs) or law firms.",
-      "url": "https://www.fca.org.uk/news/blogs/claims-management-market-working",
-      "published": "Tuesday, May 19, 2026 - 10:32",
-      "source": "FCA News",
-      "score": 7.2,
-      "action_type": "other",
-      "entities": [
-        "Information Commissioner"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "information commissioner",
-        "compensation"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "PRA publishes plans to support resilience in the life insurance industry",
       "summary": "Funded reinsurance transactions involving UK life insurers will face enhanced regulatory requirements under new proposals unveiled today by the Prudential Regulation Authority (PRA).",
       "url": "https://www.bankofengland.co.uk/news/2026/april/pra-publishes-plans-to-support-resilience-in-the-life-insurance-industry",
@@ -446,7 +431,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA concludes market investigation with major reforms to veterinary sector",
       "summary": "The CMA has set out its final reforms – which will start coming into force later this year – to help pet owners better navigate the vet services market.",
       "url": "https://www.gov.uk/government/news/cma-concludes-market-investigation-with-major-reforms-to-veterinary-sector",
-      "published": "2026-06-08T04:07:30.471256+00:00",
+      "published": "2026-06-08T10:58:46.351261+00:00",
       "source": "CMA News",
       "score": 7.15,
       "action_type": "other",
@@ -507,7 +492,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-06-08T04:07:30.471151+00:00",
+      "published": "2026-06-08T10:58:46.351154+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -526,7 +511,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders the AA and BSM driving schools to refund learner drivers over drip pricing",
       "summary": "The AA Driving School and BSM Driving School – both of which are owned by the AA – must refund more than 80,000 customers and pay a fine of £4.2 million.",
       "url": "https://www.gov.uk/government/news/cma-orders-the-aa-and-bsm-driving-schools-to-refund-learner-drivers-over-drip-pricing",
-      "published": "2026-06-08T04:07:30.471230+00:00",
+      "published": "2026-06-08T10:58:46.351236+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -564,7 +549,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to government in relation to childcare provision",
       "summary": "A letter from Sarah Cardell, Chief Executive of the Competition and Markets Authority (CMA), to Bridget Phillipson, Secretary of State for Education.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-06-08T04:07:30.471158+00:00",
+      "published": "2026-06-08T10:58:46.351161+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -585,7 +570,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
       "summary": "The Competition and Markets Authority (CMA) has published its advice to Department for Environment, Food &amp; Rural Affairs (Defra) on the reform of veterinary sector regulation.",
       "url": "https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966",
-      "published": "2026-06-08T04:07:30.471198+00:00",
+      "published": "2026-06-08T10:58:46.351201+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "rulemaking",
@@ -606,7 +591,7 @@ window.SMARTKIT_DATA = {
       "title": "Registering with and reporting your fuel prices to Fuel Finder",
       "summary": "Open letter from the Competition and Markets Authority (CMA) to road fuel retailers.",
       "url": "https://www.gov.uk/government/publications/registering-with-and-reporting-your-fuel-prices-to-fuel-finder",
-      "published": "2026-06-08T04:07:30.471236+00:00",
+      "published": "2026-06-08T10:58:46.351242+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -618,6 +603,26 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "competition and markets authority"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "AI in financial services: shaping our approach through industry engagement",
+      "summary": "Firms are using AI to drive efficiency, support decision-making and deliver better outcomes for consumers and markets. We want to support that innovation. But it must be safe, responsible and well governed.",
+      "url": "https://www.fca.org.uk/news/blogs/ai-financial-services-approach",
+      "published": "Monday, June 8, 2026 - 09:07",
+      "source": "FCA News",
+      "score": 4.8,
+      "action_type": "rulemaking",
+      "entities": [
+        "Consumer Duty",
+        "Senior Managers",
+        "Certification Regime"
+      ],
+      "dates": [],
+      "key_terms": [
+        "pra",
+        "consumer duty"
       ],
       "extraction_tier": 0
     },
