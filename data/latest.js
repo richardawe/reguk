@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-06-09T03:37:18.085070+00:00",
+  "generated_at": "2026-06-09T09:49:51.711709+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -236,6 +236,32 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "FCA proposes changes to help more people access mortgages",
+      "summary": "First-time buyers, older borrowers and the self-employed could find it easier to get a mortgage, as the FCA sets out next steps to help reform the market.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-proposals-help-more-access-mortgages",
+      "published": "Tuesday, June 9, 2026 - 10:02",
+      "source": "FCA News",
+      "score": 8.4,
+      "action_type": "guidance",
+      "entities": [
+        "David Geale",
+        "In December",
+        "Consumer Duty",
+        "Consultation Paper",
+        "Mortgage Rule Review"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "consumer duty",
+        "guidance",
+        "consultation",
+        "proposed",
+        "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "Firms have improved but must do more to prevent sanctions breaches",
       "summary": "Financial firms have made progress in preventing sanctions breaches – with £37bn worth of assets frozen in the UK as of last year – but gaps remain, warns the FCA.",
       "url": "https://www.fca.org.uk/news/press-releases/firms-have-improved-must-do-more-prevent-sanctions-breaches",
@@ -409,7 +435,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA concludes market investigation with major reforms to veterinary sector",
       "summary": "The CMA has set out its final reforms – which will start coming into force later this year – to help pet owners better navigate the vet services market.",
       "url": "https://www.gov.uk/government/news/cma-concludes-market-investigation-with-major-reforms-to-veterinary-sector",
-      "published": "2026-06-09T03:37:16.961653+00:00",
+      "published": "2026-06-09T09:49:50.760857+00:00",
       "source": "CMA News",
       "score": 7.15,
       "action_type": "other",
@@ -424,30 +450,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Vacancies open for FCA Smaller Business Practitioner Panel",
-      "summary": "We’re inviting applications from senior practitioners at smaller regulated firms in the general insurance and consumer credit sectors to join the panel.",
-      "url": "https://www.fca.org.uk/news/news-stories/vacancies-open-fca-smaller-business-practitioner-panel",
-      "published": "Wednesday, May 27, 2026 - 10:00",
-      "source": "FCA News",
-      "score": 6.6,
-      "action_type": "rulemaking",
-      "entities": [
-        "Smaller Business Practitioner Panel We",
-        "The Smaller Business Practitioner Panel"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "regulated firm"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-06-09T03:37:16.961548+00:00",
+      "published": "2026-06-09T09:49:50.760755+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -466,7 +472,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders the AA and BSM driving schools to refund learner drivers over drip pricing",
       "summary": "The AA Driving School and BSM Driving School – both of which are owned by the AA – must refund more than 80,000 customers and pay a fine of £4.2 million.",
       "url": "https://www.gov.uk/government/news/cma-orders-the-aa-and-bsm-driving-schools-to-refund-learner-drivers-over-drip-pricing",
-      "published": "2026-06-09T03:37:16.961627+00:00",
+      "published": "2026-06-09T09:49:50.760832+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -504,7 +510,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to government in relation to childcare provision",
       "summary": "A letter from Sarah Cardell, Chief Executive of the Competition and Markets Authority (CMA), to Bridget Phillipson, Secretary of State for Education.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-06-09T03:37:16.961554+00:00",
+      "published": "2026-06-09T09:49:50.760761+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -525,7 +531,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
       "summary": "The Competition and Markets Authority (CMA) has published its advice to Department for Environment, Food &amp; Rural Affairs (Defra) on the reform of veterinary sector regulation.",
       "url": "https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966",
-      "published": "2026-06-09T03:37:16.961595+00:00",
+      "published": "2026-06-09T09:49:50.760801+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "rulemaking",
@@ -546,7 +552,7 @@ window.SMARTKIT_DATA = {
       "title": "Registering with and reporting your fuel prices to Fuel Finder",
       "summary": "Open letter from the Competition and Markets Authority (CMA) to road fuel retailers.",
       "url": "https://www.gov.uk/government/publications/registering-with-and-reporting-your-fuel-prices-to-fuel-finder",
-      "published": "2026-06-09T03:37:16.961634+00:00",
+      "published": "2026-06-09T09:49:50.760838+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -641,22 +647,20 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "FCA update on reforms to the UK Money Market Fund Regulation",
-      "summary": "We set out next steps on issuing new rules and guidance on Money Market Funds (MMFs), following Government plans to replace the current rules.",
-      "url": "https://www.fca.org.uk/news/statements/reforms-uk-money-market-fund-regulation",
-      "published": "Monday, June 8, 2026 - 13:04",
+      "title": "Opening the door to mortgages: rules focused on better outcomes for people",
+      "summary": "Buying a home is different now to even a decade ago.People are living longer, the way they work has changed and, for many, how much they earn can vary month-to-month.",
+      "url": "https://www.fca.org.uk/news/blogs/opening-door-mortgages-rules-focused-better-outcomes-people",
+      "published": "Tuesday, June 9, 2026 - 10:03",
       "source": "FCA News",
       "score": 4.2,
       "action_type": "rulemaking",
       "entities": [
-        "Money Market Fund Regulation We",
-        "Money Market Funds",
-        "Money Market Funds Regulation"
+        "Consumer Duty"
       ],
       "dates": [],
       "key_terms": [
-        "fca",
-        "guidance",
+        "consumer duty",
+        "consultation",
         "rule"
       ],
       "extraction_tier": 0
