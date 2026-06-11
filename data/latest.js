@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-06-11T10:27:53.202405+00:00",
+  "generated_at": "2026-06-11T16:04:22.126490+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -262,30 +262,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Firms have improved but must do more to prevent sanctions breaches",
-      "summary": "Financial firms have made progress in preventing sanctions breaches – with £37bn worth of assets frozen in the UK as of last year – but gaps remain, warns the FCA.",
-      "url": "https://www.fca.org.uk/news/press-releases/firms-have-improved-must-do-more-prevent-sanctions-breaches",
-      "published": "Thursday, May 28, 2026 - 12:01",
-      "source": "FCA News",
-      "score": 8.4,
-      "action_type": "enforcement",
-      "entities": [
-        "The Office",
-        "Financial Sanctions Implementation",
-        "Trade Sanctions Implementation",
-        "Since February",
-        "North Korea"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "sanction",
-        "compliance"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "FCA and Bank of England set out shared vision for tokenisation in UK wholesale markets",
       "summary": "The Financial Conduct Authority and the Bank of England set out a shared vision and seek industry views on the future of UK wholesale markets",
       "url": "https://www.bankofengland.co.uk/news/2026/may/fca-and-boe-set-out-shared-vision-for-tokenisation-in-uk-wholesale-markets",
@@ -346,26 +322,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Regulators announce first firms to join Scale-up Unit",
-      "summary": "The Prudential Regulation Authority and Financial Conduct Authority have announced the first cohort of banks and building societies to benefit from their joint Scale-up Unit.",
-      "url": "https://www.bankofengland.co.uk/news/2026/february/regulators-announce-first-firms-to-join-scale-up-unit",
-      "published": "2026-02-03T10:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 7.8,
-      "action_type": "rulemaking",
-      "entities": [
-        "Unit The Prudential Regulation Authority",
-        "Financial Conduct Authority"
-      ],
-      "dates": [],
-      "key_terms": [
-        "financial conduct authority",
-        "prudential regulation authority",
-        "prudential"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "PRA publishes plans to support resilience in the life insurance industry",
       "summary": "Funded reinsurance transactions involving UK life insurers will face enhanced regulatory requirements under new proposals unveiled today by the Prudential Regulation Authority (PRA).",
       "url": "https://www.bankofengland.co.uk/news/2026/april/pra-publishes-plans-to-support-resilience-in-the-life-insurance-industry",
@@ -412,7 +368,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA concludes market investigation with major reforms to veterinary sector",
       "summary": "The CMA has set out its final reforms – which will start coming into force later this year – to help pet owners better navigate the vet services market.",
       "url": "https://www.gov.uk/government/news/cma-concludes-market-investigation-with-major-reforms-to-veterinary-sector",
-      "published": "2026-06-11T10:27:51.501699+00:00",
+      "published": "2026-06-11T16:04:20.855311+00:00",
       "source": "CMA News",
       "score": 7.15,
       "action_type": "other",
@@ -430,7 +386,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-06-11T10:27:51.501597+00:00",
+      "published": "2026-06-11T16:04:20.855205+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -449,7 +405,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders the AA and BSM driving schools to refund learner drivers over drip pricing",
       "summary": "The AA Driving School and BSM Driving School – both of which are owned by the AA – must refund more than 80,000 customers and pay a fine of £4.2 million.",
       "url": "https://www.gov.uk/government/news/cma-orders-the-aa-and-bsm-driving-schools-to-refund-learner-drivers-over-drip-pricing",
-      "published": "2026-06-11T10:27:51.501674+00:00",
+      "published": "2026-06-11T16:04:20.855286+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -487,7 +443,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to government in relation to childcare provision",
       "summary": "A letter from Sarah Cardell, Chief Executive of the Competition and Markets Authority (CMA), to Bridget Phillipson, Secretary of State for Education.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-06-11T10:27:51.501603+00:00",
+      "published": "2026-06-11T16:04:20.855212+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -508,7 +464,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
       "summary": "The Competition and Markets Authority (CMA) has published its advice to Department for Environment, Food &amp; Rural Affairs (Defra) on the reform of veterinary sector regulation.",
       "url": "https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966",
-      "published": "2026-06-11T10:27:51.501642+00:00",
+      "published": "2026-06-11T16:04:20.855252+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "rulemaking",
@@ -529,7 +485,7 @@ window.SMARTKIT_DATA = {
       "title": "Registering with and reporting your fuel prices to Fuel Finder",
       "summary": "Open letter from the Competition and Markets Authority (CMA) to road fuel retailers.",
       "url": "https://www.gov.uk/government/publications/registering-with-and-reporting-your-fuel-prices-to-fuel-finder",
-      "published": "2026-06-11T10:27:51.501680+00:00",
+      "published": "2026-06-11T16:04:20.855292+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -657,6 +613,50 @@ window.SMARTKIT_DATA = {
         "consumer duty",
         "consultation",
         "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "FCA update on reforms to the UK Money Market Fund Regulation",
+      "summary": "We set out next steps on issuing new rules and guidance on Money Market Funds (MMFs), following Government plans to replace the current rules.",
+      "url": "https://www.fca.org.uk/news/statements/reforms-uk-money-market-fund-regulation",
+      "published": "Monday, June 8, 2026 - 13:04",
+      "source": "FCA News",
+      "score": 4.2,
+      "action_type": "rulemaking",
+      "entities": [
+        "Money Market Fund Regulation We",
+        "Money Market Funds",
+        "Money Market Funds Regulation"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "guidance",
+        "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Football clubs warned about questionable sponsorship deals with unauthorised financial firms",
+      "summary": "Football clubs have been warned not to put their fans’ cash at risk by signing sponsorship deals with financial firms that aren't allowed to operate in the UK.",
+      "url": "https://www.fca.org.uk/news/press-releases/football-clubs-warned-questionable-sponsorship-deals-unauthorised-firms",
+      "published": "Wednesday, June 3, 2026 - 10:34",
+      "source": "FCA News",
+      "score": 4.2,
+      "action_type": "other",
+      "entities": [
+        "Premier League",
+        "Lucy Castledine",
+        "Firm Checker",
+        "Independent Football Regulator",
+        "Warning List",
+        "Sports Minister Stephanie Peacock"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "authorised firm"
       ],
       "extraction_tier": 0
     }
