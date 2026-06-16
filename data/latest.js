@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-06-16T04:17:14.572261+00:00",
+  "generated_at": "2026-06-16T11:12:33.635610+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -209,33 +209,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Court approves distribution of money recovered from Argento Wealth",
-      "summary": "In its 19 May 2026 judgment, the High Court approved pro rata distribution to eligible investors of money recovered by the FCA from Argento Wealth Limited (AWL). Eligible investors must act by 1 August 2026.",
-      "url": "https://www.fca.org.uk/news/news-stories/court-approves-distribution-money-recovered-argento-wealth",
-      "published": "Friday, May 29, 2026 - 17:51",
-      "source": "FCA News",
-      "score": 9.0,
-      "action_type": "enforcement",
-      "entities": [
-        "Argento Wealth In",
-        "High Court",
-        "Argento Wealth Limited",
-        "Loan Scheme",
-        "Fund Limited",
-        "Unauthorised Business Department",
-        "Financial Conduct Authority",
-        "Endeavour Square"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "financial conduct authority",
-        "fine",
-        "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "FCA proposes changes to help more people access mortgages",
       "summary": "First-time buyers, older borrowers and the self-employed could find it easier to get a mortgage, as the FCA sets out next steps to help reform the market.",
       "url": "https://www.fca.org.uk/news/press-releases/fca-proposals-help-more-access-mortgages",
@@ -368,7 +341,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-06-16T04:17:13.967365+00:00",
+      "published": "2026-06-16T11:12:31.446668+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -387,7 +360,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders the AA and BSM driving schools to refund learner drivers over drip pricing",
       "summary": "The AA Driving School and BSM Driving School – both of which are owned by the AA – must refund more than 80,000 customers and pay a fine of £4.2 million.",
       "url": "https://www.gov.uk/government/news/cma-orders-the-aa-and-bsm-driving-schools-to-refund-learner-drivers-over-drip-pricing",
-      "published": "2026-06-16T04:17:13.967444+00:00",
+      "published": "2026-06-16T11:12:31.446744+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -425,7 +398,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to government in relation to childcare provision",
       "summary": "A letter from Sarah Cardell, Chief Executive of the Competition and Markets Authority (CMA), to Bridget Phillipson, Secretary of State for Education.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-06-16T04:17:13.967372+00:00",
+      "published": "2026-06-16T11:12:31.446674+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -446,7 +419,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
       "summary": "The Competition and Markets Authority (CMA) has published its advice to Department for Environment, Food &amp; Rural Affairs (Defra) on the reform of veterinary sector regulation.",
       "url": "https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966",
-      "published": "2026-06-16T04:17:13.967410+00:00",
+      "published": "2026-06-16T11:12:31.446712+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "rulemaking",
@@ -467,7 +440,7 @@ window.SMARTKIT_DATA = {
       "title": "Registering with and reporting your fuel prices to Fuel Finder",
       "summary": "Open letter from the Competition and Markets Authority (CMA) to road fuel retailers.",
       "url": "https://www.gov.uk/government/publications/registering-with-and-reporting-your-fuel-prices-to-fuel-finder",
-      "published": "2026-06-16T04:17:13.967450+00:00",
+      "published": "2026-06-16T11:12:31.446750+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -479,6 +452,25 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "competition and markets authority"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Later life lending: building the fourth retirement pillar",
+      "summary": "Speech by Emad Aladhal, director of retail banking at the Later Life Lending Summit.\n\nIntroductionIn the years ahead, housing wealth will become an increasing part of how many people provide for their retirement.",
+      "url": "https://www.fca.org.uk/news/speeches/later-life-lending-building-fourth-retirement-pillar",
+      "published": "Tuesday, June 16, 2026 - 11:30",
+      "source": "FCA News",
+      "score": 4.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Emad Aladhal",
+        "Later Life Lending Summit"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "fine"
       ],
       "extraction_tier": 0
     },
@@ -583,7 +575,7 @@ window.SMARTKIT_DATA = {
       "title": "Next steps for veterinary services for household pets: what the CMA's remedies mean in practice",
       "summary": "A speech by Martin Coleman, Non-Executive Director and Panel Chair, delivered at BVA Live 2026.",
       "url": "https://www.gov.uk/government/speeches/next-steps-for-veterinary-services-for-household-pets-what-the-cmas-remedies-mean-in-practice",
-      "published": "2026-06-16T04:17:13.967316+00:00",
+      "published": "2026-06-16T11:12:31.446642+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "other",
