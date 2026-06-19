@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-06-19T10:28:00.851470+00:00",
+  "generated_at": "2026-06-19T15:20:36.422170+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -385,7 +385,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-06-19T10:27:59.828980+00:00",
+      "published": "2026-06-19T15:20:34.424829+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -404,31 +404,12 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-06-19T10:27:59.828915+00:00",
+      "published": "2026-06-19T15:20:34.424780+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
       "entities": [
         "Marks Electrical"
-      ],
-      "dates": [],
-      "key_terms": [
-        "cma",
-        "fine",
-        "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "CMA orders the AA and BSM driving schools to refund learner drivers over drip pricing",
-      "summary": "The AA Driving School and BSM Driving School – both of which are owned by the AA – must refund more than 80,000 customers and pay a fine of £4.2 million.",
-      "url": "https://www.gov.uk/government/news/cma-orders-the-aa-and-bsm-driving-schools-to-refund-learner-drivers-over-drip-pricing",
-      "published": "2026-06-19T10:27:59.829069+00:00",
-      "source": "CMA News",
-      "score": 5.5,
-      "action_type": "enforcement",
-      "entities": [
-        "Driving School"
       ],
       "dates": [],
       "key_terms": [
@@ -461,7 +442,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to government in relation to childcare provision",
       "summary": "A letter from Sarah Cardell, Chief Executive of the Competition and Markets Authority (CMA), to Bridget Phillipson, Secretary of State for Education.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-06-19T10:27:59.828987+00:00",
+      "published": "2026-06-19T15:20:34.424836+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -482,7 +463,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
       "summary": "The Competition and Markets Authority (CMA) has published its advice to Department for Environment, Food &amp; Rural Affairs (Defra) on the reform of veterinary sector regulation.",
       "url": "https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966",
-      "published": "2026-06-19T10:27:59.829025+00:00",
+      "published": "2026-06-19T15:20:34.424874+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "rulemaking",
@@ -616,10 +597,29 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "Tribunal was “wrong” to reject CMA phenytoin decision, says Court",
+      "summary": "The Court of Appeal has ruled the Tribunal was “wrong to set aside the [CMA’s] decision” in relation to its investigation into phenytoin – a life-saving epilepsy drug.",
+      "url": "https://www.gov.uk/government/news/tribunal-was-wrong-to-reject-cma-phenytoin-decision-says-court",
+      "published": "2026-06-19T15:20:34.424756+00:00",
+      "source": "CMA News",
+      "score": 4.4,
+      "action_type": "other",
+      "entities": [
+        "Court The Court"
+      ],
+      "dates": [],
+      "key_terms": [
+        "cma",
+        "investigation",
+        "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "Next steps for veterinary services for household pets: what the CMA's remedies mean in practice",
       "summary": "A speech by Martin Coleman, Non-Executive Director and Panel Chair, delivered at BVA Live 2026.",
       "url": "https://www.gov.uk/government/speeches/next-steps-for-veterinary-services-for-household-pets-what-the-cmas-remedies-mean-in-practice",
-      "published": "2026-06-19T10:27:59.828954+00:00",
+      "published": "2026-06-19T15:20:34.424803+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "other",
