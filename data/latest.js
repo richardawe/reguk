@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-06-22T04:21:37.049557+00:00",
+  "generated_at": "2026-06-22T11:57:13.669611+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -37,54 +37,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "FCA launches investigation into second motor finance claims management company",
-      "summary": "The FCA has opened an enforcement investigation into Consultation Claims Limited (CCL) following concerns about its conduct in the period April 2025 to December 2025 in relation to motor finance claims.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-launches-investigation-second-motor-finance-claims-management-company",
-      "published": "Thursday, June 4, 2026 - 09:07",
-      "source": "FCA News",
-      "score": 12.6,
-      "action_type": "enforcement",
-      "entities": [
-        "Consultation Claims Limited",
-        "Claims Management Ombudsman",
-        "Solicitors Regulation Authority",
-        "Legal Ombudsman",
-        "Voluntary Requirement"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "ico",
-        "enforcement",
-        "investigation",
-        "consultation"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "PRA fines U K Insurance Limited £10,625,000",
-      "summary": "The Prudential Regulation Authority (PRA) has imposed a financial penalty of £10,625,000 on U K Insurance Limited (UKI Limited) in connection with a miscalculation of their Solvency II balance sheet during 2023 and 2024.",
-      "url": "https://www.bankofengland.co.uk/news/2026/march/pra-fines-uk-insurance-limited",
-      "published": "2026-03-11T10:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 12.0,
-      "action_type": "enforcement",
-      "entities": [
-        "Insurance Limited",
-        "The Prudential Regulation Authority"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "prudential regulation authority",
-        "prudential",
-        "penalty",
-        "fine"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "FCA secures confiscation order against Ponzi scheme fraudster",
       "summary": "The FCA has secured a confiscation order of £452,286.80 against convicted fraudster Daniel Pugh.\n\nMr Pugh, 36, is serving a 7 years and 6 months prison sentence for defrauding investors out of £1.3m.",
       "url": "https://www.fca.org.uk/news/press-releases/fca-secures-confiscation-order-against-ponzi-scheme-fraudster",
@@ -116,19 +68,20 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Simpler climate reporting rules could save firms £20m annually",
-      "summary": "Investment firms could save around £20m a year under new proposals from the FCA to simplify climate reporting for investment products.",
-      "url": "https://www.fca.org.uk/news/press-releases/simpler-climate-reporting-rules-could-save-firms-20m-annually",
-      "published": "Friday, June 5, 2026 - 08:39",
+      "title": "FCA consults on proposals to support strong, consistent standards in the SIPP market",
+      "summary": "The FCA has set out plans to drive greater consistency of standards in self-invested pensions (SIPPs), while maintaining the flexibility and broad investment choice they offer.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-consults-proposals-support-strong-consistent-standards-sipp-market",
+      "published": "Monday, June 22, 2026 - 11:37",
       "source": "FCA News",
-      "score": 10.2,
-      "action_type": "rulemaking",
+      "score": 9.6,
+      "action_type": "other",
       "entities": [
-        "Task Force",
-        "Financial Disclosures",
         "Consumer Duty",
-        "Michelle Beck",
-        "Sustainability Disclosure Requirements"
+        "Charlotte Clark",
+        "Consultation Paper",
+        "Pensions Regulatory Priorities",
+        "Regulatory Priorities",
+        "Discussion Paper"
       ],
       "dates": [],
       "key_terms": [
@@ -137,7 +90,6 @@ window.SMARTKIT_DATA = {
         "consumer duty",
         "consultation",
         "proposed",
-        "final",
         "rule"
       ],
       "extraction_tier": 0
@@ -342,6 +294,36 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "Investors get real-time view of UK bond market activity for the first time",
+      "summary": "For the first time, investors and market participants can access a single, real-time source of prices and trading activity across the UK bond market, following the launch of its bond consolidated tape, operated by ETS Connect UK.",
+      "url": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
+      "published": "Monday, June 22, 2026 - 05:00",
+      "source": "FCA News",
+      "score": 7.2,
+      "action_type": "other",
+      "entities": [
+        "North America",
+        "Simon Walls",
+        "David Raw",
+        "Managing Director",
+        "Bryan Pascoe",
+        "International Capital Market Association",
+        "Consultative Committee",
+        "Victoria Webster",
+        "Fixed Income",
+        "Financial Markets"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "cma",
+        "consultation",
+        "final",
+        "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "FCA closes investigation into Drax Group PLC",
       "summary": "Drax Group PLC (Drax) has announced the FCA has closed its investigation into the company.We undertook an extensive investigation following concerns raised regarding disclosures to the market about the sustainability of Drax’s Canadian biomass.",
       "url": "https://www.fca.org.uk/news/statements/fca-closes-investigation-drax-group-plc",
@@ -385,7 +367,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-06-22T04:21:36.337740+00:00",
+      "published": "2026-06-22T11:57:13.061081+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -404,7 +386,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-06-22T04:21:36.337692+00:00",
+      "published": "2026-06-22T11:57:13.061032+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -416,6 +398,25 @@ window.SMARTKIT_DATA = {
         "cma",
         "fine",
         "order"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Bank of England launches policy statement and draft rules on regulating systemic stablecoins",
+      "summary": "The Bank of England has today published its policy statement and draft Code of Practice (rules) for systemic stablecoin issuers.",
+      "url": "https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins",
+      "published": "2026-06-22T07:30:00+00:00",
+      "source": "Bank of England News",
+      "score": 5.4,
+      "action_type": "other",
+      "entities": [
+        "The Bank"
+      ],
+      "dates": [],
+      "key_terms": [
+        "pra",
+        "bank of england",
+        "rule"
       ],
       "extraction_tier": 0
     },
@@ -442,7 +443,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to government in relation to childcare provision",
       "summary": "A letter from Sarah Cardell, Chief Executive of the Competition and Markets Authority (CMA), to Bridget Phillipson, Secretary of State for Education.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-06-22T04:21:36.337747+00:00",
+      "published": "2026-06-22T11:57:13.061087+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -463,7 +464,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
       "summary": "The Competition and Markets Authority (CMA) has published its advice to Department for Environment, Food &amp; Rural Affairs (Defra) on the reform of veterinary sector regulation.",
       "url": "https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966",
-      "published": "2026-06-22T04:21:36.337785+00:00",
+      "published": "2026-06-22T11:57:13.061125+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "rulemaking",
@@ -600,7 +601,7 @@ window.SMARTKIT_DATA = {
       "title": "Tribunal was “wrong” to reject CMA phenytoin decision, says Court",
       "summary": "The Court of Appeal has ruled the Tribunal was “wrong to set aside the [CMA’s] decision” in relation to its investigation into phenytoin – a life-saving epilepsy drug.",
       "url": "https://www.gov.uk/government/news/tribunal-was-wrong-to-reject-cma-phenytoin-decision-says-court",
-      "published": "2026-06-22T04:21:36.337665+00:00",
+      "published": "2026-06-22T11:57:13.061006+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "other",
@@ -619,7 +620,7 @@ window.SMARTKIT_DATA = {
       "title": "Next steps for veterinary services for household pets: what the CMA's remedies mean in practice",
       "summary": "A speech by Martin Coleman, Non-Executive Director and Panel Chair, delivered at BVA Live 2026.",
       "url": "https://www.gov.uk/government/speeches/next-steps-for-veterinary-services-for-household-pets-what-the-cmas-remedies-mean-in-practice",
-      "published": "2026-06-22T04:21:36.337713+00:00",
+      "published": "2026-06-22T11:57:13.061054+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "other",
