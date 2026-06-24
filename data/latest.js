@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-06-24T09:32:06.835683+00:00",
+  "generated_at": "2026-06-24T14:32:53.597458+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -140,23 +140,27 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "PRA publishes liquidity reform proposals",
-      "summary": "The Prudential Regulation Authority has today published proposals aimed at ensuring banks can monetise liquid assets quickly in a fast-paced stress event – such as the collapse of Silicon Valley Bank in 2023.",
-      "url": "https://www.bankofengland.co.uk/news/2026/march/pra-publishes-liquidity-reform-proposals",
-      "published": "2026-03-17T11:30:00+00:00",
-      "source": "Bank of England News",
-      "score": 9.6,
-      "action_type": "rulemaking",
+      "title": "Commodity traders offer £1m to crisis fund after FCA competition probe",
+      "summary": "The FCA is concerned 11 traders may have shared sensitive information or coordinated trades, potentially restricting competition.",
+      "url": "https://www.fca.org.uk/news/press-releases/commodity-traders-offer-one-million-pounds-crisis-fund-fca-competition-probe",
+      "published": "Wednesday, June 24, 2026 - 12:02",
+      "source": "FCA News",
+      "score": 9.0,
+      "action_type": "enforcement",
       "entities": [
-        "The Prudential Regulation Authority",
-        "Silicon Valley Bank"
+        "Resilience Fund",
+        "Graeme Reynolds",
+        "Accept Commitments",
+        "Competition Act"
       ],
       "dates": [],
       "key_terms": [
-        "pra",
-        "ico",
-        "prudential regulation authority",
-        "prudential"
+        "fca",
+        "penalty",
+        "investigation",
+        "consultation",
+        "proposed",
+        "final"
       ],
       "extraction_tier": 0
     },
@@ -367,7 +371,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-06-24T09:32:05.937353+00:00",
+      "published": "2026-06-24T14:32:52.745712+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -386,7 +390,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-06-24T09:32:05.937275+00:00",
+      "published": "2026-06-24T14:32:52.745629+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -403,7 +407,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-06-24T09:32:05.937307+00:00",
+      "published": "2026-06-24T14:32:52.745666+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -460,7 +464,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to government in relation to childcare provision",
       "summary": "A letter from Sarah Cardell, Chief Executive of the Competition and Markets Authority (CMA), to Bridget Phillipson, Secretary of State for Education.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-06-24T09:32:05.937359+00:00",
+      "published": "2026-06-24T14:32:52.745718+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -481,7 +485,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
       "summary": "The Competition and Markets Authority (CMA) has published its advice to Department for Environment, Food &amp; Rural Affairs (Defra) on the reform of veterinary sector regulation.",
       "url": "https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966",
-      "published": "2026-06-24T09:32:05.937398+00:00",
+      "published": "2026-06-24T14:32:52.745756+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "rulemaking",
@@ -556,46 +560,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Silicon Marketing Limited in administration",
-      "summary": "On 21 May 2026, Silicon Marketing Limited (Silicon) entered administration. Carrie James and Nick Parsk of Oury Clark were appointed as joint administrators.",
-      "url": "https://www.fca.org.uk/news/news-stories/silicon-marketing-limited-administration",
-      "published": "Friday, June 5, 2026 - 11:53",
-      "source": "FCA News",
-      "score": 4.8,
-      "action_type": "settlement",
-      "entities": [
-        "Silicon Marketing Limited",
-        "Carrie James",
-        "Nick Parsk",
-        "Oury Clark",
-        "Firm Reference Number"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "ico"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Bank of England and FCA MoU on supervision of market infrastructure: 2025/26 review",
-      "summary": "The Bank of England has published a joint review with the FCA on how the Memorandum of Understanding (MoU) for financial market infrastructure (FMI) is working.\n\nThe Bank of England and the FCA (the authorities) cooperate on the supervision of FMIs.",
-      "url": "https://www.fca.org.uk/news/statements/bank-england-fca-mou-supervision-market-infrastructure-review-2025-26",
-      "published": "Friday, June 5, 2026 - 10:30",
-      "source": "FCA News",
-      "score": 4.8,
-      "action_type": "other",
-      "entities": [
-        "The Bank"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "bank of england"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "FCA and PRA confirm changes to streamline senior manager accountability and boost growth",
       "summary": "The PRA and FCA have set out reforms to the Senior Managers and Certification Regime, designed to reduce costs and offer greater flexibility.",
       "url": "https://www.bankofengland.co.uk/news/2026/april/fca-and-pra-confirm-changes-to-streamline-senior-manager-accountability-and-boost-growth",
@@ -618,7 +582,7 @@ window.SMARTKIT_DATA = {
       "title": "Tribunal was “wrong” to reject CMA phenytoin decision, says Court",
       "summary": "The Court of Appeal has ruled the Tribunal was “wrong to set aside the [CMA’s] decision” in relation to its investigation into phenytoin – a life-saving epilepsy drug.",
       "url": "https://www.gov.uk/government/news/tribunal-was-wrong-to-reject-cma-phenytoin-decision-says-court",
-      "published": "2026-06-24T09:32:05.937299+00:00",
+      "published": "2026-06-24T14:32:52.745657+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "other",
@@ -637,7 +601,7 @@ window.SMARTKIT_DATA = {
       "title": "Next steps for veterinary services for household pets: what the CMA's remedies mean in practice",
       "summary": "A speech by Martin Coleman, Non-Executive Director and Panel Chair, delivered at BVA Live 2026.",
       "url": "https://www.gov.uk/government/speeches/next-steps-for-veterinary-services-for-household-pets-what-the-cmas-remedies-mean-in-practice",
-      "published": "2026-06-24T09:32:05.937327+00:00",
+      "published": "2026-06-24T14:32:52.745686+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "other",
@@ -650,6 +614,46 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "pra",
         "cma"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Opening the door to mortgages: rules focused on better outcomes for people",
+      "summary": "Buying a home is different now to even a decade ago.People are living longer, the way they work has changed and, for many, how much they earn can vary month-to-month.",
+      "url": "https://www.fca.org.uk/news/blogs/opening-door-mortgages-rules-focused-better-outcomes-people",
+      "published": "Tuesday, June 9, 2026 - 10:03",
+      "source": "FCA News",
+      "score": 4.2,
+      "action_type": "rulemaking",
+      "entities": [
+        "Consumer Duty"
+      ],
+      "dates": [],
+      "key_terms": [
+        "consumer duty",
+        "consultation",
+        "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "FCA update on reforms to the UK Money Market Fund Regulation",
+      "summary": "We set out next steps on issuing new rules and guidance on Money Market Funds (MMFs), following Government plans to replace the current rules.",
+      "url": "https://www.fca.org.uk/news/statements/reforms-uk-money-market-fund-regulation",
+      "published": "Monday, June 8, 2026 - 13:04",
+      "source": "FCA News",
+      "score": 4.2,
+      "action_type": "rulemaking",
+      "entities": [
+        "Money Market Fund Regulation We",
+        "Money Market Funds",
+        "Money Market Funds Regulation"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "guidance",
+        "rule"
       ],
       "extraction_tier": 0
     }
