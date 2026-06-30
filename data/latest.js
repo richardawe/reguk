@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-06-30T03:43:26.830572+00:00",
+  "generated_at": "2026-06-30T09:37:46.563792+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -38,6 +38,43 @@ window.SMARTKIT_DATA = {
         "final",
         "rule",
         "order"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "FCA sets landmark crypto rules to cement the UK’s place as a global hub",
+      "summary": "Firms supporting people to buy, trade and hold crypto will need to meet clear standards under landmark rules set out by the FCA.\n\nAll firms must meet financial resilience requirements including capital and stress testing.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-sets-landmark-crypto-rules-cement-uks-place-global-hub",
+      "published": "Tuesday, June 30, 2026 - 10:09",
+      "source": "FCA News",
+      "score": 20.4,
+      "action_type": "rulemaking",
+      "entities": [
+        "Consumer Duty",
+        "David Geale",
+        "Handbook Guidance",
+        "Cost Benefit Analysis",
+        "Financial Crime Guide",
+        "Rhiannon Butterfield",
+        "Digital Money",
+        "Crypto Roadmap",
+        "Modernising Payments Regulations",
+        "Su Carpenter"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra",
+        "bank of england",
+        "hm treasury",
+        "consumer duty",
+        "capital requirements",
+        "prudential",
+        "stress test",
+        "guidance",
+        "consultation",
+        "final",
+        "rule"
       ],
       "extraction_tier": 0
     },
@@ -207,32 +244,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "FCA proposes changes to help more people access mortgages",
-      "summary": "First-time buyers, older borrowers and the self-employed could find it easier to get a mortgage, as the FCA sets out next steps to help reform the market.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-proposals-help-more-access-mortgages",
-      "published": "Tuesday, June 9, 2026 - 09:02",
-      "source": "FCA News",
-      "score": 8.4,
-      "action_type": "guidance",
-      "entities": [
-        "David Geale",
-        "In December",
-        "Consumer Duty",
-        "Consultation Paper",
-        "Mortgage Rule Review"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "consumer duty",
-        "guidance",
-        "consultation",
-        "proposed",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Beyond the headlines: the unseen fight against financial crime",
       "summary": "Speech by Therese Chambers, joint executive director of enforcement and market oversight, delivered at the International Bar Association (IBA) Anti-Corruption Conference.\n\nI’ve been practising law for over 3 decades now.",
       "url": "https://www.fca.org.uk/news/speeches/beyond-headlines-unseen-fight-against-financial-crime",
@@ -389,6 +400,25 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "FCA and the Bank of England set out approach to joint regulation of systemic stablecoin issuers",
+      "summary": "The Bank of England and the FCA have published a joint approach setting out how they and where relevant other authorities will work together to regulate systemic stablecoin issuers in the UK.",
+      "url": "https://www.fca.org.uk/news/statements/fca-and-bank-england-set-out-approach-joint-regulation-systemic-stablecoin-issuers",
+      "published": "Tuesday, June 30, 2026 - 10:08",
+      "source": "FCA News",
+      "score": 6.6,
+      "action_type": "rulemaking",
+      "entities": [
+        "The Bank"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "bank of england",
+        "hm treasury"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "Non-UK business removed from Consumer Duty scope to reduce burdens on wholesale businesses",
       "summary": "Wholesale financial businesses involved in retail markets will find it easier to comply with the Consumer Duty, following proposals from the FCA.",
       "url": "https://www.fca.org.uk/news/press-releases/non-uk-business-removed-consumer-duty-scope-reduce-burdens-wholesale-businesses",
@@ -415,7 +445,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-06-30T03:43:25.778859+00:00",
+      "published": "2026-06-30T09:37:45.979990+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -434,7 +464,7 @@ window.SMARTKIT_DATA = {
       "title": "Corporate report: Prudential Regulation Authority (PRA) Annual Report 2025/26",
       "summary": "The annual report for the Prudential Regulation Authority for the year ended 28 February 2026.",
       "url": "https://www.gov.uk/government/publications/prudential-regulation-authority-pra-annual-report-202526",
-      "published": "2026-06-30T03:43:25.991179+00:00",
+      "published": "2026-06-30T09:37:46.015519+00:00",
       "source": "HM Treasury",
       "score": 6.0,
       "action_type": "rulemaking",
@@ -454,7 +484,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-06-30T03:43:25.778794+00:00",
+      "published": "2026-06-30T09:37:45.979928+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -471,7 +501,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-06-30T03:43:25.778821+00:00",
+      "published": "2026-06-30T09:37:45.979942+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -528,7 +558,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to government in relation to childcare provision",
       "summary": "A letter from Sarah Cardell, Chief Executive of the Competition and Markets Authority (CMA), to Bridget Phillipson, Secretary of State for Education.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-06-30T03:43:25.778864+00:00",
+      "published": "2026-06-30T09:37:45.979997+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -549,7 +579,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
       "summary": "The Competition and Markets Authority (CMA) has published its advice to Department for Environment, Food &amp; Rural Affairs (Defra) on the reform of veterinary sector regulation.",
       "url": "https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966",
-      "published": "2026-06-30T03:43:25.778894+00:00",
+      "published": "2026-06-30T09:37:45.980040+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "rulemaking",
@@ -623,36 +653,18 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Tribunal was “wrong” to reject CMA phenytoin decision, says Court",
-      "summary": "The Court of Appeal has ruled the Tribunal was “wrong to set aside the [CMA’s] decision” in relation to its investigation into phenytoin – a life-saving epilepsy drug.",
-      "url": "https://www.gov.uk/government/news/tribunal-was-wrong-to-reject-cma-phenytoin-decision-says-court",
-      "published": "2026-06-30T03:43:25.778815+00:00",
+      "title": "Purpose and pragmatism in the UK’s digital markets competition regime",
+      "summary": "A speech by Will Hayter, the CMA’s Executive Director for Digital Markets, delivered at CompLaw: Digital Conference.",
+      "url": "https://www.gov.uk/government/speeches/purpose-and-pragmatism-in-the-uks-digital-markets-competition-regime",
+      "published": "2026-06-30T09:37:45.979893+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "other",
       "entities": [
-        "Court The Court"
-      ],
-      "dates": [],
-      "key_terms": [
-        "cma",
-        "investigation",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Next steps for veterinary services for household pets: what the CMA's remedies mean in practice",
-      "summary": "A speech by Martin Coleman, Non-Executive Director and Panel Chair, delivered at BVA Live 2026.",
-      "url": "https://www.gov.uk/government/speeches/next-steps-for-veterinary-services-for-household-pets-what-the-cmas-remedies-mean-in-practice",
-      "published": "2026-06-30T03:43:25.778837+00:00",
-      "source": "CMA News",
-      "score": 4.4,
-      "action_type": "other",
-      "entities": [
-        "Martin Coleman",
+        "Will Hayter",
         "Executive Director",
-        "Panel Chair"
+        "Digital Markets",
+        "Digital Conference"
       ],
       "dates": [],
       "key_terms": [
