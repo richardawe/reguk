@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-07-01T04:00:27.522246+00:00",
+  "generated_at": "2026-07-01T09:49:18.205760+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -126,6 +126,36 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "Statutory panel chair appointments confirmed for FCA listing authority and practitioner panels",
+      "summary": "The FCA has announced Kirsty Cooper will take up the role as Chair of the Listing Authority Advisory Panel (LAAP).",
+      "url": "https://www.fca.org.uk/news/press-releases/statutory-panel-chair-appointments-confirmed-fca-listing-authority-and-practitioner-panels",
+      "published": "Wednesday, July 1, 2026 - 10:00",
+      "source": "FCA News",
+      "score": 9.6,
+      "action_type": "rulemaking",
+      "entities": [
+        "Kirsty Cooper",
+        "Listing Authority Advisory Panel",
+        "Clare Woodman",
+        "Matt Hammerstein",
+        "Markets Practitioner Panel",
+        "Practitioner Panel",
+        "Chair Ashley Alder",
+        "Mandy Gradden",
+        "Executive Director",
+        "Scottish Widows Group"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra",
+        "regulated firm",
+        "investigation",
+        "compliance"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "FCA consults on proposals to support strong, consistent standards in the SIPP market",
       "summary": "The FCA has set out plans to drive greater consistency of standards in self-invested pensions (SIPPs), while maintaining the flexibility and broad investment choice they offer.",
       "url": "https://www.fca.org.uk/news/press-releases/fca-consults-proposals-support-strong-consistent-standards-sipp-market",
@@ -170,6 +200,30 @@ window.SMARTKIT_DATA = {
         "financial conduct authority",
         "bank of england",
         "hm treasury"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "PRA fines The Bank of London and its parent company Oplyse Holdings Limited £2m for failing to act with integrity and misleading the PRA over their capital position",
+      "summary": "The Prudential Regulation Authority (PRA) has fined The Bank of London Group Limited and Oplyse Holdings Limited (formerly The Bank of London Group Holdings Limited)  £2 million for misleading the PRA over their capital positions, failing to act with",
+      "url": "https://www.bankofengland.co.uk/news/2026/march/pra-fines-bol-and-oplyse-holdings",
+      "published": "2026-03-24T10:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 9.6,
+      "action_type": "enforcement",
+      "entities": [
+        "The Bank",
+        "Oplyse Holdings Limited",
+        "The Prudential Regulation Authority",
+        "London Group Limited",
+        "London Group Holdings Limited"
+      ],
+      "dates": [],
+      "key_terms": [
+        "pra",
+        "prudential regulation authority",
+        "prudential",
+        "fine"
       ],
       "extraction_tier": 0
     },
@@ -421,7 +475,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-07-01T04:00:26.259530+00:00",
+      "published": "2026-07-01T09:49:17.327177+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -440,7 +494,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-07-01T04:00:26.259470+00:00",
+      "published": "2026-07-01T09:49:17.327116+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -457,7 +511,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-07-01T04:00:26.259484+00:00",
+      "published": "2026-07-01T09:49:17.327130+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -511,18 +565,15 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "CMA response to government in relation to childcare provision",
-      "summary": "A letter from Sarah Cardell, Chief Executive of the Competition and Markets Authority (CMA), to Bridget Phillipson, Secretary of State for Education.",
+      "title": "CMA correspondence in relation to early years education and childcare sector",
+      "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-07-01T04:00:26.259537+00:00",
+      "published": "2026-07-01T09:49:17.327064+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
       "entities": [
-        "Sarah Cardell",
-        "Chief Executive",
-        "Markets Authority",
-        "Bridget Phillipson"
+        "Markets Authority"
       ],
       "dates": [],
       "key_terms": [
@@ -535,7 +586,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
       "summary": "The Competition and Markets Authority (CMA) has published its advice to Department for Environment, Food &amp; Rural Affairs (Defra) on the reform of veterinary sector regulation.",
       "url": "https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966",
-      "published": "2026-07-01T04:00:26.259578+00:00",
+      "published": "2026-07-01T09:49:17.327215+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "rulemaking",
@@ -612,7 +663,7 @@ window.SMARTKIT_DATA = {
       "title": "Purpose and pragmatism in the UK’s digital markets competition regime",
       "summary": "A speech by Will Hayter, the CMA’s Executive Director for Digital Markets, delivered at CompLaw: Digital Conference.",
       "url": "https://www.gov.uk/government/speeches/purpose-and-pragmatism-in-the-uks-digital-markets-competition-regime",
-      "published": "2026-07-01T04:00:26.259438+00:00",
+      "published": "2026-07-01T09:49:17.327102+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "other",
@@ -621,45 +672,6 @@ window.SMARTKIT_DATA = {
         "Executive Director",
         "Digital Markets",
         "Digital Conference"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "cma"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Tribunal was “wrong” to reject CMA phenytoin decision, says Court",
-      "summary": "The Court of Appeal has ruled the Tribunal was “wrong to set aside the [CMA’s] decision” in relation to its investigation into phenytoin – a life-saving epilepsy drug.",
-      "url": "https://www.gov.uk/government/news/tribunal-was-wrong-to-reject-cma-phenytoin-decision-says-court",
-      "published": "2026-07-01T04:00:26.259477+00:00",
-      "source": "CMA News",
-      "score": 4.4,
-      "action_type": "other",
-      "entities": [
-        "Court The Court"
-      ],
-      "dates": [],
-      "key_terms": [
-        "cma",
-        "investigation",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Next steps for veterinary services for household pets: what the CMA's remedies mean in practice",
-      "summary": "A speech by Martin Coleman, Non-Executive Director and Panel Chair, delivered at BVA Live 2026.",
-      "url": "https://www.gov.uk/government/speeches/next-steps-for-veterinary-services-for-household-pets-what-the-cmas-remedies-mean-in-practice",
-      "published": "2026-07-01T04:00:26.259504+00:00",
-      "source": "CMA News",
-      "score": 4.4,
-      "action_type": "other",
-      "entities": [
-        "Martin Coleman",
-        "Executive Director",
-        "Panel Chair"
       ],
       "dates": [],
       "key_terms": [
