@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-07-02T08:58:00.036991+00:00",
+  "generated_at": "2026-07-02T14:03:06.558897+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -126,6 +126,33 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "Payments Vision Delivery Committee update on future retail payments infrastructure",
+      "summary": "The Retail Payments Infrastructure Board (RPIB), led by the Bank of England, recently published a consultation on the future retail payments infrastructure.",
+      "url": "https://www.fca.org.uk/news/statements/payments-vision-delivery-committee-update-future-retail-payments-infrastructure",
+      "published": "Thursday, July 2, 2026 - 11:15",
+      "source": "FCA News",
+      "score": 9.6,
+      "action_type": "guidance",
+      "entities": [
+        "Payments Vision Delivery Committee",
+        "The Retail Payments Infrastructure Board",
+        "Payment Vision Delivery Committee",
+        "National Payments Vision",
+        "Retail Payments Infrastructure Board",
+        "The Payments Vision Delivery Committee",
+        "Future Retail Payments Infrastructure"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "psr",
+        "bank of england",
+        "hm treasury",
+        "consultation"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "Statutory panel chair appointments confirmed for FCA listing authority and practitioner panels",
       "summary": "The FCA has announced Kirsty Cooper will take up the role as Chair of the Listing Authority Advisory Panel (LAAP).",
       "url": "https://www.fca.org.uk/news/press-releases/statutory-panel-chair-appointments-confirmed-fca-listing-authority-and-practitioner-panels",
@@ -204,30 +231,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "PRA fines The Bank of London and its parent company Oplyse Holdings Limited £2m for failing to act with integrity and misleading the PRA over their capital position",
-      "summary": "The Prudential Regulation Authority (PRA) has fined The Bank of London Group Limited and Oplyse Holdings Limited (formerly The Bank of London Group Holdings Limited)  £2 million for misleading the PRA over their capital positions, failing to act with",
-      "url": "https://www.bankofengland.co.uk/news/2026/march/pra-fines-bol-and-oplyse-holdings",
-      "published": "2026-03-24T10:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 9.6,
-      "action_type": "enforcement",
-      "entities": [
-        "The Bank",
-        "Oplyse Holdings Limited",
-        "The Prudential Regulation Authority",
-        "London Group Limited",
-        "London Group Holdings Limited"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "prudential regulation authority",
-        "prudential",
-        "fine"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Commodity traders offer £1m to crisis fund after FCA competition probe",
       "summary": "The FCA is concerned 11 traders may have shared sensitive information or coordinated trades, potentially restricting competition.",
       "url": "https://www.fca.org.uk/news/press-releases/commodity-traders-offer-one-million-pounds-crisis-fund-fca-competition-probe",
@@ -270,6 +273,55 @@ window.SMARTKIT_DATA = {
         "prudential",
         "consultation",
         "final"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Motor finance scheme partially suspended",
+      "summary": "The Upper Tribunal has made an order suspending parts of the scheme. We set out what the partial suspension means for firms and consumers.",
+      "url": "https://www.fca.org.uk/news/statements/motor-finance-scheme-partially-suspended",
+      "published": "Thursday, July 2, 2026 - 13:00",
+      "source": "FCA News",
+      "score": 8.4,
+      "action_type": "enforcement",
+      "entities": [
+        "The Upper Tribunal",
+        "The Tribunal",
+        "Consumer Voice",
+        "Courmacs Legal",
+        "Volkswagen Financial Services",
+        "Mercedes Benz Financial Services",
+        "Agricole Auto Finance"
+      ],
+      "dates": [],
+      "key_terms": [
+        "ico",
+        "compensation",
+        "final",
+        "order",
+        "suspension"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Pension firms must do more for customers in older pensions and fund savings",
+      "summary": "The FCA has found that peopleholding legacy pension products,now closed to newsavers, could be receiving poorer value than those in newer ones.",
+      "url": "https://www.fca.org.uk/news/press-releases/pension-firms-must-do-more-customers-older-pensions-fund-savings",
+      "published": "Thursday, July 2, 2026 - 12:11",
+      "source": "FCA News",
+      "score": 8.4,
+      "action_type": "enforcement",
+      "entities": [
+        "Charlotte Clark",
+        "Regulatory Prioritiesand",
+        "Consumer Duty"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra",
+        "consumer duty",
+        "consultation"
       ],
       "extraction_tier": 0
     },
@@ -335,27 +387,6 @@ window.SMARTKIT_DATA = {
         "prudential regulation authority",
         "prudential",
         "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Bank of England streamlines reporting and disclosure requirements for bank failure regime",
-      "summary": "The Bank of England and Prudential Regulation Authority have finalised a package of changes to firms’ resolution reporting and disclosure requirements which reduces the burden of regulation while maintaining a robust and credible regime that supports",
-      "url": "https://www.bankofengland.co.uk/news/2026/march/boe-streamlines-reporting-and-disclosure-requirements-for-bank-failure-regime",
-      "published": "2026-03-26T10:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 7.8,
-      "action_type": "rulemaking",
-      "entities": [
-        "The Bank",
-        "Prudential Regulation Authority"
-      ],
-      "dates": [],
-      "key_terms": [
-        "prudential regulation authority",
-        "bank of england",
-        "prudential",
-        "final"
       ],
       "extraction_tier": 0
     },
@@ -501,10 +532,31 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
+      "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
+      "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
+      "published": "2026-07-02T14:03:05.844422+00:00",
+      "source": "CMA News",
+      "score": 6.05,
+      "action_type": "other",
+      "entities": [
+        "The Competition",
+        "Markets Authority",
+        "Private Healthcare Information Network"
+      ],
+      "dates": [],
+      "key_terms": [
+        "cma",
+        "competition and markets authority",
+        "compliance"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-07-02T08:57:59.279268+00:00",
+      "published": "2026-07-02T14:03:05.844539+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -523,7 +575,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-07-02T08:57:59.279205+00:00",
+      "published": "2026-07-02T14:03:05.844474+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -540,7 +592,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-07-02T08:57:59.279219+00:00",
+      "published": "2026-07-02T14:03:05.844487+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -597,7 +649,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-07-02T08:57:59.279158+00:00",
+      "published": "2026-07-02T14:03:05.844447+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -608,46 +660,6 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "competition and markets authority"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
-      "summary": "The Competition and Markets Authority (CMA) has published its advice to Department for Environment, Food &amp; Rural Affairs (Defra) on the reform of veterinary sector regulation.",
-      "url": "https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966",
-      "published": "2026-07-02T08:57:59.279306+00:00",
-      "source": "CMA News",
-      "score": 4.95,
-      "action_type": "rulemaking",
-      "entities": [
-        "Veterinary Surgeons Act",
-        "The Competition",
-        "Markets Authority",
-        "Rural Affairs"
-      ],
-      "dates": [],
-      "key_terms": [
-        "cma",
-        "competition and markets authority"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Later life lending: building the fourth retirement pillar",
-      "summary": "Speech by Emad Aladhal, director of retail banking at the Later Life Lending Summit.\n\nIntroductionIn the years ahead, housing wealth will become an increasing part of how many people provide for their retirement.",
-      "url": "https://www.fca.org.uk/news/speeches/later-life-lending-building-fourth-retirement-pillar",
-      "published": "Tuesday, June 16, 2026 - 11:30",
-      "source": "FCA News",
-      "score": 4.8,
-      "action_type": "enforcement",
-      "entities": [
-        "Emad Aladhal",
-        "Later Life Lending Summit"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "fine"
       ],
       "extraction_tier": 0
     },
@@ -674,7 +686,7 @@ window.SMARTKIT_DATA = {
       "title": "Purpose and pragmatism in the UK’s digital markets competition regime",
       "summary": "A speech by Will Hayter, the CMA’s Executive Director for Digital Markets, delivered at CompLaw: Digital Conference.",
       "url": "https://www.gov.uk/government/speeches/purpose-and-pragmatism-in-the-uks-digital-markets-competition-regime",
-      "published": "2026-07-02T08:57:59.279191+00:00",
+      "published": "2026-07-02T14:03:05.844462+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "other",
