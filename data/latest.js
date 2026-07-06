@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-07-06T10:24:09.512744+00:00",
+  "generated_at": "2026-07-06T15:35:17.460408+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -79,6 +79,30 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "Refining the Consumer Duty to give greater confidence to wholesale firms",
+      "summary": "When the FCA introduced the Consumer Duty, we set out to do something simple but transformative: ensure financial services work better for consumers. It was, by design, ambitious. And it is working.",
+      "url": "https://www.fca.org.uk/news/blogs/refining-consumer-duty-give-greater-confidence-wholesale-firms",
+      "published": "Monday, June 29, 2026 - 11:21",
+      "source": "FCA News",
+      "score": 11.4,
+      "action_type": "enforcement",
+      "entities": [
+        "Consumer Duty",
+        "The Duty"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra",
+        "consumer duty",
+        "fine",
+        "proposed",
+        "final",
+        "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "FCA consults on targeted changes to listing rules for closed-ended investment funds",
       "summary": "The FCA has published a consultation paper on proposed changes to its UK Listing Rules for closed‑ended investment funds, focused on the management of conflicts of interest.",
       "url": "https://www.fca.org.uk/news/press-releases/fca-consults-targeted-changes-listing-rules-closed-ended-investment-funds",
@@ -99,28 +123,6 @@ window.SMARTKIT_DATA = {
         "consultation",
         "proposed",
         "final",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Refining the Consumer Duty to give greater confidence to wholesale firms",
-      "summary": "When the FCA introduced the Consumer Duty, we set out to do something simple but transformative: ensure financial services work better for consumers. It was, by design, ambitious. And it is working.",
-      "url": "https://www.fca.org.uk/news/blogs/refining-consumer-duty-give-greater-confidence-wholesale-firms",
-      "published": "Monday, June 29, 2026 - 15:21",
-      "source": "FCA News",
-      "score": 10.2,
-      "action_type": "enforcement",
-      "entities": [
-        "Consumer Duty",
-        "The Duty"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "consumer duty",
-        "fine",
         "rule"
       ],
       "extraction_tier": 0
@@ -538,7 +540,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-07-06T10:24:08.670851+00:00",
+      "published": "2026-07-06T15:35:16.498818+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -559,7 +561,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-07-06T10:24:08.670965+00:00",
+      "published": "2026-07-06T15:35:16.498932+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -578,7 +580,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-07-06T10:24:08.670906+00:00",
+      "published": "2026-07-06T15:35:16.498874+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -595,7 +597,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-07-06T10:24:08.670919+00:00",
+      "published": "2026-07-06T15:35:16.498888+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -652,7 +654,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-07-06T10:24:08.670878+00:00",
+      "published": "2026-07-06T15:35:16.498846+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -689,7 +691,7 @@ window.SMARTKIT_DATA = {
       "title": "Purpose and pragmatism in the UK’s digital markets competition regime",
       "summary": "A speech by Will Hayter, the CMA’s Executive Director for Digital Markets, delivered at CompLaw: Digital Conference.",
       "url": "https://www.gov.uk/government/speeches/purpose-and-pragmatism-in-the-uks-digital-markets-competition-regime",
-      "published": "2026-07-06T10:24:08.670892+00:00",
+      "published": "2026-07-06T15:35:16.498861+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "other",
