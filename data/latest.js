@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-07-07T03:29:32.146585+00:00",
+  "generated_at": "2026-07-07T09:42:45.098230+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -425,57 +425,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Investors get real-time view of UK bond market activity for the first time",
-      "summary": "For the first time, investors and market participants can access a single, real-time source of prices and trading activity across the UK bond market, following the launch of its bond consolidated tape, operated by ETS Connect UK.",
-      "url": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
-      "published": "Monday, June 22, 2026 - 05:00",
-      "source": "FCA News",
-      "score": 7.2,
-      "action_type": "other",
-      "entities": [
-        "North America",
-        "Simon Walls",
-        "David Raw",
-        "Managing Director",
-        "Bryan Pascoe",
-        "International Capital Market Association",
-        "Consultative Committee",
-        "Victoria Webster",
-        "Fixed Income",
-        "Financial Markets"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "cma",
-        "consultation",
-        "final",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA closes investigation into Drax Group PLC",
-      "summary": "Drax Group PLC (Drax) has announced the FCA has closed its investigation into the company.We undertook an extensive investigation following concerns raised regarding disclosures to the market about the sustainability of Drax’s Canadian biomass.",
-      "url": "https://www.fca.org.uk/news/statements/fca-closes-investigation-drax-group-plc",
-      "published": "Thursday, June 18, 2026 - 07:14",
-      "source": "FCA News",
-      "score": 7.2,
-      "action_type": "other",
-      "entities": [
-        "Drax Group",
-        "Annual Reports"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "ofgem",
-        "investigation",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "PRA publishes plans to support resilience in the life insurance industry",
       "summary": "Funded reinsurance transactions involving UK life insurers will face enhanced regulatory requirements under new proposals unveiled today by the Prudential Regulation Authority (PRA).",
       "url": "https://www.bankofengland.co.uk/news/2026/april/pra-publishes-plans-to-support-resilience-in-the-life-insurance-industry",
@@ -540,7 +489,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-07-07T03:29:30.520698+00:00",
+      "published": "2026-07-07T09:42:44.503504+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -561,7 +510,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-07-07T03:29:30.520813+00:00",
+      "published": "2026-07-07T09:42:44.503616+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -580,7 +529,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-07-07T03:29:30.520751+00:00",
+      "published": "2026-07-07T09:42:44.503555+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -597,7 +546,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-07-07T03:29:30.520765+00:00",
+      "published": "2026-07-07T09:42:44.503569+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -654,7 +603,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-07-07T03:29:30.520722+00:00",
+      "published": "2026-07-07T09:42:44.503526+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -665,6 +614,32 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "competition and markets authority"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Banks told to improve access to basic accounts",
+      "summary": "People struggling should find it easier to access basic bank accounts, after nine banks committed to improving widespread poor practice identified by the FCA.",
+      "url": "https://www.fca.org.uk/news/press-releases/banks-told-improve-access-basic-accounts",
+      "published": "Tuesday, July 7, 2026 - 10:11",
+      "source": "FCA News",
+      "score": 4.8,
+      "action_type": "settlement",
+      "entities": [
+        "Emad Aladhal",
+        "Peter Tyler",
+        "Basic Bank Accounts",
+        "The Co",
+        "Lloyds Banking Group",
+        "Nationwide Building Society",
+        "Ulster Bank",
+        "Virgin Money",
+        "Financial Lives"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra"
       ],
       "extraction_tier": 0
     },
@@ -691,7 +666,7 @@ window.SMARTKIT_DATA = {
       "title": "Purpose and pragmatism in the UK’s digital markets competition regime",
       "summary": "A speech by Will Hayter, the CMA’s Executive Director for Digital Markets, delivered at CompLaw: Digital Conference.",
       "url": "https://www.gov.uk/government/speeches/purpose-and-pragmatism-in-the-uks-digital-markets-competition-regime",
-      "published": "2026-07-07T03:29:30.520737+00:00",
+      "published": "2026-07-07T09:42:44.503542+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "other",
@@ -705,6 +680,25 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "pra",
         "cma"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Tribunal was “wrong” to reject CMA phenytoin decision, says Court",
+      "summary": "The Court of Appeal has ruled the Tribunal was “wrong to set aside the [CMA’s] decision” in relation to its investigation into phenytoin – a life-saving epilepsy drug.",
+      "url": "https://www.gov.uk/government/news/tribunal-was-wrong-to-reject-cma-phenytoin-decision-says-court",
+      "published": "2026-07-07T09:42:44.503562+00:00",
+      "source": "CMA News",
+      "score": 4.4,
+      "action_type": "other",
+      "entities": [
+        "Court The Court"
+      ],
+      "dates": [],
+      "key_terms": [
+        "cma",
+        "investigation",
+        "rule"
       ],
       "extraction_tier": 0
     }
