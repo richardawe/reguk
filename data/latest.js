@@ -1,46 +1,10 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-07-10T14:28:15.119781+00:00",
+  "generated_at": "2026-07-10T19:27:53.995289+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
   "item_count": 30,
   "items": [
-    {
-      "title": "CACEIS UK censured and to pay £31.7m to WealthTek clients for weak financial crime controls",
-      "summary": "CACEIS UK, an asset servicing bank, has been censured by the FCA and will make a £31.7m voluntary payment to WealthTek clients for failing to act on information that left clients exposed to the risk of financial crime.",
-      "url": "https://www.fca.org.uk/news/press-releases/caceis-uk-censured-pay-31-million-wealthtek-clients-weak-financial-crime-controls",
-      "published": "Thursday, June 25, 2026 - 12:02",
-      "source": "FCA News",
-      "score": 21.0,
-      "action_type": "enforcement",
-      "entities": [
-        "Sapia Partners",
-        "Barclays Bank",
-        "Vertus Asset Management",
-        "Financial Services Register",
-        "Therese Chambers",
-        "In November",
-        "Special Administrators",
-        "Financial Services Compensation Scheme",
-        "Compensation Sourcebook",
-        "In December"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "final notice",
-        "fscs",
-        "enforcement",
-        "penalty",
-        "fine",
-        "investigation",
-        "compensation",
-        "final",
-        "rule",
-        "order"
-      ],
-      "extraction_tier": 0
-    },
     {
       "title": "FCA sets landmark crypto rules to cement the UK’s place as a global hub",
       "summary": "Firms supporting people to buy, trade and hold crypto will need to meet clear standards under landmark rules set out by the FCA.\n\nAll firms must meet financial resilience requirements including capital and stress testing.",
@@ -529,7 +493,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-07-10T14:28:14.521491+00:00",
+      "published": "2026-07-10T19:27:53.369420+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -550,7 +514,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-07-10T14:28:14.521595+00:00",
+      "published": "2026-07-10T19:27:53.369527+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -589,7 +553,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-07-10T14:28:14.521525+00:00",
+      "published": "2026-07-10T19:27:53.369455+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -606,7 +570,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-07-10T14:28:14.521539+00:00",
+      "published": "2026-07-10T19:27:53.369469+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -663,7 +627,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-07-10T14:28:14.521499+00:00",
+      "published": "2026-07-10T19:27:53.369428+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -719,6 +683,27 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "fca",
         "pra"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Purpose and pragmatism in the UK’s digital markets competition regime",
+      "summary": "A speech by Will Hayter, the CMA’s Executive Director for Digital Markets, delivered at CompLaw: Digital Conference.",
+      "url": "https://www.gov.uk/government/speeches/purpose-and-pragmatism-in-the-uks-digital-markets-competition-regime",
+      "published": "2026-07-10T19:27:53.369442+00:00",
+      "source": "CMA News",
+      "score": 4.4,
+      "action_type": "other",
+      "entities": [
+        "Will Hayter",
+        "Executive Director",
+        "Digital Markets",
+        "Digital Conference"
+      ],
+      "dates": [],
+      "key_terms": [
+        "pra",
+        "cma"
       ],
       "extraction_tier": 0
     }
