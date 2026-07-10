@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-07-10T03:24:52.658231+00:00",
+  "generated_at": "2026-07-10T09:36:41.637037+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -470,7 +470,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-07-10T03:24:51.001971+00:00",
+      "published": "2026-07-10T09:36:40.688605+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -491,7 +491,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-07-10T03:24:51.002085+00:00",
+      "published": "2026-07-10T09:36:40.688710+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -507,10 +507,30 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "Why getting product design right really matters to consumers",
+      "summary": "Financial products and services shape some of the most important decisions we all make – from saving and borrowing, to protecting ourselves and our families when things go wrong.",
+      "url": "https://www.fca.org.uk/news/blogs/why-getting-product-design-right-really-matters-consumers",
+      "published": "Friday, July 10, 2026 - 08:00",
+      "source": "FCA News",
+      "score": 6.0,
+      "action_type": "guidance",
+      "entities": [
+        "Our Financial Lives",
+        "Consumer Duty"
+      ],
+      "dates": [],
+      "key_terms": [
+        "pra",
+        "consumer duty",
+        "compliance"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-07-10T03:24:51.002007+00:00",
+      "published": "2026-07-10T09:36:40.688642+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -527,7 +547,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-07-10T03:24:51.002021+00:00",
+      "published": "2026-07-10T09:36:40.688656+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -584,7 +604,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-07-10T03:24:51.001979+00:00",
+      "published": "2026-07-10T09:36:40.688613+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -647,7 +667,7 @@ window.SMARTKIT_DATA = {
       "title": "Purpose and pragmatism in the UK’s digital markets competition regime",
       "summary": "A speech by Will Hayter, the CMA’s Executive Director for Digital Markets, delivered at CompLaw: Digital Conference.",
       "url": "https://www.gov.uk/government/speeches/purpose-and-pragmatism-in-the-uks-digital-markets-competition-regime",
-      "published": "2026-07-10T03:24:51.001993+00:00",
+      "published": "2026-07-10T09:36:40.688628+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "other",
@@ -668,7 +688,7 @@ window.SMARTKIT_DATA = {
       "title": "Tribunal was “wrong” to reject CMA phenytoin decision, says Court",
       "summary": "The Court of Appeal has ruled the Tribunal was “wrong to set aside the [CMA’s] decision” in relation to its investigation into phenytoin – a life-saving epilepsy drug.",
       "url": "https://www.gov.uk/government/news/tribunal-was-wrong-to-reject-cma-phenytoin-decision-says-court",
-      "published": "2026-07-10T03:24:51.002014+00:00",
+      "published": "2026-07-10T09:36:40.688649+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "other",
@@ -680,26 +700,6 @@ window.SMARTKIT_DATA = {
         "cma",
         "investigation",
         "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Next steps for veterinary services for household pets: what the CMA's remedies mean in practice",
-      "summary": "A speech by Martin Coleman, Non-Executive Director and Panel Chair, delivered at BVA Live 2026.",
-      "url": "https://www.gov.uk/government/speeches/next-steps-for-veterinary-services-for-household-pets-what-the-cmas-remedies-mean-in-practice",
-      "published": "2026-07-10T03:24:51.002060+00:00",
-      "source": "CMA News",
-      "score": 4.4,
-      "action_type": "other",
-      "entities": [
-        "Martin Coleman",
-        "Executive Director",
-        "Panel Chair"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "cma"
       ],
       "extraction_tier": 0
     }
