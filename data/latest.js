@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-07-13T14:35:43.911679+00:00",
+  "generated_at": "2026-07-13T19:24:02.831661+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -493,7 +493,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-07-13T14:35:42.268408+00:00",
+      "published": "2026-07-13T19:24:01.678143+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -514,7 +514,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-07-13T14:35:42.268493+00:00",
+      "published": "2026-07-13T19:24:01.678250+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -553,7 +553,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-07-13T14:35:42.268435+00:00",
+      "published": "2026-07-13T19:24:01.678178+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -570,7 +570,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-07-13T14:35:42.268445+00:00",
+      "published": "2026-07-13T19:24:01.678193+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -627,7 +627,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-07-13T14:35:42.268414+00:00",
+      "published": "2026-07-13T19:24:01.678152+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -687,23 +687,21 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Purpose and pragmatism in the UK’s digital markets competition regime",
-      "summary": "A speech by Will Hayter, the CMA’s Executive Director for Digital Markets, delivered at CompLaw: Digital Conference.",
-      "url": "https://www.gov.uk/government/speeches/purpose-and-pragmatism-in-the-uks-digital-markets-competition-regime",
-      "published": "2026-07-13T14:35:42.268425+00:00",
-      "source": "CMA News",
-      "score": 4.4,
+      "title": "Correspondence: Recommendations for the Financial Conduct Authority: November 2024",
+      "summary": "Letter from the Chancellor of the Exchequer to the Chief Executive of the Financial Conduct Authority (FCA) providing recommendations for the FCA.",
+      "url": "https://www.gov.uk/government/publications/recommendations-for-the-financial-conduct-authority-november-2024",
+      "published": "2026-07-13T19:24:02.075619+00:00",
+      "source": "HM Treasury",
+      "score": 4.5,
       "action_type": "other",
       "entities": [
-        "Will Hayter",
-        "Executive Director",
-        "Digital Markets",
-        "Digital Conference"
+        "Financial Conduct Authority",
+        "Chief Executive"
       ],
       "dates": [],
       "key_terms": [
-        "pra",
-        "cma"
+        "fca",
+        "financial conduct authority"
       ],
       "extraction_tier": 0
     }
