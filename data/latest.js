@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-07-15T08:11:26.078891+00:00",
+  "generated_at": "2026-07-15T13:44:42.540026+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -494,10 +494,32 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "Policy paper: Financial Services Regulators Complaints Commissioner Annual Report and Accounts 2025-26 and regulator responses",
+      "summary": "The annual report and accounts for the Financial Services Regulators Complaints Commissioner for the year ended 31 March 2026, and the responses provided by the Financial Conduct Authority and Prudential Regulation Authority.",
+      "url": "https://www.gov.uk/government/publications/financial-services-regulators-complaints-commissioner-annual-report-and-accounts-2025-26-and-regulator-responses",
+      "published": "2026-07-15T13:44:41.876736+00:00",
+      "source": "HM Treasury",
+      "score": 6.5,
+      "action_type": "rulemaking",
+      "entities": [
+        "Financial Services Regulators Complaints Commissioner Annual Report",
+        "Financial Services Regulators Complaints Commissioner",
+        "Financial Conduct Authority",
+        "Prudential Regulation Authority"
+      ],
+      "dates": [],
+      "key_terms": [
+        "financial conduct authority",
+        "prudential regulation authority",
+        "prudential"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-07-15T08:11:25.393652+00:00",
+      "published": "2026-07-15T13:44:41.345097+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -518,7 +540,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-07-15T08:11:25.393746+00:00",
+      "published": "2026-07-15T13:44:41.345202+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -557,7 +579,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-07-15T08:11:25.393684+00:00",
+      "published": "2026-07-15T13:44:41.345130+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -574,7 +596,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-07-15T08:11:25.393697+00:00",
+      "published": "2026-07-15T13:44:41.345144+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -631,7 +653,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-07-15T08:11:25.393658+00:00",
+      "published": "2026-07-15T13:44:41.345104+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -680,25 +702,6 @@ window.SMARTKIT_DATA = {
       "score": 4.8,
       "action_type": "other",
       "entities": [],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA and PRA confirm changes to streamline senior manager accountability and boost growth",
-      "summary": "The PRA and FCA have set out reforms to the Senior Managers and Certification Regime, designed to reduce costs and offer greater flexibility.",
-      "url": "https://www.bankofengland.co.uk/news/2026/april/fca-and-pra-confirm-changes-to-streamline-senior-manager-accountability-and-boost-growth",
-      "published": "2026-04-22T09:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 4.8,
-      "action_type": "other",
-      "entities": [
-        "Senior Managers",
-        "Certification Regime"
-      ],
       "dates": [],
       "key_terms": [
         "fca",
