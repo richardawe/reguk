@@ -1,10 +1,48 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-07-16T08:15:00.274128+00:00",
+  "generated_at": "2026-07-16T13:52:40.721426+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
   "item_count": 30,
   "items": [
+    {
+      "title": "Joint taskforce continues crack down on misleading car finance claims adverts",
+      "summary": "The FCA, Advertising Standards Authority, Solicitors Regulation Authority and Information Commissioner's Office are tackling the poor handling of motor finance claims by some claims companies and law firms.",
+      "url": "https://www.fca.org.uk/news/press-releases/joint-taskforce-continues-crack-down-misleading-car-finance-claims-adverts",
+      "published": "Thursday, July 16, 2026 - 11:45",
+      "source": "FCA News",
+      "score": 25.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Advertising Standards Authority",
+        "Solicitors Regulation Authority",
+        "Information Commissioner",
+        "Alison Walters",
+        "Miles Lockwood",
+        "Active Ad Monitoring",
+        "Consumer Duty",
+        "Immaculate Ltd",
+        "Claims Buddy",
+        "Black Knight Global"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "ico",
+        "information commissioner",
+        "enforcement action",
+        "consumer duty",
+        "authorised firm",
+        "enforcement",
+        "investigation",
+        "compensation",
+        "redress",
+        "compliance",
+        "consultation",
+        "rule"
+      ],
+      "extraction_tier": 0
+    },
     {
       "title": "FCA sets landmark crypto rules to cement the UK’s place as a global hub",
       "summary": "Firms supporting people to buy, trade and hold crypto will need to meet clear standards under landmark rules set out by the FCA.\n\nAll firms must meet financial resilience requirements including capital and stress testing.",
@@ -131,30 +169,6 @@ window.SMARTKIT_DATA = {
         "bank of england",
         "hm treasury",
         "prudential"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Refining the Consumer Duty to give greater confidence to wholesale firms",
-      "summary": "When the FCA introduced the Consumer Duty, we set out to do something simple but transformative: ensure financial services work better for consumers. It was, by design, ambitious. And it is working.",
-      "url": "https://www.fca.org.uk/news/blogs/refining-consumer-duty-give-greater-confidence-wholesale-firms",
-      "published": "Monday, June 29, 2026 - 11:21",
-      "source": "FCA News",
-      "score": 11.4,
-      "action_type": "enforcement",
-      "entities": [
-        "Consumer Duty",
-        "The Duty"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "consumer duty",
-        "fine",
-        "proposed",
-        "final",
-        "rule"
       ],
       "extraction_tier": 0
     },
@@ -497,7 +511,7 @@ window.SMARTKIT_DATA = {
       "title": "Policy paper: Financial Services Regulators Complaints Commissioner Annual Report and Accounts 2025-26 and regulator responses",
       "summary": "The annual report and accounts for the Financial Services Regulators Complaints Commissioner for the year ended 31 March 2026, and the responses provided by the Financial Conduct Authority and Prudential Regulation Authority.",
       "url": "https://www.gov.uk/government/publications/financial-services-regulators-complaints-commissioner-annual-report-and-accounts-2025-26-and-regulator-responses",
-      "published": "2026-07-16T08:14:59.228887+00:00",
+      "published": "2026-07-16T13:52:39.851627+00:00",
       "source": "HM Treasury",
       "score": 6.5,
       "action_type": "rulemaking",
@@ -519,7 +533,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-07-16T08:14:59.179463+00:00",
+      "published": "2026-07-16T13:52:39.815906+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -540,7 +554,7 @@ window.SMARTKIT_DATA = {
       "title": "Court endorses CMA action as Emma Sleep agrees to change sales practices",
       "summary": "The CMA has secured a court-endorsed settlement from mattress firm Emma Sleep after concerns its sales practices misled consumers.",
       "url": "https://www.gov.uk/government/news/court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practices",
-      "published": "2026-07-16T08:14:59.179583+00:00",
+      "published": "2026-07-16T13:52:39.816002+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "settlement",
@@ -579,7 +593,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-07-16T08:14:59.179498+00:00",
+      "published": "2026-07-16T13:52:39.815939+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -596,7 +610,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-07-16T08:14:59.179533+00:00",
+      "published": "2026-07-16T13:52:39.815953+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -650,13 +664,13 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "CMA correspondence in relation to early years education and childcare sector",
-      "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
-      "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-07-16T08:14:59.179470+00:00",
+      "title": "Open letter to the private parking sector",
+      "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
+      "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
+      "published": "2026-07-16T13:52:39.815876+00:00",
       "source": "CMA News",
       "score": 4.95,
-      "action_type": "other",
+      "action_type": "enforcement",
       "entities": [
         "Markets Authority"
       ],
@@ -668,44 +682,39 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Banks told to improve access to basic accounts",
-      "summary": "People struggling should find it easier to access basic bank accounts, after nine banks committed to improving widespread poor practice identified by the FCA.",
-      "url": "https://www.fca.org.uk/news/press-releases/banks-told-improve-access-basic-accounts",
-      "published": "Tuesday, July 7, 2026 - 10:11",
-      "source": "FCA News",
-      "score": 4.8,
-      "action_type": "settlement",
+      "title": "CMA letter to government in relation to private parking",
+      "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
+      "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
+      "published": "2026-07-16T13:52:39.815884+00:00",
+      "source": "CMA News",
+      "score": 4.95,
+      "action_type": "other",
       "entities": [
-        "Emad Aladhal",
-        "Peter Tyler",
-        "Basic Bank Accounts",
-        "The Co",
-        "Lloyds Banking Group",
-        "Nationwide Building Society",
-        "Ulster Bank",
-        "Virgin Money",
-        "Financial Lives"
+        "Markets Authority",
+        "Local Government"
       ],
       "dates": [],
       "key_terms": [
-        "fca",
-        "pra"
+        "cma",
+        "competition and markets authority"
       ],
       "extraction_tier": 0
     },
     {
-      "title": "PRA and FCA propose new captive insurance regime to drive UK growth and competitiveness",
-      "summary": "Innovative new proposals aim to establish the UK as a centre for the fast-growing captive insurance market.",
-      "url": "https://www.bankofengland.co.uk/news/2026/july/pra-and-fca-propose-new-captive-insurance-regime-to-drive-uk-growth-and-competitiveness",
-      "published": "2026-07-14T14:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 4.8,
+      "title": "CMA correspondence in relation to early years education and childcare sector",
+      "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
+      "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
+      "published": "2026-07-16T13:52:39.815912+00:00",
+      "source": "CMA News",
+      "score": 4.95,
       "action_type": "other",
-      "entities": [],
+      "entities": [
+        "Markets Authority"
+      ],
       "dates": [],
       "key_terms": [
-        "fca",
-        "pra"
+        "cma",
+        "competition and markets authority"
       ],
       "extraction_tier": 0
     }
