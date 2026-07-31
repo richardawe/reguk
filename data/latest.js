@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-07-31T08:50:34.075868+00:00",
+  "generated_at": "2026-07-31T14:08:05.829299+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -427,10 +427,34 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "FCA advances package of equity market transparency reforms",
+      "summary": "The FCA has published a package of reforms designed to improve transparency, strengthen access to market-wide information and support confidence in UK equity markets.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-advances-package-equity-market-transparency-reforms",
+      "published": "Friday, July 31, 2026 - 08:39",
+      "source": "FCA News",
+      "score": 6.6,
+      "action_type": "other",
+      "entities": [
+        "Simon Walls",
+        "Adam Farkas",
+        "Hugo Gordon",
+        "Investment Association",
+        "David Raw"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra",
+        "consultation",
+        "final"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-07-31T08:50:33.461262+00:00",
+      "published": "2026-07-31T14:08:05.347378+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -495,30 +519,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Why getting product design right really matters to consumers",
-      "summary": "Financial products and services shape some of the most important decisions we all make – from saving and borrowing, to protecting ourselves and our families when things go wrong.",
-      "url": "https://www.fca.org.uk/news/blogs/why-getting-product-design-right-really-matters-consumers",
-      "published": "Friday, July 10, 2026 - 08:00",
-      "source": "FCA News",
-      "score": 6.0,
-      "action_type": "guidance",
-      "entities": [
-        "Our Financial Lives",
-        "Consumer Duty"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "consumer duty",
-        "compliance"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Policy paper: HM Treasury and Financial Conduct Authority Regulatory Perimeter Meeting – April 2026",
       "summary": "Record of the meeting between the Economic Secretary to the Treasury and the Chief Executive of the Financial Conduct Authority (FCA) to discuss the FCA’s Perimeter Report.",
       "url": "https://www.gov.uk/government/publications/hm-treasury-and-financial-conduct-authority-regulatory-perimeter-meeting-april-2026",
-      "published": "2026-07-31T08:50:33.500147+00:00",
+      "published": "2026-07-31T14:08:05.385188+00:00",
       "source": "HM Treasury",
       "score": 6.0,
       "action_type": "other",
@@ -541,7 +545,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-07-31T08:50:33.461296+00:00",
+      "published": "2026-07-31T14:08:05.347411+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -558,7 +562,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-07-31T08:50:33.461309+00:00",
+      "published": "2026-07-31T14:08:05.347424+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -615,7 +619,7 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-07-31T08:50:33.461233+00:00",
+      "published": "2026-07-31T14:08:05.347351+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -633,7 +637,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-07-31T08:50:33.461240+00:00",
+      "published": "2026-07-31T14:08:05.347357+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -652,7 +656,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-07-31T08:50:33.461269+00:00",
+      "published": "2026-07-31T14:08:05.347385+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
