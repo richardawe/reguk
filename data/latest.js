@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-08-03T02:51:23.271149+00:00",
+  "generated_at": "2026-08-03T09:46:46.646053+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -39,41 +39,6 @@ window.SMARTKIT_DATA = {
         "redress",
         "compliance",
         "consultation",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "UK financial regulators to begin overseeing Critical Third Parties announced by Treasury",
-      "summary": "The Bank of England (the Bank), the Prudential Regulation Authority (PRA) and the FCA will start overseeing the first critical third parties (CTPs) on Monday 13 July 2026, following designation by the Treasury.",
-      "url": "https://www.fca.org.uk/news/statements/uk-financial-regulators-overseeing-critical-third-parties-announced-treasury",
-      "published": "Friday, July 10, 2026 - 13:54",
-      "source": "FCA News",
-      "score": 19.2,
-      "action_type": "rulemaking",
-      "entities": [
-        "Critical Third Parties",
-        "Treasury The Bank",
-        "Prudential Regulation Authority",
-        "Amazon Web Services",
-        "Google Cloud",
-        "Microsoft Ireland Operations Ltd",
-        "Oracle Corporation",
-        "Sarah Breeden",
-        "Katharine Braddick",
-        "Nikhil Rathi"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "prudential regulation authority",
-        "bank of england",
-        "regulated firm",
-        "prudential",
-        "systemic risk",
-        "financial stability",
-        "final",
         "rule"
       ],
       "extraction_tier": 0
@@ -184,6 +149,31 @@ window.SMARTKIT_DATA = {
         "bank of england",
         "hm treasury",
         "prudential"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "FCA finalises rules to cut firms' transaction reporting costs by over £100m a year",
+      "summary": "Transaction reporting requirements become smarter, simpler and more proportionate under new rules from the FCA.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-finalises-rules-cut-firms-transaction-reporting-costs-over-100m-year",
+      "published": "Monday, August 3, 2026 - 10:32",
+      "source": "FCA News",
+      "score": 11.4,
+      "action_type": "enforcement",
+      "entities": [
+        "Therese Chambers",
+        "Reporting Industry Harmonisation Taskforce",
+        "Consultation Paper"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "bank of england",
+        "mifid",
+        "enforcement",
+        "consultation",
+        "final",
+        "rule"
       ],
       "extraction_tier": 0
     },
@@ -454,7 +444,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-08-03T02:51:22.195646+00:00",
+      "published": "2026-08-03T09:46:45.766576+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -522,7 +512,7 @@ window.SMARTKIT_DATA = {
       "title": "Policy paper: HM Treasury and Financial Conduct Authority Regulatory Perimeter Meeting – April 2026",
       "summary": "Record of the meeting between the Economic Secretary to the Treasury and the Chief Executive of the Financial Conduct Authority (FCA) to discuss the FCA’s Perimeter Report.",
       "url": "https://www.gov.uk/government/publications/hm-treasury-and-financial-conduct-authority-regulatory-perimeter-meeting-april-2026",
-      "published": "2026-08-03T02:51:22.674371+00:00",
+      "published": "2026-08-03T09:46:45.828416+00:00",
       "source": "HM Treasury",
       "score": 6.0,
       "action_type": "other",
@@ -545,7 +535,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-08-03T02:51:22.195679+00:00",
+      "published": "2026-08-03T09:46:45.766614+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -562,7 +552,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-08-03T02:51:22.195692+00:00",
+      "published": "2026-08-03T09:46:45.766630+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -619,7 +609,7 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-08-03T02:51:22.195619+00:00",
+      "published": "2026-08-03T09:46:45.766543+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -637,7 +627,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-08-03T02:51:22.195625+00:00",
+      "published": "2026-08-03T09:46:45.766551+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -656,7 +646,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-08-03T02:51:22.195653+00:00",
+      "published": "2026-08-03T09:46:45.766584+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -671,18 +661,23 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "PRA and FCA propose new captive insurance regime to drive UK growth and competitiveness",
-      "summary": "Innovative new proposals aim to establish the UK as a centre for the fast-growing captive insurance market.",
-      "url": "https://www.bankofengland.co.uk/news/2026/july/pra-and-fca-propose-new-captive-insurance-regime-to-drive-uk-growth-and-competitiveness",
-      "published": "2026-07-14T14:00:00+00:00",
+      "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
+      "summary": "Following an external recruitment process, the Bank of England (the Bank) has appointed Nicholas Segal as Chair of its Enforcement Decision Making Committee (EDMC), and Peter King as Deputy Chair, with effect from 1 August 2026.",
+      "url": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc",
+      "published": "2026-08-03T09:00:00+00:00",
       "source": "Bank of England News",
       "score": 4.8,
-      "action_type": "other",
-      "entities": [],
+      "action_type": "enforcement",
+      "entities": [
+        "Deputy Chair",
+        "Enforcement Decision Making Committee",
+        "Nicholas Segal",
+        "Peter King"
+      ],
       "dates": [],
       "key_terms": [
-        "fca",
-        "pra"
+        "bank of england",
+        "enforcement"
       ],
       "extraction_tier": 0
     }
