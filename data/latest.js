@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-08-05T08:36:45.422108+00:00",
+  "generated_at": "2026-08-05T14:10:06.816880+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -275,34 +275,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Streamlined rulebook to save asset managers £128m a year",
-      "summary": "The FCA has proposed a package of reforms that would tailor requirements proportionately for asset managers, cut costs for firms and give better data to supervise the sector more effectively.",
-      "url": "https://www.fca.org.uk/news/press-releases/streamlined-rulebook-save-asset-managers-128m-year",
-      "published": "Tuesday, July 14, 2026 - 10:58",
-      "source": "FCA News",
-      "score": 9.6,
-      "action_type": "rulemaking",
-      "entities": [
-        "Fund Reporting",
-        "Asset Management Entities",
-        "Alternative Investment Fund Managers Directive",
-        "Simon Walls",
-        "Alternative Investment Fund Managers",
-        "Solo Remuneration Rules Reform"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "mifid",
-        "consultation",
-        "proposed",
-        "final",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "The Bank, FCA and HM Treasury joint statement on Frontier AI models and cyber resilience",
       "summary": "Statement from the Bank of England, Financial Conduct Authority and HM Treasury",
       "url": "https://www.bankofengland.co.uk/news/2026/may/boe-fca-and-hm-treasury-joint-statement-on-frontier-ai-models-and-cyber-resilience",
@@ -478,7 +450,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-08-05T08:36:43.474320+00:00",
+      "published": "2026-08-05T14:10:03.218084+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -546,7 +518,7 @@ window.SMARTKIT_DATA = {
       "title": "Policy paper: HM Treasury and Financial Conduct Authority Regulatory Perimeter Meeting – April 2026",
       "summary": "Record of the meeting between the Economic Secretary to the Treasury and the Chief Executive of the Financial Conduct Authority (FCA) to discuss the FCA’s Perimeter Report.",
       "url": "https://www.gov.uk/government/publications/hm-treasury-and-financial-conduct-authority-regulatory-perimeter-meeting-april-2026",
-      "published": "2026-08-05T08:36:44.304894+00:00",
+      "published": "2026-08-05T14:10:03.252359+00:00",
       "source": "HM Treasury",
       "score": 6.0,
       "action_type": "other",
@@ -569,7 +541,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-08-05T08:36:43.474353+00:00",
+      "published": "2026-08-05T14:10:03.218119+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -586,7 +558,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-08-05T08:36:43.474366+00:00",
+      "published": "2026-08-05T14:10:03.218133+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -598,6 +570,28 @@ window.SMARTKIT_DATA = {
         "cma",
         "fine",
         "order"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "FCA simplifies IPO rules to support UK listings",
+      "summary": "Companies will benefit from easier initial public offering (IPO) listings thanks to changes to the rules from the FCA.\n\nThis will allow the UK listings market to compete more effectively with global markets.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-simplifies-ipo-rules-support-uk-listings",
+      "published": "Wednesday, August 5, 2026 - 11:32",
+      "source": "FCA News",
+      "score": 5.4,
+      "action_type": "other",
+      "entities": [
+        "Jon Relleen",
+        "Policy Statement",
+        "Consultation Paper"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "compliance",
+        "consultation",
+        "rule"
       ],
       "extraction_tier": 0
     },
@@ -643,7 +637,7 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-08-05T08:36:43.474291+00:00",
+      "published": "2026-08-05T14:10:03.218054+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -661,7 +655,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-08-05T08:36:43.474299+00:00",
+      "published": "2026-08-05T14:10:03.218061+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -680,7 +674,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-08-05T08:36:43.474326+00:00",
+      "published": "2026-08-05T14:10:03.218092+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
