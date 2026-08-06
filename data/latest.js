@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-08-06T08:36:41.184483+00:00",
+  "generated_at": "2026-08-06T14:10:35.515516+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -317,26 +317,24 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "New member appointed to the Regulatory Decisions Committee",
-      "summary": "The FCA Board has appointed Dan Lavender as a new member of its Regulatory Decisions Committee (RDC).\n\nThe RDC is responsible for taking certain regulatory decisions on behalf of the FCA relating to contested enforcement action.",
-      "url": "https://www.fca.org.uk/news/press-releases/new-member-regulatory-decisions-committee",
-      "published": "Tuesday, July 14, 2026 - 12:26",
+      "title": "Making compliance simpler: opening up the FCA Handbook through our new API",
+      "summary": "Firms tell us that complying with our requirements can be a burden. They have to keep up with changes, understand what we expect and embed new practices across multiple systems and teams. All of this takes time and resources.",
+      "url": "https://www.fca.org.uk/news/blogs/making-compliance-simpler-opening-fca-handbook-new-api",
+      "published": "Thursday, August 6, 2026 - 11:25",
       "source": "FCA News",
       "score": 7.8,
-      "action_type": "enforcement",
+      "action_type": "rulemaking",
       "entities": [
-        "Regulatory Decisions Committee The",
-        "Dan Lavender",
-        "Regulatory Decisions Committee",
-        "Alison Potter",
-        "Read Dan Lavender",
-        "Board Committee"
+        "Handbook Application Programming Interface",
+        "The Handbook"
       ],
       "dates": [],
       "key_terms": [
         "fca",
-        "enforcement action",
-        "enforcement"
+        "pra",
+        "compliance",
+        "guidance",
+        "rule"
       ],
       "extraction_tier": 0
     },
@@ -404,25 +402,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "PRA publishes plans to support resilience in the life insurance industry",
-      "summary": "Funded reinsurance transactions involving UK life insurers will face enhanced regulatory requirements under new proposals unveiled today by the Prudential Regulation Authority (PRA).",
-      "url": "https://www.bankofengland.co.uk/news/2026/april/pra-publishes-plans-to-support-resilience-in-the-life-insurance-industry",
-      "published": "2026-04-29T08:30:00+00:00",
-      "source": "Bank of England News",
-      "score": 7.2,
-      "action_type": "rulemaking",
-      "entities": [
-        "Prudential Regulation Authority"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "prudential regulation authority",
-        "prudential"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "FCA advances package of equity market transparency reforms",
       "summary": "The FCA has published a package of reforms designed to improve transparency, strengthen access to market-wide information and support confidence in UK equity markets.",
       "url": "https://www.fca.org.uk/news/press-releases/fca-advances-package-equity-market-transparency-reforms",
@@ -450,7 +429,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-08-06T08:36:40.015031+00:00",
+      "published": "2026-08-06T14:10:34.795233+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -518,7 +497,7 @@ window.SMARTKIT_DATA = {
       "title": "Policy paper: HM Treasury and Financial Conduct Authority Regulatory Perimeter Meeting – April 2026",
       "summary": "Record of the meeting between the Economic Secretary to the Treasury and the Chief Executive of the Financial Conduct Authority (FCA) to discuss the FCA’s Perimeter Report.",
       "url": "https://www.gov.uk/government/publications/hm-treasury-and-financial-conduct-authority-regulatory-perimeter-meeting-april-2026",
-      "published": "2026-08-06T08:36:40.238140+00:00",
+      "published": "2026-08-06T14:10:34.832267+00:00",
       "source": "HM Treasury",
       "score": 6.0,
       "action_type": "other",
@@ -541,7 +520,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-08-06T08:36:40.015064+00:00",
+      "published": "2026-08-06T14:10:34.795266+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -558,7 +537,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-08-06T08:36:40.015077+00:00",
+      "published": "2026-08-06T14:10:34.795279+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -637,7 +616,7 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-08-06T08:36:40.015003+00:00",
+      "published": "2026-08-06T14:10:34.795207+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -655,7 +634,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-08-06T08:36:40.015010+00:00",
+      "published": "2026-08-06T14:10:34.795214+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -674,7 +653,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-08-06T08:36:40.015038+00:00",
+      "published": "2026-08-06T14:10:34.795240+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -685,6 +664,27 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "competition and markets authority"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
+      "summary": "Following an external recruitment process, the Bank of England (the Bank) has appointed Nicholas Segal as Chair of its Enforcement Decision Making Committee (EDMC), and Peter King as Deputy Chair, with effect from 1 August 2026.",
+      "url": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc",
+      "published": "2026-08-03T09:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 4.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Deputy Chair",
+        "Enforcement Decision Making Committee",
+        "Nicholas Segal",
+        "Peter King"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england",
+        "enforcement"
       ],
       "extraction_tier": 0
     }
