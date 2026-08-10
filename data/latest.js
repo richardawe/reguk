@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-08-10T07:42:15.088070+00:00",
+  "generated_at": "2026-08-10T13:08:44.608420+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -198,6 +198,36 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "FCA boosts support for innovative firms as they scale and grow",
+      "summary": "Five fast-growing firms have joined the FCA’s Scale-up Unit, receiving tailored support to help them innovate, navigate regulation and grow sustainably.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-boosts-support-innovative-firms-scale-grow",
+      "published": "Monday, August 10, 2026 - 10:30",
+      "source": "FCA News",
+      "score": 10.8,
+      "action_type": "rulemaking",
+      "entities": [
+        "Urban Jungle",
+        "The Scale",
+        "Jessica Rusu",
+        "Up Unit",
+        "Unicorn Council",
+        "Innovate Finance",
+        "Innovation Pathways",
+        "Application Support Service",
+        "High Growth Oversight",
+        "Between July"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra",
+        "ico",
+        "authorised firm",
+        "regulated firm"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "Managing conflicts of interest in insurance",
       "summary": "Having just joined as the FCA’s new insurance director, it’s been great getting to know the team and see the variety of work they’re doing – whether that’s working with the industry to improve claims experiences for customers, consulting on simplifyi",
       "url": "https://www.fca.org.uk/news/blogs/managing-conflicts-interest-insurance",
@@ -343,7 +373,7 @@ window.SMARTKIT_DATA = {
       "title": "Blue Motor Finance Limited enters administration",
       "summary": "On 30 July 2026, Blue Motor Finance Limited (BMFL) was placed into administration. Simon Edel, Richard Barker and Alan Michael Hudson of Ernst &amp; Young LLP were appointed as joint administrators.",
       "url": "https://www.fca.org.uk/news/news-stories/blue-motor-finance-limited-enters-administration",
-      "published": "Thursday, July 30, 2026 - 15:33",
+      "published": "Thursday, July 30, 2026 - 13:33",
       "source": "FCA News",
       "score": 7.2,
       "action_type": "guidance",
@@ -391,7 +421,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-08-10T07:42:14.410449+00:00",
+      "published": "2026-08-10T13:08:43.881120+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -459,7 +489,7 @@ window.SMARTKIT_DATA = {
       "title": "Policy paper: HM Treasury and Financial Conduct Authority Regulatory Perimeter Meeting – April 2026",
       "summary": "Record of the meeting between the Economic Secretary to the Treasury and the Chief Executive of the Financial Conduct Authority (FCA) to discuss the FCA’s Perimeter Report.",
       "url": "https://www.gov.uk/government/publications/hm-treasury-and-financial-conduct-authority-regulatory-perimeter-meeting-april-2026",
-      "published": "2026-08-10T07:42:14.474266+00:00",
+      "published": "2026-08-10T13:08:43.918276+00:00",
       "source": "HM Treasury",
       "score": 6.0,
       "action_type": "other",
@@ -482,7 +512,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-08-10T07:42:14.410480+00:00",
+      "published": "2026-08-10T13:08:43.881153+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -499,7 +529,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-08-10T07:42:14.410493+00:00",
+      "published": "2026-08-10T13:08:43.881188+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -578,7 +608,7 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-08-10T07:42:14.410423+00:00",
+      "published": "2026-08-10T13:08:43.881093+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -596,7 +626,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-08-10T07:42:14.410429+00:00",
+      "published": "2026-08-10T13:08:43.881100+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -615,7 +645,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-08-10T07:42:14.410456+00:00",
+      "published": "2026-08-10T13:08:43.881128+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -647,22 +677,6 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "bank of england",
         "enforcement"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "PRA and FCA propose new captive insurance regime to drive UK growth and competitiveness",
-      "summary": "Innovative new proposals aim to establish the UK as a centre for the fast-growing captive insurance market.",
-      "url": "https://www.bankofengland.co.uk/news/2026/july/pra-and-fca-propose-new-captive-insurance-regime-to-drive-uk-growth-and-competitiveness",
-      "published": "2026-07-14T14:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 4.8,
-      "action_type": "other",
-      "entities": [],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra"
       ],
       "extraction_tier": 0
     }
