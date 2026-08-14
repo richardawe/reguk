@@ -1,10 +1,48 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-08-14T07:25:18.688197+00:00",
+  "generated_at": "2026-08-14T13:07:06.532340+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
   "item_count": 30,
   "items": [
+    {
+      "title": "CEO banned for false and misleading statements made in attempt to buy bank and football club",
+      "summary": "Paul Taylor, former CEO of Blue Horizon Asset Management (BHAM) has been fined £489,000 and banned from working in financial services by the FCA.",
+      "url": "https://www.fca.org.uk/news/press-releases/ceo-banned-false-misleading-statements-attempt-buy-bank-football-club",
+      "published": "Friday, August 14, 2026 - 09:46",
+      "source": "FCA News",
+      "score": 25.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Paul Taylor",
+        "Blue Horizon Asset Management",
+        "Esmeralda Toni",
+        "Mr Taylor",
+        "Ms Toni",
+        "Prudential Regulation Authority",
+        "Reading Football Club",
+        "Therese Chambers",
+        "Blue Horizon Asset Management Ltd",
+        "Individual Conduct Rule"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra",
+        "prudential regulation authority",
+        "final notice",
+        "prudential",
+        "enforcement",
+        "penalty",
+        "fine",
+        "investigation",
+        "settlement",
+        "proposed",
+        "final",
+        "rule"
+      ],
+      "extraction_tier": 0
+    },
     {
       "title": "FCA censures Equity for Growth (Securities) Limited",
       "summary": "The FCA has censured Equity for Growth (Securities) Limited (EFG) for approving financial promotions relating to minibonds that were unfair, unclear and misleading.",
@@ -421,7 +459,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-08-14T07:25:17.503293+00:00",
+      "published": "2026-08-14T13:07:05.735793+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -489,7 +527,7 @@ window.SMARTKIT_DATA = {
       "title": "Policy paper: HM Treasury and Financial Conduct Authority Regulatory Perimeter Meeting – April 2026",
       "summary": "Record of the meeting between the Economic Secretary to the Treasury and the Chief Executive of the Financial Conduct Authority (FCA) to discuss the FCA’s Perimeter Report.",
       "url": "https://www.gov.uk/government/publications/hm-treasury-and-financial-conduct-authority-regulatory-perimeter-meeting-april-2026",
-      "published": "2026-08-14T07:25:18.003982+00:00",
+      "published": "2026-08-14T13:07:05.802355+00:00",
       "source": "HM Treasury",
       "score": 6.0,
       "action_type": "other",
@@ -512,7 +550,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-08-14T07:25:17.503317+00:00",
+      "published": "2026-08-14T13:07:05.735813+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -529,7 +567,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-08-14T07:25:17.503327+00:00",
+      "published": "2026-08-14T13:07:05.735821+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -608,7 +646,7 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-08-14T07:25:17.503271+00:00",
+      "published": "2026-08-14T13:07:05.735775+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -626,7 +664,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-08-14T07:25:17.503275+00:00",
+      "published": "2026-08-14T13:07:05.735779+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -645,7 +683,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-08-14T07:25:17.503298+00:00",
+      "published": "2026-08-14T13:07:05.735797+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -656,27 +694,6 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "competition and markets authority"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
-      "summary": "Following an external recruitment process, the Bank of England (the Bank) has appointed Nicholas Segal as Chair of its Enforcement Decision Making Committee (EDMC), and Peter King as Deputy Chair, with effect from 1 August 2026.",
-      "url": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc",
-      "published": "2026-08-03T09:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 4.8,
-      "action_type": "enforcement",
-      "entities": [
-        "Deputy Chair",
-        "Enforcement Decision Making Committee",
-        "Nicholas Segal",
-        "Peter King"
-      ],
-      "dates": [],
-      "key_terms": [
-        "bank of england",
-        "enforcement"
       ],
       "extraction_tier": 0
     }
