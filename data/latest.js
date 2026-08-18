@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-08-18T06:42:47.664015+00:00",
+  "generated_at": "2026-08-18T12:46:57.547627+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -136,6 +136,38 @@ window.SMARTKIT_DATA = {
         "enforcement",
         "compliance",
         "final"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "FCA bans senior manager for lack of honesty and integrity",
+      "summary": "The FCA has banned Howard Roland Duckett from working in financial services due to a serious lack of honesty and integrity.\n\nMr Duckett was a senior manager at Beauforce Corporation Limited, a debt management firm.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-bans-senior-manager-lack-honesty-integrity",
+      "published": "Tuesday, August 18, 2026 - 10:01",
+      "source": "FCA News",
+      "score": 14.4,
+      "action_type": "enforcement",
+      "entities": [
+        "Howard Roland Duckett",
+        "Mr Duckett",
+        "Beauforce Corporation Limited",
+        "The High Court",
+        "The Court",
+        "Therese Chambers",
+        "Mr Ducket",
+        "In November",
+        "Executive Director",
+        "Compliance Oversight"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "final notice",
+        "decision notice",
+        "enforcement",
+        "compliance",
+        "final",
+        "order"
       ],
       "extraction_tier": 0
     },
@@ -484,7 +516,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-08-18T06:42:46.730928+00:00",
+      "published": "2026-08-18T12:46:56.062050+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -552,7 +584,7 @@ window.SMARTKIT_DATA = {
       "title": "Policy paper: HM Treasury and Financial Conduct Authority Regulatory Perimeter Meeting – April 2026",
       "summary": "Record of the meeting between the Economic Secretary to the Treasury and the Chief Executive of the Financial Conduct Authority (FCA) to discuss the FCA’s Perimeter Report.",
       "url": "https://www.gov.uk/government/publications/hm-treasury-and-financial-conduct-authority-regulatory-perimeter-meeting-april-2026",
-      "published": "2026-08-18T06:42:46.784877+00:00",
+      "published": "2026-08-18T12:46:56.695790+00:00",
       "source": "HM Treasury",
       "score": 6.0,
       "action_type": "other",
@@ -575,7 +607,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-08-18T06:42:46.730951+00:00",
+      "published": "2026-08-18T12:46:56.062083+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -592,7 +624,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-08-18T06:42:46.730960+00:00",
+      "published": "2026-08-18T12:46:56.062096+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -671,31 +703,12 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-08-18T06:42:46.730907+00:00",
+      "published": "2026-08-18T12:46:56.062022+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
       "entities": [
         "Markets Authority"
-      ],
-      "dates": [],
-      "key_terms": [
-        "cma",
-        "competition and markets authority"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "CMA letter to government in relation to private parking",
-      "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
-      "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-08-18T06:42:46.730912+00:00",
-      "source": "CMA News",
-      "score": 4.95,
-      "action_type": "other",
-      "entities": [
-        "Markets Authority",
-        "Local Government"
       ],
       "dates": [],
       "key_terms": [
