@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-08-19T12:47:34.145261+00:00",
+  "generated_at": "2026-08-19T18:35:48.881561+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -40,6 +40,39 @@ window.SMARTKIT_DATA = {
         "proposed",
         "final",
         "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "FCA fines and bans former SVS Securities CEO",
+      "summary": "The FCA has banned Demetrios Hadjigeorgiou from working in senior management positions in financial services and fined him £56,400.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-fines-bans-former-svs-securities-ceo",
+      "published": "Wednesday, August 19, 2026 - 15:01",
+      "source": "FCA News",
+      "score": 21.6,
+      "action_type": "enforcement",
+      "entities": [
+        "Demetrios Hadjigeorgiou",
+        "Mr Hadjigeorgiou",
+        "Securities Plc",
+        "Upper Tribunal",
+        "Therese Chambers",
+        "Demetrios Christos Hadjigeorgiou",
+        "Decision Notice",
+        "Financial Services",
+        "Markets Act"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "final notice",
+        "prohibition order",
+        "decision notice",
+        "enforcement",
+        "penalty",
+        "fine",
+        "final",
+        "order"
       ],
       "extraction_tier": 0
     },
@@ -298,25 +331,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Managing conflicts of interest in insurance",
-      "summary": "Having just joined as the FCA’s new insurance director, it’s been great getting to know the team and see the variety of work they’re doing – whether that’s working with the industry to improve claims experiences for customers, consulting on simplifyi",
-      "url": "https://www.fca.org.uk/news/blogs/managing-conflicts-interest-insurance",
-      "published": "Thursday, July 23, 2026 - 12:05",
-      "source": "FCA News",
-      "score": 10.8,
-      "action_type": "enforcement",
-      "entities": [],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "enforcement action",
-        "enforcement",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Outcomes monitoring: why understanding the consumer experience matters and where firms should focus",
       "summary": "The Consumer Duty was designed to ensure firms were focussed on the outcomes that matter to their customers. Understanding the actual experiences of people and identifying potential harm are essential to delivering these improvements.",
       "url": "https://www.fca.org.uk/news/blogs/outcomes-monitoring-why-understanding-consumer-experience-matters",
@@ -516,7 +530,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-08-19T12:47:33.359810+00:00",
+      "published": "2026-08-19T18:35:47.395122+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -536,7 +550,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-08-19T12:47:33.359903+00:00",
+      "published": "2026-08-19T18:35:47.395200+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -604,7 +618,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-08-19T12:47:33.359934+00:00",
+      "published": "2026-08-19T18:35:47.395222+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -621,7 +635,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA orders Marks Electrical to refund customers over pre-selected extra charges",
       "summary": "Marks Electrical must refund nearly 40,000 customers and pay a fine after it automatically opted customers into additional paid services.",
       "url": "https://www.gov.uk/government/news/cma-orders-marks-electrical-to-refund-customers-over-pre-selected-extra-charges",
-      "published": "2026-08-19T12:47:33.359947+00:00",
+      "published": "2026-08-19T18:35:47.395232+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -700,7 +714,7 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-08-19T12:47:33.359875+00:00",
+      "published": "2026-08-19T18:35:47.395179+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
