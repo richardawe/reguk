@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-08-26T06:50:45.715714+00:00",
+  "generated_at": "2026-08-26T12:52:45.811526+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -40,6 +40,41 @@ window.SMARTKIT_DATA = {
         "proposed",
         "final",
         "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "FCA bans trio behind £35.5m scheme designed to bypass visa rules",
+      "summary": "The FCA has decided to ban 3 former senior figures at Dolfin Financial (UK) Limited (Dolfin) after finding they ran a scheme that helped clients bypass UK visa rules.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-bans-trio-bypass-visa-rules",
+      "published": "Wednesday, August 26, 2026 - 10:00",
+      "source": "FCA News",
+      "score": 22.2,
+      "action_type": "enforcement",
+      "entities": [
+        "Dolfin Financial",
+        "Denisz Nagy",
+        "Sanjay Maraj",
+        "Roman Joukovski",
+        "Home Office",
+        "Mr Nagy",
+        "Mr Joukovski",
+        "Mr Maraj",
+        "Therese Chambers",
+        "Final Notice"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "final notice",
+        "prohibition order",
+        "decision notice",
+        "enforcement",
+        "penalty",
+        "fine",
+        "final",
+        "rule",
+        "order"
       ],
       "extraction_tier": 0
     },
@@ -136,39 +171,6 @@ window.SMARTKIT_DATA = {
         "guidance",
         "final",
         "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA and Bank appoint members to their Transaction and Post-trade Reporting Harmonisation Taskforce",
-      "summary": "The FCA and Bank of England (Bank) have appointed members to their Transaction and Post-trade Reporting Harmonisation Taskforce.",
-      "url": "https://www.fca.org.uk/news/news-stories/fca-bank-appoint-members-their-transaction-post-trade-reporting-harmonisation-taskforce",
-      "published": "Monday, July 27, 2026 - 12:01",
-      "source": "FCA News",
-      "score": 16.2,
-      "action_type": "enforcement",
-      "entities": [
-        "Reporting Harmonisation Taskforce The",
-        "Reporting Harmonisation Taskforce",
-        "Financial Instruments Regulation",
-        "European Market Infrastructure Regulation",
-        "Securities Financing Transactions Regulation",
-        "The Policy",
-        "Helen Packard",
-        "Julia Giese",
-        "Giulia Pecce",
-        "Adam Jacobs"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "prudential regulation authority",
-        "bank of england",
-        "prudential",
-        "enforcement",
-        "compliance",
-        "final"
       ],
       "extraction_tier": 0
     },
@@ -542,7 +544,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-08-26T06:50:44.507506+00:00",
+      "published": "2026-08-26T12:52:44.727957+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -562,7 +564,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-08-26T06:50:44.507556+00:00",
+      "published": "2026-08-26T12:52:44.728022+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -580,37 +582,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "FCA secures majority of victims’ money back from convicted fraudster",
-      "summary": "Victims of convicted fraudster John Burford are set to recover the majority of the money they invested after the FCA obtained a confiscation order against him.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-secures-majority-victims-money-back-convicted-fraudster",
-      "published": "Monday, July 27, 2026 - 15:30",
-      "source": "FCA News",
-      "score": 6.0,
-      "action_type": "enforcement",
-      "entities": [
-        "John Burford",
-        "In September",
-        "Mr Burford",
-        "Southwark Crown Court",
-        "Steve Smart",
-        "If Mr Burford",
-        "Charles Burford",
-        "Crime Act",
-        "Firm Checker"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "enforcement",
-        "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "CMA orders StubHub UK to refund customers over hidden fees",
       "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
       "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-08-26T06:50:44.507575+00:00",
+      "published": "2026-08-26T12:52:44.728041+00:00",
       "source": "CMA News",
       "score": 5.5,
       "action_type": "enforcement",
@@ -687,7 +662,7 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-08-26T06:50:44.507535+00:00",
+      "published": "2026-08-26T12:52:44.727994+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -705,7 +680,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-08-26T06:50:44.507538+00:00",
+      "published": "2026-08-26T12:52:44.727998+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -724,7 +699,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-08-26T06:50:44.507560+00:00",
+      "published": "2026-08-26T12:52:44.728026+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -735,6 +710,27 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "competition and markets authority"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
+      "summary": "Following an external recruitment process, the Bank of England (the Bank) has appointed Nicholas Segal as Chair of its Enforcement Decision Making Committee (EDMC), and Peter King as Deputy Chair, with effect from 1 August 2026.",
+      "url": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc",
+      "published": "2026-08-03T09:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 4.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Deputy Chair",
+        "Enforcement Decision Making Committee",
+        "Nicholas Segal",
+        "Peter King"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england",
+        "enforcement"
       ],
       "extraction_tier": 0
     }
