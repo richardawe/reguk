@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-09-01T11:13:54.614169+00:00",
+  "generated_at": "2026-09-01T16:11:18.272338+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -543,7 +543,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-09-01T11:13:53.846513+00:00",
+      "published": "2026-09-01T16:11:17.628912+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -563,7 +563,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-09-01T11:13:53.846590+00:00",
+      "published": "2026-09-01T16:11:17.628992+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -577,23 +577,6 @@ window.SMARTKIT_DATA = {
         "cma",
         "competition and markets authority",
         "compliance"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "CMA orders StubHub UK to refund customers over hidden fees",
-      "summary": "StubHub UK must refund more than 50,000 customers and pay a fine close to £900,000.",
-      "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
-      "published": "2026-09-01T11:13:53.846619+00:00",
-      "source": "CMA News",
-      "score": 5.5,
-      "action_type": "enforcement",
-      "entities": [],
-      "dates": [],
-      "key_terms": [
-        "cma",
-        "fine",
-        "order"
       ],
       "extraction_tier": 0
     },
@@ -661,7 +644,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-09-01T11:13:53.846474+00:00",
+      "published": "2026-09-01T16:11:17.628877+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -680,7 +663,7 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-09-01T11:13:53.846555+00:00",
+      "published": "2026-09-01T16:11:17.628958+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -698,7 +681,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-09-01T11:13:53.846560+00:00",
+      "published": "2026-09-01T16:11:17.628964+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -717,7 +700,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-09-01T11:13:53.846596+00:00",
+      "published": "2026-09-01T16:11:17.628998+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -728,6 +711,27 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "competition and markets authority"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
+      "summary": "Following an external recruitment process, the Bank of England (the Bank) has appointed Nicholas Segal as Chair of its Enforcement Decision Making Committee (EDMC), and Peter King as Deputy Chair, with effect from 1 August 2026.",
+      "url": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc",
+      "published": "2026-08-03T09:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 4.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Deputy Chair",
+        "Enforcement Decision Making Committee",
+        "Nicholas Segal",
+        "Peter King"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england",
+        "enforcement"
       ],
       "extraction_tier": 0
     }
