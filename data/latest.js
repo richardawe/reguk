@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-09-03T03:19:26.603195+00:00",
+  "generated_at": "2026-09-03T10:47:37.699547+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -467,30 +467,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Blue Motor Finance Limited enters administration",
-      "summary": "On 30 July 2026, Blue Motor Finance Limited (BMFL) was placed into administration. Simon Edel, Richard Barker and Alan Michael Hudson of Ernst &amp; Young LLP were appointed as joint administrators.",
-      "url": "https://www.fca.org.uk/news/news-stories/blue-motor-finance-limited-enters-administration",
-      "published": "Thursday, July 30, 2026 - 13:33",
-      "source": "FCA News",
-      "score": 7.2,
-      "action_type": "guidance",
-      "entities": [
-        "Blue Motor Finance Limited",
-        "Simon Edel",
-        "Richard Barker",
-        "Alan Michael Hudson",
-        "Firm Checker"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "compensation",
-        "redress",
-        "guidance"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "FCA expands global presence with new attachés in India and UAE",
       "summary": "The FCA has announced Sabina Saini and Darine Obeid as the financial services attachés for India and the UAE.\n\nSabina will be based at the British Deputy High Commission in Mumbai and Darine will be based at the British Embassy in Abu Dhabi.",
       "url": "https://www.fca.org.uk/news/press-releases/fca-expands-global-presence-new-attaches-india-uae",
@@ -543,7 +519,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-09-03T03:19:25.644833+00:00",
+      "published": "2026-09-03T10:47:36.924371+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -563,7 +539,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-09-03T03:19:25.644926+00:00",
+      "published": "2026-09-03T10:47:36.924451+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -644,7 +620,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-09-03T03:19:25.644809+00:00",
+      "published": "2026-09-03T10:47:36.924349+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -663,7 +639,7 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-09-03T03:19:25.644882+00:00",
+      "published": "2026-09-03T10:47:36.924418+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -681,7 +657,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-09-03T03:19:25.644889+00:00",
+      "published": "2026-09-03T10:47:36.924425+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -700,7 +676,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-09-03T03:19:25.644933+00:00",
+      "published": "2026-09-03T10:47:36.924458+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -711,6 +687,24 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "competition and markets authority"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "FCA decides to ban and fine Daniel Thomas over unauthorised pension transfer advice",
+      "summary": "The FCA has decided to ban Daniel Thomas from working in financial services and fine him £742,700 after finding he recklessly gave defined benefit pension transfer advice he was neither qualified nor allowed to give.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-ban-fine-daniel-thomas-unauthorised-pension-transfer-advice",
+      "published": "Thursday, September 3, 2026 - 10:35",
+      "source": "FCA News",
+      "score": 4.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Daniel Thomas"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "fine"
       ],
       "extraction_tier": 0
     },
