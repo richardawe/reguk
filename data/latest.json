@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T10:44:47.925655+00:00",
+  "generated_at": "2026-09-08T16:08:37.940540+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -519,7 +519,7 @@
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-09-08T10:44:47.117653+00:00",
+      "published": "2026-09-08T16:08:37.302171+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -539,7 +539,7 @@
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-09-08T10:44:47.117736+00:00",
+      "published": "2026-09-08T16:08:37.302258+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -617,10 +617,31 @@
       "extraction_tier": 0
     },
     {
+      "title": "Public procurement in the national interest: Reflections from the CMA",
+      "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
+      "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
+      "published": "2026-09-08T16:08:37.302110+00:00",
+      "source": "CMA News",
+      "score": 4.95,
+      "action_type": "other",
+      "entities": [
+        "Sarah Cardell",
+        "Chief Executive",
+        "Markets Authority",
+        "Jubilee Room"
+      ],
+      "dates": [],
+      "key_terms": [
+        "cma",
+        "competition and markets authority"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-09-08T10:44:47.117632+00:00",
+      "published": "2026-09-08T16:08:37.302151+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -639,7 +660,7 @@
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-09-08T10:44:47.117698+00:00",
+      "published": "2026-09-08T16:08:37.302218+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -657,7 +678,7 @@
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-09-08T10:44:47.117704+00:00",
+      "published": "2026-09-08T16:08:37.302224+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -676,7 +697,7 @@
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-09-08T10:44:47.117743+00:00",
+      "published": "2026-09-08T16:08:37.302264+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -705,27 +726,6 @@
       "key_terms": [
         "fca",
         "fine"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
-      "summary": "Following an external recruitment process, the Bank of England (the Bank) has appointed Nicholas Segal as Chair of its Enforcement Decision Making Committee (EDMC), and Peter King as Deputy Chair, with effect from 1 August 2026.",
-      "url": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc",
-      "published": "2026-08-03T09:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 4.8,
-      "action_type": "enforcement",
-      "entities": [
-        "Deputy Chair",
-        "Enforcement Decision Making Committee",
-        "Nicholas Segal",
-        "Peter King"
-      ],
-      "dates": [],
-      "key_terms": [
-        "bank of england",
-        "enforcement"
       ],
       "extraction_tier": 0
     }
