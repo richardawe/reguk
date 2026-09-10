@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-09-10T10:48:02.326415+00:00",
+  "generated_at": "2026-09-10T15:57:32.042522+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -467,6 +467,32 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "Man pleads guilty to fraud and forgery offences relating to fake takeover approach",
+      "summary": "Christopher Woolcott has pleaded guilty to 4 counts of fraud and forgery after creating a fake takeover bid for Touchstone Exploration Inc.",
+      "url": "https://www.fca.org.uk/news/press-releases/man-pleads-guilty-fraud-forgery-offences-fake-takeover-approach",
+      "published": "Thursday, September 10, 2026 - 15:04",
+      "source": "FCA News",
+      "score": 6.6,
+      "action_type": "enforcement",
+      "entities": [
+        "Christopher Woolcott",
+        "Touchstone Exploration Inc",
+        "Mr Woolcott",
+        "Steve Smart",
+        "Westminster Magistrates",
+        "Fraud Act",
+        "Counterfeiting Act",
+        "Toronto Stock Exchange"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "enforcement",
+        "investigation"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "FCA expands global presence with new attachés in India and UAE",
       "summary": "The FCA has announced Sabina Saini and Darine Obeid as the financial services attachés for India and the UAE.\n\nSabina will be based at the British Deputy High Commission in Mumbai and Darine will be based at the British Embassy in Abu Dhabi.",
       "url": "https://www.fca.org.uk/news/press-releases/fca-expands-global-presence-new-attaches-india-uae",
@@ -519,7 +545,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-09-10T10:48:01.006011+00:00",
+      "published": "2026-09-10T15:57:30.935811+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -539,7 +565,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-09-10T10:48:01.006086+00:00",
+      "published": "2026-09-10T15:57:30.935886+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -620,7 +646,7 @@ window.SMARTKIT_DATA = {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-09-10T10:48:01.005969+00:00",
+      "published": "2026-09-10T15:57:30.935744+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -641,7 +667,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-09-10T10:48:01.005990+00:00",
+      "published": "2026-09-10T15:57:30.935766+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -660,7 +686,7 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-09-10T10:48:01.006056+00:00",
+      "published": "2026-09-10T15:57:30.935856+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -678,7 +704,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-09-10T10:48:01.006062+00:00",
+      "published": "2026-09-10T15:57:30.935862+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -697,7 +723,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to early years education and childcare sector",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in UK government.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-government-in-relation-to-childcare-provision",
-      "published": "2026-09-10T10:48:01.006093+00:00",
+      "published": "2026-09-10T15:57:30.935892+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -708,24 +734,6 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "competition and markets authority"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA decides to ban and fine Daniel Thomas over unauthorised pension transfer advice",
-      "summary": "The FCA has decided to ban Daniel Thomas from working in financial services and fine him £742,700 after finding he recklessly gave defined benefit pension transfer advice he was neither qualified nor allowed to give.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-ban-fine-daniel-thomas-unauthorised-pension-transfer-advice",
-      "published": "Thursday, September 3, 2026 - 10:35",
-      "source": "FCA News",
-      "score": 4.8,
-      "action_type": "enforcement",
-      "entities": [
-        "Daniel Thomas"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "fine"
       ],
       "extraction_tier": 0
     }
