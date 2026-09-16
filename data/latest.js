@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-09-16T10:58:08.665669+00:00",
+  "generated_at": "2026-09-16T16:17:37.335155+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -253,31 +253,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "The Bank, FCA and HM Treasury joint statement on Frontier AI models and cyber resilience",
-      "summary": "Statement from the Bank of England, Financial Conduct Authority and HM Treasury",
-      "url": "https://www.bankofengland.co.uk/news/2026/may/boe-fca-and-hm-treasury-joint-statement-on-frontier-ai-models-and-cyber-resilience",
-      "published": "2026-05-15T14:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 9.6,
-      "action_type": "other",
-      "entities": [
-        "The Bank",
-        "Financial Conduct Authority"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "financial conduct authority",
-        "bank of england",
-        "hm treasury"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Financial regulator bans former law firm owner from financial services",
       "summary": "The FCA has banned Nurul Miah, also known as Neil Mia and Neil Miah, from working in financial services.",
       "url": "https://www.fca.org.uk/news/press-releases/financial-regulator-bans-former-law-firm-owner-financial-services",
-      "published": "Tuesday, September 15, 2026 - 12:13",
+      "published": "Tuesday, September 15, 2026 - 11:13",
       "source": "FCA News",
       "score": 9.0,
       "action_type": "enforcement",
@@ -541,7 +520,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-09-16T10:58:07.128319+00:00",
+      "published": "2026-09-16T16:17:35.995294+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -561,7 +540,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-09-16T10:58:07.128379+00:00",
+      "published": "2026-09-16T16:17:35.995373+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -643,7 +622,7 @@ window.SMARTKIT_DATA = {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-09-16T10:58:07.128283+00:00",
+      "published": "2026-09-16T16:17:35.995252+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -664,7 +643,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-09-16T10:58:07.128299+00:00",
+      "published": "2026-09-16T16:17:35.995273+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -683,7 +662,7 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-09-16T10:58:07.128358+00:00",
+      "published": "2026-09-16T16:17:35.995347+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -701,7 +680,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-09-16T10:58:07.128363+00:00",
+      "published": "2026-09-16T16:17:35.995353+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -731,6 +710,27 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "fca",
         "fine"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
+      "summary": "Following an external recruitment process, the Bank of England (the Bank) has appointed Nicholas Segal as Chair of its Enforcement Decision Making Committee (EDMC), and Peter King as Deputy Chair, with effect from 1 August 2026.",
+      "url": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc",
+      "published": "2026-08-03T09:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 4.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Deputy Chair",
+        "Enforcement Decision Making Committee",
+        "Nicholas Segal",
+        "Peter King"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england",
+        "enforcement"
       ],
       "extraction_tier": 0
     }
