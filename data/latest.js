@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-09-18T10:42:20.025330+00:00",
+  "generated_at": "2026-09-18T15:58:04.386803+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -358,8 +358,8 @@ window.SMARTKIT_DATA = {
     {
       "title": "FCA opens investigation into Euro Exchange Securities UK Ltd",
       "summary": "We are investigating potential offences by Euro Exchange Securities UK Ltd (EES).\n\nThe reason for opening the investigation is that it appears to us that, between 1 February 2020 and 4 June 2026, EES may have committed offences under the Money Launde",
-      "url": "https://www.fca.org.uk/news/enforcement-investigations/fca-opens-investigation-euro-exchange-securities-uk-ltd",
-      "published": "Thursday, September 17, 2026 - 09:13",
+      "url": "https://www.fca.org.uk/news/news-stories/fca-opens-investigation-euro-exchange-securities-uk-ltd",
+      "published": "Wednesday, September 16, 2026 - 21:13",
       "source": "FCA News",
       "score": 7.2,
       "action_type": "rulemaking",
@@ -441,7 +441,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-09-18T10:42:19.199479+00:00",
+      "published": "2026-09-18T15:58:03.453949+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -461,7 +461,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
       "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-09-18T10:42:19.199522+00:00",
+      "published": "2026-09-18T15:58:03.454015+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -521,29 +521,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Bank of England and Financial Conduct Authority – Memorandum of Understanding on the supervision of Financial Market Infrastructure",
-      "summary": "Joint statement from the Bank of England and Financial Conduct Authority",
-      "url": "https://www.bankofengland.co.uk/news/2026/june/boe-and-fca-mou-on-supervision-of-financial-market-infrastructures",
-      "published": "2026-06-05T09:25:00+00:00",
-      "source": "Bank of England News",
-      "score": 5.4,
-      "action_type": "other",
-      "entities": [
-        "Financial Conduct Authority",
-        "Financial Market Infrastructure Joint"
-      ],
-      "dates": [],
-      "key_terms": [
-        "financial conduct authority",
-        "bank of england"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-09-18T10:42:19.199452+00:00",
+      "published": "2026-09-18T15:58:03.453901+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -564,7 +545,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-09-18T10:42:19.199465+00:00",
+      "published": "2026-09-18T15:58:03.453926+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -583,7 +564,7 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-09-18T10:42:19.199506+00:00",
+      "published": "2026-09-18T15:58:03.453994+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -601,7 +582,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-09-18T10:42:19.199510+00:00",
+      "published": "2026-09-18T15:58:03.453999+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -695,7 +676,23 @@ window.SMARTKIT_DATA = {
       "title": "Vandemoortele required to sell UK plant following pastry merger investigation",
       "summary": "Clearance decision comes well ahead of deadline following constructive engagement by the businesses with the CMA’s inquiry group.",
       "url": "https://www.gov.uk/government/news/vandemoortele-required-to-sell-uk-plant-following-pastry-merger-investigation",
-      "published": "2026-09-18T10:42:19.199474+00:00",
+      "published": "2026-09-18T15:58:03.453941+00:00",
+      "source": "CMA News",
+      "score": 3.85,
+      "action_type": "other",
+      "entities": [],
+      "dates": [],
+      "key_terms": [
+        "cma",
+        "investigation"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "CMA investigates Microsoft over marketing of subscription plans",
+      "summary": "Investigation will examine whether customers were misled about Microsoft 365 subscription options and paid more as a result.",
+      "url": "https://www.gov.uk/government/news/cma-investigates-microsoft-over-marketing-of-subscription-plans",
+      "published": "2026-09-18T15:58:03.453980+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
