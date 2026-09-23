@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-09-23T03:41:30.894026+00:00",
+  "generated_at": "2026-09-23T10:55:38.419270+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -135,30 +135,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Young investors trust AI more than TV or celebrities",
-      "summary": "Four in 5 less experienced investors have used AI for help with investing – and around two-thirds report doing so occasionally or regularly.",
-      "url": "https://www.fca.org.uk/news/press-releases/young-investors-trust-ai-more-tv-or-celebrities",
-      "published": "Thursday, August 27, 2026 - 10:00",
-      "source": "FCA News",
-      "score": 9.0,
-      "action_type": "enforcement",
-      "entities": [
-        "Financial Services Compensation Scheme",
-        "Financial Ombudsman Service",
-        "Lucy Castledine",
-        "United Kingdom"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "fscs",
-        "fine",
-        "compensation",
-        "final"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "PRA sets out adjustments to its market risk internal model approach under Basel 3.1",
       "summary": "The Prudential Regulation Authority (PRA) has today published a consultation on the internal model approach to market risk (IMA), which represents the final piece of Basel 3.1’s implementation in the UK.",
       "url": "https://www.bankofengland.co.uk/news/2026/june/pra-adjustments-market-risk-internal-model-approach-under-basel31",
@@ -176,6 +152,32 @@ window.SMARTKIT_DATA = {
         "prudential",
         "consultation",
         "final"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Firms crack down on money mules but need to do more",
+      "summary": "Financial firms are shutting down hundreds of thousands of suspected money mule accounts, but organised criminal groups are still shifting dirty money through multiple bank accounts before cashing out.",
+      "url": "https://www.fca.org.uk/news/press-releases/firms-crack-down-money-mules-need-do-more",
+      "published": "Wednesday, September 23, 2026 - 10:03",
+      "source": "FCA News",
+      "score": 8.4,
+      "action_type": "enforcement",
+      "entities": [
+        "The National Crime Agency",
+        "Home Office",
+        "Steve Smart",
+        "National Economic Crime Centre",
+        "The Home Office",
+        "Fraud Strategy",
+        "National Fraud Database"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "hmrc",
+        "regulated firm",
+        "enforcement"
       ],
       "extraction_tier": 0
     },
@@ -282,30 +284,23 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "FCA urges young adults to check for unclaimed Child Trust Funds",
-      "summary": "Thousands of young adults could be sitting on a forgotten pot of savings as they head back to college and university.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-urges-young-adults-check-unclaimed-child-trust-funds",
-      "published": "Tuesday, September 1, 2026 - 10:00",
+      "title": "Building the next generation of market infrastructure",
+      "summary": "Speech by Nikhil Rathi, FCA chief executive at TheCityUK dinner, sponsored by Nasdaq.\n\nThank you to TheCityUK and Nasdaq for bringing us together this evening.",
+      "url": "https://www.fca.org.uk/news/speeches/building-next-generation-market-infrastructure",
+      "published": "Wednesday, September 23, 2026 - 12:17",
       "source": "FCA News",
-      "score": 7.2,
-      "action_type": "enforcement",
+      "score": 6.6,
+      "action_type": "settlement",
       "entities": [
-        "Child Trust Funds Thousands",
-        "Child Trust Fund",
-        "Child Trust Funds",
-        "Chris Knight",
-        "Myrtle Lloyd",
-        "Child Trust",
-        "Financial Ombudsman Service",
-        "Consumer Duty",
-        "Trust Funds"
+        "Nikhil Rathi",
+        "Midland Bank",
+        "Digital Securities Depository"
       ],
       "dates": [],
       "key_terms": [
         "fca",
-        "hmrc",
-        "consumer duty",
-        "final"
+        "pra",
+        "settlement"
       ],
       "extraction_tier": 0
     },
@@ -339,7 +334,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-09-23T03:41:29.360313+00:00",
+      "published": "2026-09-23T10:55:37.940589+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -352,27 +347,6 @@ window.SMARTKIT_DATA = {
         "pra",
         "cma",
         "investigation"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "CMA letter to PHIN welcoming achievement of gold compliance milestone",
-      "summary": "The Competition and Markets Authority (CMA) welcomes the achievement by the Private Healthcare Information Network (PHIN) and the private healthcare industry of the ‘gold milestone’ of full compliance with the CMA’s Private …",
-      "url": "https://www.gov.uk/government/publications/cma-letter-to-phin-welcoming-achievement-of-gold-compliance-milestone",
-      "published": "2026-09-23T03:41:29.360408+00:00",
-      "source": "CMA News",
-      "score": 6.05,
-      "action_type": "other",
-      "entities": [
-        "The Competition",
-        "Markets Authority",
-        "Private Healthcare Information Network"
-      ],
-      "dates": [],
-      "key_terms": [
-        "cma",
-        "competition and markets authority",
-        "compliance"
       ],
       "extraction_tier": 0
     },
@@ -422,7 +396,7 @@ window.SMARTKIT_DATA = {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-09-23T03:41:29.360270+00:00",
+      "published": "2026-09-23T10:55:37.940547+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -443,7 +417,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-09-23T03:41:29.360292+00:00",
+      "published": "2026-09-23T10:55:37.940568+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -462,7 +436,7 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-09-23T03:41:29.360378+00:00",
+      "published": "2026-09-23T10:55:37.940635+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -480,7 +454,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-09-23T03:41:29.360387+00:00",
+      "published": "2026-09-23T10:55:37.940642+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -596,7 +570,7 @@ window.SMARTKIT_DATA = {
       "title": "Vandemoortele required to sell UK plant following pastry merger investigation",
       "summary": "Clearance decision comes well ahead of deadline following constructive engagement by the businesses with the CMA’s inquiry group.",
       "url": "https://www.gov.uk/government/news/vandemoortele-required-to-sell-uk-plant-following-pastry-merger-investigation",
-      "published": "2026-09-23T03:41:29.360305+00:00",
+      "published": "2026-09-23T10:55:37.940582+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -612,7 +586,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA investigates Microsoft over marketing of subscription plans",
       "summary": "Investigation will examine whether customers were misled about Microsoft 365 subscription options and paid more as a result.",
       "url": "https://www.gov.uk/government/news/cma-investigates-microsoft-over-marketing-of-subscription-plans",
-      "published": "2026-09-23T03:41:29.360339+00:00",
+      "published": "2026-09-23T10:55:37.940615+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -659,6 +633,24 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "bank of england",
         "guidance"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Correspondence: Open letters between HM Treasury and Bank of England, September 2026",
+      "summary": "CPI inflation was 3.1% in August 2026, prompting an open letter from the Governor of the Bank of England to the Chancellor on 17 September 2026. The Chancellor replied to the Governor on 17 September 2026.",
+      "url": "https://www.gov.uk/government/publications/open-letters-between-hm-treasury-and-bank-of-england-september-2026",
+      "published": "2026-09-23T10:55:37.978620+00:00",
+      "source": "HM Treasury",
+      "score": 3.5,
+      "action_type": "other",
+      "entities": [
+        "The Chancellor"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england",
+        "hm treasury"
       ],
       "extraction_tier": 0
     }
