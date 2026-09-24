@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T03:32:32.235548+00:00",
+  "generated_at": "2026-09-24T11:14:53.269921+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -331,10 +331,27 @@
       "extraction_tier": 0
     },
     {
+      "title": "CMA fines construction firm and staff for concealing evidence during inspection",
+      "summary": "First civil penalties issued against individuals for concealing evidence during an investigation.",
+      "url": "https://www.gov.uk/government/news/cma-fines-construction-firm-and-staff-for-concealing-evidence-during-inspection",
+      "published": "2026-09-24T11:14:52.399233+00:00",
+      "source": "CMA News",
+      "score": 6.05,
+      "action_type": "enforcement",
+      "entities": [],
+      "dates": [],
+      "key_terms": [
+        "cma",
+        "fine",
+        "investigation"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-09-24T03:32:30.769802+00:00",
+      "published": "2026-09-24T11:14:52.399266+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -355,7 +372,7 @@
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-09-24T03:32:30.769884+00:00",
+      "published": "2026-09-24T11:14:52.399390+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -417,7 +434,7 @@
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-09-24T03:32:30.769848+00:00",
+      "published": "2026-09-24T11:14:52.399316+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -438,7 +455,7 @@
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-09-24T03:32:30.769865+00:00",
+      "published": "2026-09-24T11:14:52.399353+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -457,7 +474,7 @@
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-09-24T03:32:30.769924+00:00",
+      "published": "2026-09-24T11:14:52.399470+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -475,7 +492,7 @@
       "title": "CMA letter to government in relation to private parking",
       "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
       "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-09-24T03:32:30.769930+00:00",
+      "published": "2026-09-24T11:14:52.399477+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -591,7 +608,7 @@
       "title": "Vandemoortele required to sell UK plant following pastry merger investigation",
       "summary": "Clearance decision comes well ahead of deadline following constructive engagement by the businesses with the CMA’s inquiry group.",
       "url": "https://www.gov.uk/government/news/vandemoortele-required-to-sell-uk-plant-following-pastry-merger-investigation",
-      "published": "2026-09-24T03:32:30.769878+00:00",
+      "published": "2026-09-24T11:14:52.399378+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -607,7 +624,7 @@
       "title": "CMA investigates Microsoft over marketing of subscription plans",
       "summary": "Investigation will examine whether customers were misled about Microsoft 365 subscription options and paid more as a result.",
       "url": "https://www.gov.uk/government/news/cma-investigates-microsoft-over-marketing-of-subscription-plans",
-      "published": "2026-09-24T03:32:30.769907+00:00",
+      "published": "2026-09-24T11:14:52.399434+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -631,28 +648,6 @@
       "dates": [],
       "key_terms": [
         "pra",
-        "guidance"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Statistical Notice 2026/07 -  Bank of England Levy: Notification Document Levy Year 2026/27",
-      "summary": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder",
-      "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-07",
-      "published": "2026-07-08T10:09:46+00:00",
-      "source": "Bank of England News",
-      "score": 3.6,
-      "action_type": "guidance",
-      "entities": [
-        "Statistical Notice",
-        "England Levy",
-        "Notification Document Levy Year",
-        "Statistical Notices",
-        "Banking Statistics Yellow Folder"
-      ],
-      "dates": [],
-      "key_terms": [
-        "bank of england",
         "guidance"
       ],
       "extraction_tier": 0
