@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-09-25T03:49:31.922919+00:00",
+  "generated_at": "2026-09-25T11:19:56.572707+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -76,6 +76,49 @@ window.SMARTKIT_DATA = {
         "enforcement action",
         "enforcement",
         "investigation"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Twenty-four CFD firms closing in crackdown on misuse of UK authorisation",
+      "summary": "Twenty-one Contracts for Differences (CFD) firms have closed since 2025, following a FCA crackdown.\n\nThe FCA was concerned the firms were misusing their authorised status to mislead consumers.",
+      "url": "https://www.fca.org.uk/news/press-releases/twenty-four-cfd-firms-closing-crackdown-misuse-uk-authorisation",
+      "published": "Friday, September 25, 2026 - 10:24",
+      "source": "FCA News",
+      "score": 10.2,
+      "action_type": "enforcement",
+      "entities": [
+        "Dominic Holland",
+        "Firm Checker"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "authorised firm",
+        "regulated firm",
+        "enforcement",
+        "investigation"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
+      "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
+      "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
+      "published": "2026-09-25T11:19:56.101387+00:00",
+      "source": "CMA News",
+      "score": 9.9,
+      "action_type": "enforcement",
+      "entities": [
+        "Markets Authority"
+      ],
+      "dates": [],
+      "key_terms": [
+        "cma",
+        "competition and markets authority",
+        "enforcement",
+        "redress",
+        "consultation"
       ],
       "extraction_tier": 0
     },
@@ -333,7 +376,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines construction firm and staff for concealing evidence during inspection",
       "summary": "First civil penalties issued against individuals for concealing evidence during an investigation.",
       "url": "https://www.gov.uk/government/news/cma-fines-construction-firm-and-staff-for-concealing-evidence-during-inspection",
-      "published": "2026-09-25T03:49:31.238477+00:00",
+      "published": "2026-09-25T11:19:56.101410+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "enforcement",
@@ -350,7 +393,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-09-25T03:49:31.238499+00:00",
+      "published": "2026-09-25T11:19:56.101419+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -371,7 +414,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-09-25T03:49:31.238571+00:00",
+      "published": "2026-09-25T11:19:56.101489+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -433,7 +476,7 @@ window.SMARTKIT_DATA = {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-09-25T03:49:31.238528+00:00",
+      "published": "2026-09-25T11:19:56.101447+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -454,7 +497,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-09-25T03:49:31.238549+00:00",
+      "published": "2026-09-25T11:19:56.101469+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -473,31 +516,12 @@ window.SMARTKIT_DATA = {
       "title": "Open letter to the private parking sector",
       "summary": "A letter issued by the Competition and Markets Authority (CMA) to private parking operators.",
       "url": "https://www.gov.uk/government/publications/open-letter-to-the-private-parking-sector",
-      "published": "2026-09-25T03:49:31.238616+00:00",
+      "published": "2026-09-25T11:19:56.101534+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
       "entities": [
         "Markets Authority"
-      ],
-      "dates": [],
-      "key_terms": [
-        "cma",
-        "competition and markets authority"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "CMA letter to government in relation to private parking",
-      "summary": "Letter sent by the Competition and Markets Authority (CMA) to the Ministry of Housing, Communities and Local Government.",
-      "url": "https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking",
-      "published": "2026-09-25T03:49:31.238623+00:00",
-      "source": "CMA News",
-      "score": 4.95,
-      "action_type": "other",
-      "entities": [
-        "Markets Authority",
-        "Local Government"
       ],
       "dates": [],
       "key_terms": [
@@ -523,24 +547,6 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "fca",
         "pra"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA decides to ban and fine Daniel Thomas over unauthorised pension transfer advice",
-      "summary": "The FCA has decided to ban Daniel Thomas from working in financial services and fine him £742,700 after finding he recklessly gave defined benefit pension transfer advice he was neither qualified nor allowed to give.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-ban-fine-daniel-thomas-unauthorised-pension-transfer-advice",
-      "published": "Thursday, September 3, 2026 - 10:35",
-      "source": "FCA News",
-      "score": 4.8,
-      "action_type": "enforcement",
-      "entities": [
-        "Daniel Thomas"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "fine"
       ],
       "extraction_tier": 0
     },
@@ -607,7 +613,7 @@ window.SMARTKIT_DATA = {
       "title": "Vandemoortele required to sell UK plant following pastry merger investigation",
       "summary": "Clearance decision comes well ahead of deadline following constructive engagement by the businesses with the CMA’s inquiry group.",
       "url": "https://www.gov.uk/government/news/vandemoortele-required-to-sell-uk-plant-following-pastry-merger-investigation",
-      "published": "2026-09-25T03:49:31.238564+00:00",
+      "published": "2026-09-25T11:19:56.101482+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -623,7 +629,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA investigates Microsoft over marketing of subscription plans",
       "summary": "Investigation will examine whether customers were misled about Microsoft 365 subscription options and paid more as a result.",
       "url": "https://www.gov.uk/government/news/cma-investigates-microsoft-over-marketing-of-subscription-plans",
-      "published": "2026-09-25T03:49:31.238597+00:00",
+      "published": "2026-09-25T11:19:56.101515+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
