@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-09-30T12:02:32.234619+00:00",
+  "generated_at": "2026-09-30T21:56:52.828078+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -105,7 +105,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-09-30T12:02:31.415578+00:00",
+      "published": "2026-09-30T21:56:37.538562+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -119,6 +119,35 @@ window.SMARTKIT_DATA = {
         "enforcement",
         "redress",
         "consultation"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "FCA announces new Board appointments",
+      "summary": "Three new appointments have been made to our Board, bringing additional experience in public policy, financial services, regulation and corporate leadership as we continue to deliver our strategy.",
+      "url": "https://www.fca.org.uk/news/news-stories/fca-announces-new-board-appointments-lea-paterson-matthew-tobin-sarah-pritchard",
+      "published": "Wednesday, September 30, 2026 - 17:17",
+      "source": "FCA News",
+      "score": 9.0,
+      "action_type": "rulemaking",
+      "entities": [
+        "Lea Paterson",
+        "Matthew Tobin",
+        "Sarah Pritchard",
+        "Senior Salaries Review Body",
+        "Civil Service Commissioner",
+        "Independent Parliamentary Standards Authority",
+        "Independent Evaluation",
+        "The Times",
+        "The Independent",
+        "Asset Protection Scheme"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "bank of england",
+        "hm treasury",
+        "systemic risk"
       ],
       "extraction_tier": 0
     },
@@ -216,34 +245,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "FCA opens investigation into Euro Exchange Securities UK Ltd",
-      "summary": "We are investigating potential offences by Euro Exchange Securities UK Ltd (EES).\n\nThe reason for opening the investigation is that it appears to us that, between 1 February 2020 and 4 June 2026, EES may have committed offences under the Money Launde",
-      "url": "https://www.fca.org.uk/news/news-stories/fca-opens-investigation-euro-exchange-securities-uk-ltd",
-      "published": "Wednesday, September 16, 2026 - 21:13",
-      "source": "FCA News",
-      "score": 7.2,
-      "action_type": "rulemaking",
-      "entities": [
-        "Euro Exchange Securities",
-        "Ltd We",
-        "Money Laundering",
-        "Terrorist Financing",
-        "High Court",
-        "Duncan Perring",
-        "James Bennett",
-        "Teneo Financial Advisory Limited",
-        "Electronic Money Institution Insolvency Regulations",
-        "The First Supervisory Notice"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "supervisory notice",
-        "investigation"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Building the next generation of market infrastructure",
       "summary": "Speech by Nikhil Rathi, FCA chief executive at TheCityUK dinner, sponsored by Nasdaq.\n\nThank you to TheCityUK and Nasdaq for bringing us together this evening.",
       "url": "https://www.fca.org.uk/news/speeches/building-next-generation-market-infrastructure",
@@ -293,7 +294,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines construction firm and staff for concealing evidence during inspection",
       "summary": "First civil penalties issued against individuals for concealing evidence during an investigation.",
       "url": "https://www.gov.uk/government/news/cma-fines-construction-firm-and-staff-for-concealing-evidence-during-inspection",
-      "published": "2026-09-30T12:02:31.415586+00:00",
+      "published": "2026-09-30T21:56:37.538566+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "enforcement",
@@ -310,7 +311,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-09-30T12:02:31.415592+00:00",
+      "published": "2026-09-30T21:56:37.538569+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -331,7 +332,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-09-30T12:02:31.415660+00:00",
+      "published": "2026-09-30T21:56:37.538606+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -423,7 +424,7 @@ window.SMARTKIT_DATA = {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-09-30T12:02:31.415619+00:00",
+      "published": "2026-09-30T21:56:37.538584+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -444,7 +445,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-09-30T12:02:31.415640+00:00",
+      "published": "2026-09-30T21:56:37.538595+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -517,6 +518,29 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "New appointments to Financial Conduct Authority Board 2026",
+      "summary": "The Economic Secretary to the Treasury has today confirmed that Lea Paterson CBE and Matthew Tobin have been appointed as Non–Executive Directors to the Board of the Financial Conduct Authority (FCA).",
+      "url": "https://www.gov.uk/government/news/new-appointments-to-financial-conduct-authority-board-2026",
+      "published": "2026-09-30T21:56:37.724933+00:00",
+      "source": "HM Treasury",
+      "score": 4.5,
+      "action_type": "other",
+      "entities": [
+        "Financial Conduct Authority Board",
+        "The Economic Secretary",
+        "Lea Paterson",
+        "Matthew Tobin",
+        "Executive Directors",
+        "Financial Conduct Authority"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "financial conduct authority"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "FCA takes Hunter Jones to High Court over alleged unauthorised activity",
       "summary": "The FCA has begun High Court proceedings against Osborne Baldwin Limited, which trades as Hunter Jones and Hunter Jones Group.\n\nThe FCA alleges that Hunter Jones, which sells loan notes, carries out regulated activity without authorisation.",
       "url": "https://www.fca.org.uk/news/press-releases/fca-takes-hunter-jones-high-court-over-alleged-unauthorised-activity",
@@ -542,7 +566,7 @@ window.SMARTKIT_DATA = {
       "title": "Vandemoortele required to sell UK plant following pastry merger investigation",
       "summary": "Clearance decision comes well ahead of deadline following constructive engagement by the businesses with the CMA’s inquiry group.",
       "url": "https://www.gov.uk/government/news/vandemoortele-required-to-sell-uk-plant-following-pastry-merger-investigation",
-      "published": "2026-09-30T12:02:31.415653+00:00",
+      "published": "2026-09-30T21:56:37.538602+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -558,7 +582,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA investigates Microsoft over marketing of subscription plans",
       "summary": "Investigation will examine whether customers were misled about Microsoft 365 subscription options and paid more as a result.",
       "url": "https://www.gov.uk/government/news/cma-investigates-microsoft-over-marketing-of-subscription-plans",
-      "published": "2026-09-30T12:02:31.415687+00:00",
+      "published": "2026-09-30T21:56:37.538619+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -621,22 +645,6 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "bank of england",
         "final"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Aldi and Lidl should be subject to the same rules as major supermarkets",
-      "summary": "CMA proposes that Aldi and Lidl should be covered by the same land agreement rules as the UK’s largest supermarkets to ensure customers get the best choice of where to shop.",
-      "url": "https://www.gov.uk/government/news/aldi-and-lidl-should-be-subject-to-the-same-rules-as-major-supermarkets",
-      "published": "2026-09-30T12:02:31.415680+00:00",
-      "source": "CMA News",
-      "score": 2.75,
-      "action_type": "settlement",
-      "entities": [],
-      "dates": [],
-      "key_terms": [
-        "cma",
-        "rule"
       ],
       "extraction_tier": 0
     }
