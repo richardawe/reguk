@@ -1,10 +1,42 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-10-02T04:27:25.923126+00:00",
+  "generated_at": "2026-10-02T12:00:19.786813+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
   "item_count": 30,
   "items": [
+    {
+      "title": "Firms’ confidence, satisfaction and trust in the FCA rise",
+      "summary": "The latest FCA and Practitioner Panel survey shows rising levels of satisfaction, confidence and trust in the FCA among firms, alongside a strong understanding of Consumer Duty expectations.",
+      "url": "https://www.fca.org.uk/news/news-stories/firms-confidence-satisfaction-and-trust-fca-rise",
+      "published": "Friday, October 2, 2026 - 11:58",
+      "source": "FCA News",
+      "score": 13.8,
+      "action_type": "guidance",
+      "entities": [
+        "Practitioner Panel",
+        "Consumer Duty",
+        "Secondary International Competitiveness",
+        "Growth Objective",
+        "Nikhil Rathi",
+        "Matt Hammerstein",
+        "The Panel",
+        "Financial Ombudsman Service",
+        "Advice Guidance Boundary Review",
+        "Buy Now Pay Later"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra",
+        "hm treasury",
+        "consumer duty",
+        "regulated firm",
+        "redress",
+        "guidance"
+      ],
+      "extraction_tier": 0
+    },
     {
       "title": "PRA fines HDI Global SE £4,165,000 for inaccurate reporting of FSCS Liabilities and FSCS Fee Tariff data",
       "summary": "The Prudential Regulation Authority (PRA) has imposed a financial penalty of £4,165,000 on HDI Global SE in connection with the submission of incorrect data to the PRA.",
@@ -105,7 +137,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-10-02T04:27:24.984560+00:00",
+      "published": "2026-10-02T12:00:18.841697+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -294,7 +326,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines construction firm and staff for concealing evidence during inspection",
       "summary": "First civil penalties issued against individuals for concealing evidence during an investigation.",
       "url": "https://www.gov.uk/government/news/cma-fines-construction-firm-and-staff-for-concealing-evidence-during-inspection",
-      "published": "2026-10-02T04:27:24.984566+00:00",
+      "published": "2026-10-02T12:00:18.841705+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "enforcement",
@@ -311,7 +343,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-10-02T04:27:24.984571+00:00",
+      "published": "2026-10-02T12:00:18.841712+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -332,7 +364,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-10-02T04:27:24.984622+00:00",
+      "published": "2026-10-02T12:00:18.841783+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -424,7 +456,7 @@ window.SMARTKIT_DATA = {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-10-02T04:27:24.984592+00:00",
+      "published": "2026-10-02T12:00:18.841740+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -445,7 +477,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-10-02T04:27:24.984607+00:00",
+      "published": "2026-10-02T12:00:18.841762+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -477,6 +509,26 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "fca",
         "pra"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
+      "summary": "Following an external recruitment process, the Bank of England has appointed Carlos Conceicao and Alexander Justham as members of its Enforcement Decision Making Committee, with effect from September 2026.",
+      "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
+      "published": "2026-10-02T08:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 4.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Enforcement Decision Making Committee",
+        "Carlos Conceicao",
+        "Alexander Justham"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england",
+        "enforcement"
       ],
       "extraction_tier": 0
     },
@@ -521,7 +573,7 @@ window.SMARTKIT_DATA = {
       "title": "New appointments to Financial Conduct Authority Board 2026",
       "summary": "The Economic Secretary to the Treasury has today confirmed that Lea Paterson CBE and Matthew Tobin have been appointed as Non–Executive Directors to the Board of the Financial Conduct Authority (FCA).",
       "url": "https://www.gov.uk/government/news/new-appointments-to-financial-conduct-authority-board-2026",
-      "published": "2026-10-02T04:27:25.062207+00:00",
+      "published": "2026-10-02T12:00:18.888485+00:00",
       "source": "HM Treasury",
       "score": 4.5,
       "action_type": "other",
@@ -566,7 +618,7 @@ window.SMARTKIT_DATA = {
       "title": "Vandemoortele required to sell UK plant following pastry merger investigation",
       "summary": "Clearance decision comes well ahead of deadline following constructive engagement by the businesses with the CMA’s inquiry group.",
       "url": "https://www.gov.uk/government/news/vandemoortele-required-to-sell-uk-plant-following-pastry-merger-investigation",
-      "published": "2026-10-02T04:27:24.984617+00:00",
+      "published": "2026-10-02T12:00:18.841776+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -582,7 +634,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA investigates Microsoft over marketing of subscription plans",
       "summary": "Investigation will examine whether customers were misled about Microsoft 365 subscription options and paid more as a result.",
       "url": "https://www.gov.uk/government/news/cma-investigates-microsoft-over-marketing-of-subscription-plans",
-      "published": "2026-10-02T04:27:24.984641+00:00",
+      "published": "2026-10-02T12:00:18.841809+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -607,48 +659,6 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "pra",
         "guidance"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Statistical Notice 2026/07 -  Bank of England Levy: Notification Document Levy Year 2026/27",
-      "summary": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder",
-      "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-07",
-      "published": "2026-07-08T10:09:46+00:00",
-      "source": "Bank of England News",
-      "score": 3.6,
-      "action_type": "guidance",
-      "entities": [
-        "Statistical Notice",
-        "England Levy",
-        "Notification Document Levy Year",
-        "Statistical Notices",
-        "Banking Statistics Yellow Folder"
-      ],
-      "dates": [],
-      "key_terms": [
-        "bank of england",
-        "guidance"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Official Statistics: HM Treasury Statistics: Timetable, standards and policies",
-      "summary": "HM Treasury's statistics are governed by the standards set out by the UK Statistics Authority in their Code of Practice for accredited official statistics.",
-      "url": "https://www.gov.uk/government/statistics/hm-treasury-statistics-timetable-standards-and-policies",
-      "published": "2026-10-02T04:27:25.062157+00:00",
-      "source": "HM Treasury",
-      "score": 3.5,
-      "action_type": "other",
-      "entities": [
-        "Official Statistics",
-        "Treasury Statistics",
-        "Statistics Authority"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "hm treasury"
       ],
       "extraction_tier": 0
     }
