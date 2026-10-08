@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-10-08T04:54:41.029296+00:00",
+  "generated_at": "2026-10-08T12:56:37.456465+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -110,7 +110,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-10-08T04:54:40.442558+00:00",
+      "published": "2026-10-08T12:56:36.619677+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -187,6 +187,27 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "New rules to make long-term investment funds clearer",
+      "summary": "The FCA has set out clearer expectations for asset managers about long-term investments, such as property.\n\nThis will help give the market more confidence to invest in funds that support private markets.",
+      "url": "https://www.fca.org.uk/news/press-releases/new-rules-make-long-term-investment-funds-clearer",
+      "published": "Thursday, October 8, 2026 - 12:03",
+      "source": "FCA News",
+      "score": 7.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Michelle Beck"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "consultation",
+        "rule",
+        "order",
+        "suspension"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "FCA opens the gateway to regulated crypto",
       "summary": "From today, crypto firms can apply for authorisation from the FCA, marking a landmark moment as the UK takes a step closer towards becoming one of the most trusted places in the world to build and invest in cryptoasset businesses.",
       "url": "https://www.fca.org.uk/news/press-releases/fca-opens-gateway-regulated-crypto",
@@ -204,27 +225,6 @@ window.SMARTKIT_DATA = {
         "guidance",
         "final",
         "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Financial crime: protecting the hive",
-      "summary": "Speech by Steve Smart, executive director of enforcement and market oversight, at the Law Society Economic Crime Conference 2026.\n\nIntroductionA few weeks ago, I visited the Bank of England Museum to see a new exhibition on financial crime.",
-      "url": "https://www.fca.org.uk/news/speeches/financial-crime-protecting-hive",
-      "published": "Thursday, September 17, 2026 - 13:02",
-      "source": "FCA News",
-      "score": 7.2,
-      "action_type": "enforcement",
-      "entities": [
-        "Steve Smart",
-        "Law Society Economic Crime Conference",
-        "England Museum"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "bank of england",
-        "enforcement"
       ],
       "extraction_tier": 0
     },
@@ -278,7 +278,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines construction firm and staff for concealing evidence during inspection",
       "summary": "First civil penalties issued against individuals for concealing evidence during an investigation.",
       "url": "https://www.gov.uk/government/news/cma-fines-construction-firm-and-staff-for-concealing-evidence-during-inspection",
-      "published": "2026-10-08T04:54:40.442567+00:00",
+      "published": "2026-10-08T12:56:36.619703+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "enforcement",
@@ -295,7 +295,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-10-08T04:54:40.442574+00:00",
+      "published": "2026-10-08T12:56:36.619712+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -316,7 +316,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-10-08T04:54:40.442642+00:00",
+      "published": "2026-10-08T12:56:36.619780+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -430,7 +430,7 @@ window.SMARTKIT_DATA = {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-10-08T04:54:40.442601+00:00",
+      "published": "2026-10-08T12:56:36.619740+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -451,7 +451,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-10-08T04:54:40.442622+00:00",
+      "published": "2026-10-08T12:56:36.619760+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -527,7 +527,7 @@ window.SMARTKIT_DATA = {
       "title": "New appointments to Financial Conduct Authority Board 2026",
       "summary": "The Economic Secretary to the Treasury has today confirmed that Lea Paterson CBE and Matthew Tobin have been appointed as Non–Executive Directors to the Board of the Financial Conduct Authority (FCA).",
       "url": "https://www.gov.uk/government/news/new-appointments-to-financial-conduct-authority-board-2026",
-      "published": "2026-10-08T04:54:40.479929+00:00",
+      "published": "2026-10-08T12:56:36.669366+00:00",
       "source": "HM Treasury",
       "score": 4.5,
       "action_type": "other",
@@ -572,7 +572,7 @@ window.SMARTKIT_DATA = {
       "title": "Vandemoortele required to sell UK plant following pastry merger investigation",
       "summary": "Clearance decision comes well ahead of deadline following constructive engagement by the businesses with the CMA’s inquiry group.",
       "url": "https://www.gov.uk/government/news/vandemoortele-required-to-sell-uk-plant-following-pastry-merger-investigation",
-      "published": "2026-10-08T04:54:40.442635+00:00",
+      "published": "2026-10-08T12:56:36.619774+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -588,7 +588,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA investigates Microsoft over marketing of subscription plans",
       "summary": "Investigation will examine whether customers were misled about Microsoft 365 subscription options and paid more as a result.",
       "url": "https://www.gov.uk/government/news/cma-investigates-microsoft-over-marketing-of-subscription-plans",
-      "published": "2026-10-08T04:54:40.442668+00:00",
+      "published": "2026-10-08T12:56:36.619807+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -597,6 +597,24 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "investigation"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Strong compliance functions support trusted corporate finance markets",
+      "summary": "Corporate finance firms help businesses raise funding and implement strategic transactions, supporting investment and growth.",
+      "url": "https://www.fca.org.uk/news/blogs/strong-compliance-functions-support-trusted-corporate-finance-markets",
+      "published": "Thursday, October 8, 2026 - 13:00",
+      "source": "FCA News",
+      "score": 3.6,
+      "action_type": "other",
+      "entities": [
+        "Regulatory Priorities Report"
+      ],
+      "dates": [],
+      "key_terms": [
+        "pra",
+        "compliance"
       ],
       "extraction_tier": 0
     },
@@ -635,26 +653,6 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "bank of england",
         "guidance"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Official Statistics: HM Treasury Statistics: Timetable, standards and policies",
-      "summary": "HM Treasury's statistics are governed by the standards set out by the UK Statistics Authority in their Code of Practice for accredited official statistics.",
-      "url": "https://www.gov.uk/government/statistics/hm-treasury-statistics-timetable-standards-and-policies",
-      "published": "2026-10-08T04:54:40.479847+00:00",
-      "source": "HM Treasury",
-      "score": 3.5,
-      "action_type": "other",
-      "entities": [
-        "Official Statistics",
-        "Treasury Statistics",
-        "Statistics Authority"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "hm treasury"
       ],
       "extraction_tier": 0
     }
