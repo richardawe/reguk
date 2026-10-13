@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-10-13T13:42:34.097865+00:00",
+  "generated_at": "2026-10-13T22:21:59.258849+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -110,7 +110,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-10-13T13:42:33.616958+00:00",
+      "published": "2026-10-13T22:21:58.296584+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -157,36 +157,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "FCA and partners join forces to help improve financial security for millions",
-      "summary": "The FCA is partnering across sectors to expand protection insurance coverage for millions of unprotected people.\n\nWhile the market is working well for consumers who have protection insurance, millions of people remain unprotected.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-partners-help-improve-financial-security-millions",
-      "published": "Monday, September 21, 2026 - 11:04",
-      "source": "FCA News",
-      "score": 8.4,
-      "action_type": "other",
-      "entities": [
-        "The Money",
-        "Pensions Service",
-        "Digital Property Market Steering Group",
-        "The Protection Distributors",
-        "The Association",
-        "Mortgage Intermediaries",
-        "Pure Protection Market Study",
-        "Graeme Reynolds",
-        "British Insurers",
-        "Consumer Duty"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "consumer duty",
-        "final",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "New rules to make long-term investment funds clearer",
       "summary": "The FCA has set out clearer expectations for asset managers about long-term investments, such as property.\n\nThis will help give the market more confidence to invest in funds that support private markets.",
       "url": "https://www.fca.org.uk/news/press-releases/new-rules-make-long-term-investment-funds-clearer",
@@ -204,6 +174,26 @@ window.SMARTKIT_DATA = {
         "rule",
         "order",
         "suspension"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Three arrests in major FCA operation against criminal insider dealing ring",
+      "summary": "The FCA has conducted a major operation to disrupt a suspected organised criminal group for engaging in insider dealing and money laundering.",
+      "url": "https://www.fca.org.uk/news/press-releases/three-arrests-major-fca-operation-against-criminal-insider-dealing-ring",
+      "published": "Tuesday, October 13, 2026 - 16:15",
+      "source": "FCA News",
+      "score": 7.2,
+      "action_type": "enforcement",
+      "entities": [
+        "National Crime Agency",
+        "Steve Smart"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "enforcement",
+        "fine"
       ],
       "extraction_tier": 0
     },
@@ -278,7 +268,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines construction firm and staff for concealing evidence during inspection",
       "summary": "First civil penalties issued against individuals for concealing evidence during an investigation.",
       "url": "https://www.gov.uk/government/news/cma-fines-construction-firm-and-staff-for-concealing-evidence-during-inspection",
-      "published": "2026-10-13T13:42:33.616965+00:00",
+      "published": "2026-10-13T22:21:58.296591+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "enforcement",
@@ -295,7 +285,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-10-13T13:42:33.616972+00:00",
+      "published": "2026-10-13T22:21:58.296598+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -316,7 +306,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-10-13T13:42:33.617037+00:00",
+      "published": "2026-10-13T22:21:58.296663+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -408,29 +398,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Bank of England launches policy statement and draft rules on regulating systemic stablecoins",
-      "summary": "The Bank of England has today published its policy statement and draft Code of Practice (rules) for systemic stablecoin issuers.",
-      "url": "https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins",
-      "published": "2026-06-22T07:30:00+00:00",
-      "source": "Bank of England News",
-      "score": 5.4,
-      "action_type": "other",
-      "entities": [
-        "The Bank"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "bank of england",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-10-13T13:42:33.616998+00:00",
+      "published": "2026-10-13T22:21:58.296624+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -451,7 +422,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-10-13T13:42:33.617018+00:00",
+      "published": "2026-10-13T22:21:58.296643+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -627,7 +598,7 @@ window.SMARTKIT_DATA = {
       "title": "Vandemoortele required to sell UK plant following pastry merger investigation",
       "summary": "Clearance decision comes well ahead of deadline following constructive engagement by the businesses with the CMA’s inquiry group.",
       "url": "https://www.gov.uk/government/news/vandemoortele-required-to-sell-uk-plant-following-pastry-merger-investigation",
-      "published": "2026-10-13T13:42:33.617031+00:00",
+      "published": "2026-10-13T22:21:58.296657+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -643,7 +614,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA investigates Microsoft over marketing of subscription plans",
       "summary": "Investigation will examine whether customers were misled about Microsoft 365 subscription options and paid more as a result.",
       "url": "https://www.gov.uk/government/news/cma-investigates-microsoft-over-marketing-of-subscription-plans",
-      "published": "2026-10-13T13:42:33.617063+00:00",
+      "published": "2026-10-13T22:21:58.296688+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -670,6 +641,22 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "pra",
         "compliance"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "PRA consults on updated guidance for friendly society amalgamations and transfers",
+      "summary": "The proposals would provide more detail on the PRA’s approach to Part VIII transactions, helping firms plan amalgamations and transfers more efficiently.",
+      "url": "https://www.bankofengland.co.uk/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers",
+      "published": "2026-07-22T09:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 3.6,
+      "action_type": "guidance",
+      "entities": [],
+      "dates": [],
+      "key_terms": [
+        "pra",
+        "guidance"
       ],
       "extraction_tier": 0
     }
