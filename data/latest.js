@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-10-22T16:45:22.350239+00:00",
+  "generated_at": "2026-10-22T21:16:02.255126+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -124,7 +124,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-10-22T16:45:21.239980+00:00",
+      "published": "2026-10-22T21:16:01.510708+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -262,7 +262,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines construction firm and staff for concealing evidence during inspection",
       "summary": "First civil penalties issued against individuals for concealing evidence during an investigation.",
       "url": "https://www.gov.uk/government/news/cma-fines-construction-firm-and-staff-for-concealing-evidence-during-inspection",
-      "published": "2026-10-22T16:45:21.239985+00:00",
+      "published": "2026-10-22T21:16:01.510715+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "enforcement",
@@ -279,7 +279,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-10-22T16:45:21.239989+00:00",
+      "published": "2026-10-22T21:16:01.510722+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -300,7 +300,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-10-22T16:45:21.240036+00:00",
+      "published": "2026-10-22T21:16:01.510806+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -313,33 +313,6 @@ window.SMARTKIT_DATA = {
         "pra",
         "cma",
         "investigation"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA secures money back for victims of crypto fraud",
-      "summary": "Victims of a £1.5m crypto investment fraud will recover lost funds after the FCA obtained confiscation orders against Raymondip Bedi and Patrick Mavanga.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-secures-money-back-victims-crypto-fraud",
-      "published": "Monday, September 28, 2026 - 14:08",
-      "source": "FCA News",
-      "score": 6.0,
-      "action_type": "enforcement",
-      "entities": [
-        "Raymondip Bedi",
-        "Patrick Mavanga",
-        "Southwark Crown Court",
-        "Between February",
-        "Astaria Group",
-        "In July",
-        "Steve Smart",
-        "Crime Act",
-        "Consumer Helpline"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "enforcement",
-        "order"
       ],
       "extraction_tier": 0
     },
@@ -395,7 +368,7 @@ window.SMARTKIT_DATA = {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-10-22T16:45:21.240013+00:00",
+      "published": "2026-10-22T21:16:01.510748+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -416,7 +389,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-10-22T16:45:21.240024+00:00",
+      "published": "2026-10-22T21:16:01.510787+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -543,7 +516,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-10-22T16:45:21.239963+00:00",
+      "published": "2026-10-22T21:16:01.510681+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -630,7 +603,7 @@ window.SMARTKIT_DATA = {
       "title": "Vandemoortele required to sell UK plant following pastry merger investigation",
       "summary": "Clearance decision comes well ahead of deadline following constructive engagement by the businesses with the CMA’s inquiry group.",
       "url": "https://www.gov.uk/government/news/vandemoortele-required-to-sell-uk-plant-following-pastry-merger-investigation",
-      "published": "2026-10-22T16:45:21.240032+00:00",
+      "published": "2026-10-22T21:16:01.510799+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -639,6 +612,33 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "investigation"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Market integrity in a digital age",
+      "summary": "Speech by Nikhil Rathi, FCA chief executive at the Corporation of the City of London’s annual City Dinner, Mansion House.\n\nThe success of the UK’s financial servicesIn August, flight cancellations left my sons and I with an extra day in Boston.",
+      "url": "https://www.fca.org.uk/news/speeches/market-integrity-digital-age",
+      "published": "Thursday, October 22, 2026 - 22:01",
+      "source": "FCA News",
+      "score": 3.6,
+      "action_type": "enforcement",
+      "entities": [
+        "Nikhil Rathi",
+        "City Dinner",
+        "Mansion House",
+        "Red Sox",
+        "American Finance",
+        "George Bernard Shaw",
+        "United Kingdom",
+        "Open Banking",
+        "Open Finance",
+        "Lady Mayor"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "order"
       ],
       "extraction_tier": 0
     },
