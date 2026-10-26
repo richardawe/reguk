@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-10-26T03:36:19.630394+00:00",
+  "generated_at": "2026-10-26T12:23:53.322053+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -38,38 +38,6 @@ window.SMARTKIT_DATA = {
         "investigation",
         "final",
         "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Firms’ confidence, satisfaction and trust in the FCA rise",
-      "summary": "The latest FCA and Practitioner Panel survey shows rising levels of satisfaction, confidence and trust in the FCA among firms, alongside a strong understanding of Consumer Duty expectations.",
-      "url": "https://www.fca.org.uk/news/news-stories/firms-confidence-satisfaction-and-trust-fca-rise",
-      "published": "Friday, October 2, 2026 - 11:58",
-      "source": "FCA News",
-      "score": 13.8,
-      "action_type": "guidance",
-      "entities": [
-        "Practitioner Panel",
-        "Consumer Duty",
-        "Secondary International Competitiveness",
-        "Growth Objective",
-        "Nikhil Rathi",
-        "Matt Hammerstein",
-        "The Panel",
-        "Financial Ombudsman Service",
-        "Advice Guidance Boundary Review",
-        "Buy Now Pay Later"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "hm treasury",
-        "consumer duty",
-        "regulated firm",
-        "redress",
-        "guidance"
       ],
       "extraction_tier": 0
     },
@@ -124,7 +92,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-10-26T03:36:18.534387+00:00",
+      "published": "2026-10-26T12:23:52.034956+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -212,7 +180,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines construction firm and staff for concealing evidence during inspection",
       "summary": "First civil penalties issued against individuals for concealing evidence during an investigation.",
       "url": "https://www.gov.uk/government/news/cma-fines-construction-firm-and-staff-for-concealing-evidence-during-inspection",
-      "published": "2026-10-26T03:36:18.534393+00:00",
+      "published": "2026-10-26T12:23:52.034963+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "enforcement",
@@ -229,7 +197,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-10-26T03:36:18.534399+00:00",
+      "published": "2026-10-26T12:23:52.034970+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -250,7 +218,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-10-26T03:36:18.534454+00:00",
+      "published": "2026-10-26T12:23:52.035035+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -315,32 +283,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Reforming UK capital markets to ensure they work well for our economy",
-      "summary": "Speech by Jon Relleen, director of infrastructure and exchanges, at the Reform of the UK Public and Private Capital Markets Summit 2026.\n\nThe Economic Secretary to the Treasury has discussed the contribution of UK markets to economic growth.",
-      "url": "https://www.fca.org.uk/news/speeches/reforming-uk-capital-markets-ensure-they-work-well-our-economy",
-      "published": "Monday, October 5, 2026 - 07:19",
-      "source": "FCA News",
-      "score": 5.4,
-      "action_type": "rulemaking",
-      "entities": [
-        "Jon Relleen",
-        "Private Capital Markets Summit",
-        "The Economic Secretary",
-        "Wholesale Markets Review"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "bank of england",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-10-26T03:36:18.534422+00:00",
+      "published": "2026-10-26T12:23:52.034997+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -361,7 +307,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-10-26T03:36:18.534438+00:00",
+      "published": "2026-10-26T12:23:52.035016+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -506,7 +452,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-10-26T03:36:18.534350+00:00",
+      "published": "2026-10-26T12:23:52.034929+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -515,6 +461,27 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "fine"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Chandler King (City) Limited enters creditors’ voluntary liquidation",
+      "summary": "On 17 September 2026, Chandler King (City) Limited (Chandler King) went into creditors’ voluntary liquidation. Grace Jones and Karyn Jones of Parker Andrews were appointed as joint liquidators.",
+      "url": "https://www.fca.org.uk/news/news-stories/chandler-king-enters-creditors-voluntary-liquidation",
+      "published": "Monday, October 26, 2026 - 10:00",
+      "source": "FCA News",
+      "score": 4.2,
+      "action_type": "settlement",
+      "entities": [
+        "Chandler King",
+        "Grace Jones",
+        "Karyn Jones",
+        "Parker Andrews"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "authorised firm"
       ],
       "extraction_tier": 0
     },
@@ -593,7 +560,7 @@ window.SMARTKIT_DATA = {
       "title": "Vandemoortele required to sell UK plant following pastry merger investigation",
       "summary": "Clearance decision comes well ahead of deadline following constructive engagement by the businesses with the CMA’s inquiry group.",
       "url": "https://www.gov.uk/government/news/vandemoortele-required-to-sell-uk-plant-following-pastry-merger-investigation",
-      "published": "2026-10-26T03:36:18.534449+00:00",
+      "published": "2026-10-26T12:23:52.035029+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -662,6 +629,28 @@ window.SMARTKIT_DATA = {
       "dates": [],
       "key_terms": [
         "pra",
+        "guidance"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Statistical Notice 2026/07 -  Bank of England Levy: Notification Document Levy Year 2026/27",
+      "summary": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder",
+      "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-07",
+      "published": "2026-07-08T10:09:46+00:00",
+      "source": "Bank of England News",
+      "score": 3.6,
+      "action_type": "guidance",
+      "entities": [
+        "Statistical Notice",
+        "England Levy",
+        "Notification Document Levy Year",
+        "Statistical Notices",
+        "Banking Statistics Yellow Folder"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england",
         "guidance"
       ],
       "extraction_tier": 0
