@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-10-29T04:44:08.127299+00:00",
+  "generated_at": "2026-10-29T12:25:26.579811+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -89,10 +89,38 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "FCA stops HTX's crypto promotions",
+      "summary": "The FCA has secured High Court undertakings to ensure that HTX (formerly Huobi), a global crypto exchange, will not knowingly promote cryptoasset services unlawfully to UK consumers.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-stops-htxs-crypto-promotions",
+      "published": "Thursday, October 29, 2026 - 10:00",
+      "source": "FCA News",
+      "score": 11.4,
+      "action_type": "enforcement",
+      "entities": [
+        "High Court",
+        "Huobi Global",
+        "Steve Smart",
+        "Firm Checker",
+        "Financial Services",
+        "Markets Act",
+        "Property Division"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "enforcement action",
+        "enforcement",
+        "settlement",
+        "rule",
+        "order"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-10-29T04:44:06.735502+00:00",
+      "published": "2026-10-29T12:25:25.367343+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -106,27 +134,6 @@ window.SMARTKIT_DATA = {
         "enforcement",
         "redress",
         "consultation"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "New rules to make long-term investment funds clearer",
-      "summary": "The FCA has set out clearer expectations for asset managers about long-term investments, such as property.\n\nThis will help give the market more confidence to invest in funds that support private markets.",
-      "url": "https://www.fca.org.uk/news/press-releases/new-rules-make-long-term-investment-funds-clearer",
-      "published": "Thursday, October 8, 2026 - 12:03",
-      "source": "FCA News",
-      "score": 7.8,
-      "action_type": "enforcement",
-      "entities": [
-        "Michelle Beck"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "consultation",
-        "rule",
-        "order",
-        "suspension"
       ],
       "extraction_tier": 0
     },
@@ -180,7 +187,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines construction firm and staff for concealing evidence during inspection",
       "summary": "First civil penalties issued against individuals for concealing evidence during an investigation.",
       "url": "https://www.gov.uk/government/news/cma-fines-construction-firm-and-staff-for-concealing-evidence-during-inspection",
-      "published": "2026-10-29T04:44:06.735507+00:00",
+      "published": "2026-10-29T12:25:25.367350+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "enforcement",
@@ -197,7 +204,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-10-29T04:44:06.735512+00:00",
+      "published": "2026-10-29T12:25:25.367357+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -218,7 +225,7 @@ window.SMARTKIT_DATA = {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
       "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
       "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-10-29T04:44:06.735560+00:00",
+      "published": "2026-10-29T12:25:25.367420+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -231,6 +238,26 @@ window.SMARTKIT_DATA = {
         "pra",
         "cma",
         "investigation"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "FCA encourages former Verus Financial Services Limited customers to check if they can claim with FSCS",
+      "summary": "Compensation may be available to former Verus customers through the Financial Services Compensation Scheme (FSCS), subject to assessment.",
+      "url": "https://www.fca.org.uk/news/news-stories/fca-encourages-former-verus-financial-services-limited-customers-check-if-they-can-claim-fscs",
+      "published": "Thursday, October 29, 2026 - 11:58",
+      "source": "FCA News",
+      "score": 6.0,
+      "action_type": "other",
+      "entities": [
+        "Verus Financial Services Limited",
+        "Financial Services Compensation Scheme"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "fscs",
+        "compensation"
       ],
       "extraction_tier": 0
     },
@@ -286,7 +313,7 @@ window.SMARTKIT_DATA = {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-10-29T04:44:06.735532+00:00",
+      "published": "2026-10-29T12:25:25.367383+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -307,7 +334,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-10-29T04:44:06.735545+00:00",
+      "published": "2026-10-29T12:25:25.367402+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -319,6 +346,24 @@ window.SMARTKIT_DATA = {
         "cma",
         "compensation",
         "order"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "What does 'fair value' look like in practice? Three years into the Consumer Duty, here’s what we’ve learned.",
+      "summary": "Fair value is a simple yet important principle at the heart of the Consumer Duty: the price customers pay should be reasonable, relative to the benefits they get. But applying that principle in practice requires judgement.",
+      "url": "https://www.fca.org.uk/news/blogs/fair-value-look-practice-three-years-consumer-duty",
+      "published": "Thursday, October 29, 2026 - 10:03",
+      "source": "FCA News",
+      "score": 4.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Consumer Duty"
+      ],
+      "dates": [],
+      "key_terms": [
+        "pra",
+        "consumer duty"
       ],
       "extraction_tier": 0
     },
@@ -452,7 +497,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-10-29T04:44:06.735482+00:00",
+      "published": "2026-10-29T12:25:25.367315+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -530,37 +575,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Liam Coleman appointed as chair of the Financial Ombudsman Service",
-      "summary": "The FCA Board has appointed Liam Coleman as chair of the Financial Ombudsman Service, with the approval of the Treasury.\n\nLiam will take up the permanent role on 10 October 2026 for a 3-year term, having served as interim chair for the last year.",
-      "url": "https://www.fca.org.uk/news/press-releases/liam-coleman-appointed-chair-financial-ombudsman-service",
-      "published": "Friday, October 9, 2026 - 12:06",
-      "source": "FCA News",
-      "score": 4.2,
-      "action_type": "rulemaking",
-      "entities": [
-        "Liam Coleman",
-        "Financial Ombudsman Service The",
-        "Financial Ombudsman Service",
-        "Ashley Alder",
-        "Mr Coleman",
-        "Quadrant Housing Trust",
-        "Foundation Trust",
-        "Nationwide Building Society",
-        "Royal Bank",
-        "Cooperative Bank"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "redress"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Vandemoortele required to sell UK plant following pastry merger investigation",
       "summary": "Clearance decision comes well ahead of deadline following constructive engagement by the businesses with the CMA’s inquiry group.",
       "url": "https://www.gov.uk/government/news/vandemoortele-required-to-sell-uk-plant-following-pastry-merger-investigation",
-      "published": "2026-10-29T04:44:06.735555+00:00",
+      "published": "2026-10-29T12:25:25.367414+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -600,20 +618,20 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Strong compliance functions support trusted corporate finance markets",
-      "summary": "Corporate finance firms help businesses raise funding and implement strategic transactions, supporting investment and growth.",
-      "url": "https://www.fca.org.uk/news/blogs/strong-compliance-functions-support-trusted-corporate-finance-markets",
-      "published": "Thursday, October 8, 2026 - 13:00",
-      "source": "FCA News",
+      "title": "Bank of England sets out approach to tokenised collateral in central clearing",
+      "summary": "The Bank of England has today launched a consultation supporting central counterparties (CCPs) acceptance of tokenised forms of eligible collateral.",
+      "url": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
+      "published": "2026-10-29T10:00:00+00:00",
+      "source": "Bank of England News",
       "score": 3.6,
       "action_type": "other",
       "entities": [
-        "Regulatory Priorities Report"
+        "The Bank"
       ],
       "dates": [],
       "key_terms": [
-        "pra",
-        "compliance"
+        "bank of england",
+        "consultation"
       ],
       "extraction_tier": 0
     },
@@ -629,28 +647,6 @@ window.SMARTKIT_DATA = {
       "dates": [],
       "key_terms": [
         "pra",
-        "guidance"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Statistical Notice 2026/07 -  Bank of England Levy: Notification Document Levy Year 2026/27",
-      "summary": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder",
-      "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-07",
-      "published": "2026-07-08T10:09:46+00:00",
-      "source": "Bank of England News",
-      "score": 3.6,
-      "action_type": "guidance",
-      "entities": [
-        "Statistical Notice",
-        "England Levy",
-        "Notification Document Levy Year",
-        "Statistical Notices",
-        "Banking Statistics Yellow Folder"
-      ],
-      "dates": [],
-      "key_terms": [
-        "bank of england",
         "guidance"
       ],
       "extraction_tier": 0
