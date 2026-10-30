@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-10-30T04:43:35.793191+00:00",
+  "generated_at": "2026-10-30T12:16:42.606244+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -120,7 +120,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-10-30T04:43:34.275435+00:00",
+      "published": "2026-10-30T12:16:41.143685+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -187,7 +187,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines construction firm and staff for concealing evidence during inspection",
       "summary": "First civil penalties issued against individuals for concealing evidence during an investigation.",
       "url": "https://www.gov.uk/government/news/cma-fines-construction-firm-and-staff-for-concealing-evidence-during-inspection",
-      "published": "2026-10-30T04:43:34.275440+00:00",
+      "published": "2026-10-30T12:16:41.143689+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "enforcement",
@@ -204,7 +204,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-10-30T04:43:34.275446+00:00",
+      "published": "2026-10-30T12:16:41.143693+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -218,26 +218,6 @@ window.SMARTKIT_DATA = {
         "cma",
         "competition and markets authority",
         "consultation"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing",
-      "summary": "Investigations into online pricing practices are part of CMA’s work to help ease cost of living pressures.",
-      "url": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing",
-      "published": "2026-10-30T04:43:34.275496+00:00",
-      "source": "CMA News",
-      "score": 6.05,
-      "action_type": "other",
-      "entities": [
-        "Virgin Atlantic",
-        "Driving School"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "cma",
-        "investigation"
       ],
       "extraction_tier": 0
     },
@@ -313,7 +293,7 @@ window.SMARTKIT_DATA = {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-10-30T04:43:34.275466+00:00",
+      "published": "2026-10-30T12:16:41.143709+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -334,7 +314,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-10-30T04:43:34.275480+00:00",
+      "published": "2026-10-30T12:16:41.143720+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -346,6 +326,26 @@ window.SMARTKIT_DATA = {
         "cma",
         "compensation",
         "order"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Brits nearly twice as likely to spot pressure tactics in horror films as investment red flags",
+      "summary": "Investors are almost twice as likely to recognise pressure tactics in a horror film as they are when those tactics are used to promote an investment opportunity, new FCA data suggests.",
+      "url": "https://www.fca.org.uk/news/press-releases/brits-nearly-twice-likely-spot-pressure-tactics-horror-films-investment-red-flags",
+      "published": "Friday, October 30, 2026 - 09:00",
+      "source": "FCA News",
+      "score": 4.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Lucy Castledine",
+        "Its Hype Type Revealer",
+        "Hype Type Revealer"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "fine"
       ],
       "extraction_tier": 0
     },
@@ -413,30 +413,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Motor finance legal challenge to be heard in February 2027",
-      "summary": "The Upper Tribunal has confirmed it will hear the legal challenges to our motor finance compensation scheme between 16 February and 3 March 2027.",
-      "url": "https://www.fca.org.uk/news/statements/motor-finance-legal-challenge-be-heard-february-2027",
-      "published": "Tuesday, October 13, 2026 - 08:31",
-      "source": "FCA News",
-      "score": 4.8,
-      "action_type": "settlement",
-      "entities": [
-        "The Upper Tribunal",
-        "Volkswagen Financial Services",
-        "Mercedes Benz Financial Services",
-        "Agricole Auto Finance",
-        "Consumer Voice",
-        "Courmacs Legal"
-      ],
-      "dates": [],
-      "key_terms": [
-        "ico",
-        "compensation",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
       "summary": "Following an external recruitment process, the Bank of England has appointed Carlos Conceicao and Alexander Justham as members of its Enforcement Decision Making Committee, with effect from September 2026.",
       "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
@@ -497,7 +473,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-10-30T04:43:34.275414+00:00",
+      "published": "2026-10-30T12:16:41.143669+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -575,10 +551,26 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "CMA opens investigation into Meta’s commercial terms",
+      "summary": "Investigation will examine concerns that Meta’s terms and conditions unfairly harm news publishers and other content businesses.",
+      "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
+      "published": "2026-10-30T12:16:41.143633+00:00",
+      "source": "CMA News",
+      "score": 3.85,
+      "action_type": "other",
+      "entities": [],
+      "dates": [],
+      "key_terms": [
+        "cma",
+        "investigation"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "Vandemoortele required to sell UK plant following pastry merger investigation",
       "summary": "Clearance decision comes well ahead of deadline following constructive engagement by the businesses with the CMA’s inquiry group.",
       "url": "https://www.gov.uk/government/news/vandemoortele-required-to-sell-uk-plant-following-pastry-merger-investigation",
-      "published": "2026-10-30T04:43:34.275489+00:00",
+      "published": "2026-10-30T12:16:41.143727+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
