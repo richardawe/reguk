@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-11-03T00:38:13.413614+00:00",
+  "generated_at": "2026-11-03T13:44:31.406412+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -117,10 +117,38 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "New FCA rules bring ESG rating providers into UK regulation for the first time",
+      "summary": "New UK rules for environmental, social and governance (ESG) rating providers will raise standards in the market, helping investors to make better informed decisions.",
+      "url": "https://www.fca.org.uk/news/press-releases/new-fca-rules-bring-esg-rating-providers-uk-regulation-first-time",
+      "published": "Tuesday, November 3, 2026 - 10:03",
+      "source": "FCA News",
+      "score": 10.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Laura Dawes",
+        "Application Support Service",
+        "Policy Statement",
+        "International Organization",
+        "Securities Commissions",
+        "Financial Lives Survey"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra",
+        "fine",
+        "guidance",
+        "consultation",
+        "final",
+        "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-11-03T00:38:12.389562+00:00",
+      "published": "2026-11-03T13:44:30.693988+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -134,6 +162,48 @@ window.SMARTKIT_DATA = {
         "enforcement",
         "redress",
         "consultation"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "FCA sets expectations for firms making car finance settlement offers",
+      "summary": "Research shows consumers want the choice, rather than wait for the legal challenges to conclude.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-sets-expectations-firms-making-car-finance-settlement-offers",
+      "published": "Tuesday, November 3, 2026 - 09:00",
+      "source": "FCA News",
+      "score": 8.4,
+      "action_type": "settlement",
+      "entities": [
+        "Barclays Partner Finance",
+        "Financial Ombudsman Service",
+        "Stephen Braviner Roman"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "settlement",
+        "compensation",
+        "suspension"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
+      "summary": "Credit unions could benefit from several ideas put forward today by the Prudential Regulation Authority and Financial Conduct Authority aimed at helping the sector grow, innovate and meet the changing needs of their members.",
+      "url": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
+      "published": "2026-11-03T10:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 7.8,
+      "action_type": "rulemaking",
+      "entities": [
+        "Prudential Regulation Authority",
+        "Financial Conduct Authority"
+      ],
+      "dates": [],
+      "key_terms": [
+        "financial conduct authority",
+        "prudential regulation authority",
+        "prudential"
       ],
       "extraction_tier": 0
     },
@@ -187,7 +257,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines construction firm and staff for concealing evidence during inspection",
       "summary": "First civil penalties issued against individuals for concealing evidence during an investigation.",
       "url": "https://www.gov.uk/government/news/cma-fines-construction-firm-and-staff-for-concealing-evidence-during-inspection",
-      "published": "2026-11-03T00:38:12.389566+00:00",
+      "published": "2026-11-03T13:44:30.693994+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "enforcement",
@@ -204,7 +274,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-11-03T00:38:12.389569+00:00",
+      "published": "2026-11-03T13:44:30.694001+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -293,7 +363,7 @@ window.SMARTKIT_DATA = {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-11-03T00:38:12.389584+00:00",
+      "published": "2026-11-03T13:44:30.694026+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -314,7 +384,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-11-03T00:38:12.389595+00:00",
+      "published": "2026-11-03T13:44:30.694045+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -446,7 +516,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-11-03T00:38:12.389546+00:00",
+      "published": "2026-11-03T13:44:30.693960+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -527,7 +597,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA opens investigation into Meta’s commercial terms",
       "summary": "Investigation will examine concerns that Meta’s terms and conditions unfairly harm news publishers and other content businesses.",
       "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
-      "published": "2026-11-03T00:38:12.389529+00:00",
+      "published": "2026-11-03T13:44:30.693930+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -581,64 +651,6 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "bank of england",
         "consultation"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "PRA consults on updated guidance for friendly society amalgamations and transfers",
-      "summary": "The proposals would provide more detail on the PRA’s approach to Part VIII transactions, helping firms plan amalgamations and transfers more efficiently.",
-      "url": "https://www.bankofengland.co.uk/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers",
-      "published": "2026-07-22T09:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 3.6,
-      "action_type": "guidance",
-      "entities": [],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "guidance"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Statistical Notice 2026/07 -  Bank of England Levy: Notification Document Levy Year 2026/27",
-      "summary": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder",
-      "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-07",
-      "published": "2026-07-08T10:09:46+00:00",
-      "source": "Bank of England News",
-      "score": 3.6,
-      "action_type": "guidance",
-      "entities": [
-        "Statistical Notice",
-        "England Levy",
-        "Notification Document Levy Year",
-        "Statistical Notices",
-        "Banking Statistics Yellow Folder"
-      ],
-      "dates": [],
-      "key_terms": [
-        "bank of england",
-        "guidance"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Official Statistics: HM Treasury Statistics: Timetable, standards and policies",
-      "summary": "HM Treasury's statistics are governed by the standards set out by the UK Statistics Authority in their Code of Practice for accredited official statistics.",
-      "url": "https://www.gov.uk/government/statistics/hm-treasury-statistics-timetable-standards-and-policies",
-      "published": "2026-11-03T00:38:12.441339+00:00",
-      "source": "HM Treasury",
-      "score": 3.5,
-      "action_type": "other",
-      "entities": [
-        "Official Statistics",
-        "Treasury Statistics",
-        "Statistics Authority"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "hm treasury"
       ],
       "extraction_tier": 0
     }
