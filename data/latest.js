@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-11-06T05:28:50.782660+00:00",
+  "generated_at": "2026-11-06T13:51:01.879560+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -25,6 +25,31 @@ window.SMARTKIT_DATA = {
         "prudential",
         "penalty",
         "fine"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "The not-so-fine print: making consumer contracts fair",
+      "summary": "How many of us read the terms and conditions of a contract before buying a financial product?Contracts hold the detail that shapes everyone's financial life, whether you're taking out a loan, insuring your holiday, or signing up for a crypto wallet.",
+      "url": "https://www.fca.org.uk/news/blogs/not-so-fine-print-making-consumer-contracts-fair",
+      "published": "Friday, November 6, 2026 - 10:02",
+      "source": "FCA News",
+      "score": 12.0,
+      "action_type": "enforcement",
+      "entities": [
+        "Consumer Rights Act",
+        "Consumer Contracts",
+        "Consumer Duty"
+      ],
+      "dates": [],
+      "key_terms": [
+        "pra",
+        "consumer duty",
+        "fine",
+        "redress",
+        "guidance",
+        "rule",
+        "order"
       ],
       "extraction_tier": 0
     },
@@ -112,7 +137,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-11-06T05:28:50.224189+00:00",
+      "published": "2026-11-06T13:51:00.973327+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -239,7 +264,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines construction firm and staff for concealing evidence during inspection",
       "summary": "First civil penalties issued against individuals for concealing evidence during an investigation.",
       "url": "https://www.gov.uk/government/news/cma-fines-construction-firm-and-staff-for-concealing-evidence-during-inspection",
-      "published": "2026-11-06T05:28:50.224196+00:00",
+      "published": "2026-11-06T13:51:00.973333+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "enforcement",
@@ -256,7 +281,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-11-06T05:28:50.224202+00:00",
+      "published": "2026-11-06T13:51:00.973339+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -345,7 +370,7 @@ window.SMARTKIT_DATA = {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-11-06T05:28:50.224227+00:00",
+      "published": "2026-11-06T13:51:00.973365+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -366,7 +391,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-11-06T05:28:50.224245+00:00",
+      "published": "2026-11-06T13:51:00.973384+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -498,7 +523,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-11-06T05:28:50.224162+00:00",
+      "published": "2026-11-06T13:51:00.973299+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -535,7 +560,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA opens investigation into Meta’s commercial terms",
       "summary": "Investigation will examine concerns that Meta’s terms and conditions unfairly harm news publishers and other content businesses.",
       "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
-      "published": "2026-11-06T05:28:50.224135+00:00",
+      "published": "2026-11-06T13:51:00.973273+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -611,22 +636,6 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "bank of england",
         "consultation"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "PRA consults on updated guidance for friendly society amalgamations and transfers",
-      "summary": "The proposals would provide more detail on the PRA’s approach to Part VIII transactions, helping firms plan amalgamations and transfers more efficiently.",
-      "url": "https://www.bankofengland.co.uk/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers",
-      "published": "2026-07-22T09:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 3.6,
-      "action_type": "guidance",
-      "entities": [],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "guidance"
       ],
       "extraction_tier": 0
     }
