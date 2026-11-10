@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-11-10T14:27:28.302073+00:00",
+  "generated_at": "2026-11-10T22:54:54.005751+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -25,6 +25,37 @@ window.SMARTKIT_DATA = {
         "prudential",
         "penalty",
         "fine"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Man sentenced over £154m fake takeover bid targeting UK-listed company",
+      "summary": "Christopher Woolcott has today been given a 2-year prison sentence, suspended for 2 years, after staging a £154m fake takeover bid for Touchstone Exploration Inc.\n\nHe was also ordered to complete 200 hours of unpaid work and to pay costs of £4,627.",
+      "url": "https://www.fca.org.uk/news/press-releases/man-sentenced-over-154m-fake-takeover-bid-targeting-uk-listed-company",
+      "published": "Tuesday, November 10, 2026 - 17:12",
+      "source": "FCA News",
+      "score": 13.2,
+      "action_type": "enforcement",
+      "entities": [
+        "Christopher Woolcott",
+        "Touchstone Exploration Inc",
+        "Mr Woolcott",
+        "The Financial Conduct Authority",
+        "Therese Chambers",
+        "Judge Karu",
+        "Westminster Magistrates",
+        "Fraud Act",
+        "Counterfeiting Act",
+        "Southwark Crown Court"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "financial conduct authority",
+        "enforcement",
+        "fine",
+        "investigation",
+        "order"
       ],
       "extraction_tier": 0
     },
@@ -113,7 +144,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-11-10T14:27:27.515855+00:00",
+      "published": "2026-11-10T22:54:53.201726+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -240,7 +271,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on equal pay and pay discrimination",
       "summary": "The Competition and Markets Authority (CMA) response to the Office for Equality and Opportunity's consultation on reform of the current equal pay framework.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-equal-pay-and-pay-discrimination",
-      "published": "2026-11-10T14:27:27.515802+00:00",
+      "published": "2026-11-10T22:54:53.201661+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -257,27 +288,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "CMA fines construction firm and staff for concealing evidence during inspection",
-      "summary": "First civil penalties issued against individuals for concealing evidence during an investigation.",
-      "url": "https://www.gov.uk/government/news/cma-fines-construction-firm-and-staff-for-concealing-evidence-during-inspection",
-      "published": "2026-11-10T14:27:27.515858+00:00",
-      "source": "CMA News",
-      "score": 6.05,
-      "action_type": "enforcement",
-      "entities": [],
-      "dates": [],
-      "key_terms": [
-        "cma",
-        "fine",
-        "investigation"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-11-10T14:27:27.515861+00:00",
+      "published": "2026-11-10T22:54:53.201729+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -366,7 +380,7 @@ window.SMARTKIT_DATA = {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-11-10T14:27:27.515874+00:00",
+      "published": "2026-11-10T22:54:53.201745+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -380,6 +394,25 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "competition and markets authority"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "CMA secures compensation for heating oil customers",
+      "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
+      "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
+      "published": "2026-11-10T22:54:53.201755+00:00",
+      "source": "CMA News",
+      "score": 4.95,
+      "action_type": "enforcement",
+      "entities": [
+        "Middle East"
+      ],
+      "dates": [],
+      "key_terms": [
+        "cma",
+        "compensation",
+        "order"
       ],
       "extraction_tier": 0
     },
@@ -500,7 +533,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-11-10T14:27:27.515840+00:00",
+      "published": "2026-11-10T22:54:53.201710+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -537,7 +570,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA opens investigation into Meta’s commercial terms",
       "summary": "Investigation will examine concerns that Meta’s terms and conditions unfairly harm news publishers and other content businesses.",
       "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
-      "published": "2026-11-10T14:27:27.515826+00:00",
+      "published": "2026-11-10T22:54:53.201694+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -568,33 +601,6 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "pra",
         "guidance"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Market integrity in a digital age",
-      "summary": "Speech by Nikhil Rathi, FCA chief executive at the Corporation of the City of London’s annual City Dinner, Mansion House.\n\nThe success of the UK’s financial servicesIn August, flight cancellations left my sons and I with an extra day in Boston.",
-      "url": "https://www.fca.org.uk/news/speeches/market-integrity-digital-age",
-      "published": "Thursday, October 22, 2026 - 20:01",
-      "source": "FCA News",
-      "score": 3.6,
-      "action_type": "enforcement",
-      "entities": [
-        "Nikhil Rathi",
-        "City Dinner",
-        "Mansion House",
-        "Red Sox",
-        "American Finance",
-        "George Bernard Shaw",
-        "United Kingdom",
-        "Open Banking",
-        "Open Finance",
-        "Lady Mayor"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "order"
       ],
       "extraction_tier": 0
     },
