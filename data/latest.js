@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-11-14T22:01:39.926523+00:00",
+  "generated_at": "2026-11-15T05:13:13.546940+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -29,122 +29,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Man sentenced over £154m fake takeover bid targeting UK-listed company",
-      "summary": "Christopher Woolcott has today been given a 2-year prison sentence, suspended for 2 years, after staging a £154m fake takeover bid for Touchstone Exploration Inc.\n\nHe was also ordered to complete 200 hours of unpaid work and to pay costs of £4,627.",
-      "url": "https://www.fca.org.uk/news/press-releases/man-sentenced-over-154m-fake-takeover-bid-targeting-uk-listed-company",
-      "published": "Tuesday, November 10, 2026 - 17:12",
-      "source": "FCA News",
-      "score": 13.2,
-      "action_type": "enforcement",
-      "entities": [
-        "Christopher Woolcott",
-        "Touchstone Exploration Inc",
-        "Mr Woolcott",
-        "The Financial Conduct Authority",
-        "Therese Chambers",
-        "Judge Karu",
-        "Westminster Magistrates",
-        "Fraud Act",
-        "Counterfeiting Act",
-        "Southwark Crown Court"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "financial conduct authority",
-        "enforcement",
-        "fine",
-        "investigation",
-        "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "The not-so-fine print: making consumer contracts fair",
-      "summary": "How many of us read the terms and conditions of a contract before buying a financial product?Contracts hold the detail that shapes everyone's financial life, whether you're taking out a loan, insuring your holiday, or signing up for a crypto wallet.",
-      "url": "https://www.fca.org.uk/news/blogs/not-so-fine-print-making-consumer-contracts-fair",
-      "published": "Friday, November 6, 2026 - 10:02",
-      "source": "FCA News",
-      "score": 12.0,
-      "action_type": "enforcement",
-      "entities": [
-        "Consumer Rights Act",
-        "Consumer Contracts",
-        "Consumer Duty"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "consumer duty",
-        "fine",
-        "redress",
-        "guidance",
-        "rule",
-        "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA stops HTX's crypto promotions",
-      "summary": "The FCA has secured High Court undertakings to ensure that HTX (formerly Huobi), a global crypto exchange, will not knowingly promote cryptoasset services unlawfully to UK consumers.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-stops-htxs-crypto-promotions",
-      "published": "Thursday, October 29, 2026 - 10:00",
-      "source": "FCA News",
-      "score": 11.4,
-      "action_type": "enforcement",
-      "entities": [
-        "High Court",
-        "Huobi Global",
-        "Steve Smart",
-        "Firm Checker",
-        "Financial Services",
-        "Markets Act",
-        "Property Division"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "enforcement action",
-        "enforcement",
-        "settlement",
-        "rule",
-        "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "New FCA rules bring ESG rating providers into UK regulation for the first time",
-      "summary": "New UK rules for environmental, social and governance (ESG) rating providers will raise standards in the market, helping investors to make better informed decisions.",
-      "url": "https://www.fca.org.uk/news/press-releases/new-fca-rules-bring-esg-rating-providers-uk-regulation-first-time",
-      "published": "Tuesday, November 3, 2026 - 10:03",
-      "source": "FCA News",
-      "score": 10.8,
-      "action_type": "enforcement",
-      "entities": [
-        "Laura Dawes",
-        "Application Support Service",
-        "Policy Statement",
-        "International Organization",
-        "Securities Commissions",
-        "Financial Lives Survey"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "fine",
-        "guidance",
-        "consultation",
-        "final",
-        "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-11-14T22:01:38.767016+00:00",
+      "published": "2026-11-15T05:13:13.059247+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -158,75 +46,6 @@ window.SMARTKIT_DATA = {
         "enforcement",
         "redress",
         "consultation"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA acts to protect consumers facing demands for disguised remuneration scheme loan repayments",
-      "summary": "We've intervened and Ethica Resolve Limited (Ethica), an FCA authorised firm that services and collects debt on behalf of creditors, has agreed to restrictions.",
-      "url": "https://www.fca.org.uk/news/statements/fca-acts-protect-consumers-demands-disguised-remuneration-scheme-loan-repayments",
-      "published": "Thursday, November 5, 2026 - 13:46",
-      "source": "FCA News",
-      "score": 9.0,
-      "action_type": "enforcement",
-      "entities": [
-        "Ethica Resolve Limited",
-        "Street Limited"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "hmrc",
-        "authorised firm",
-        "guidance",
-        "proposed",
-        "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA sets expectations for firms making car finance settlement offers",
-      "summary": "Research shows consumers want the choice, rather than wait for the legal challenges to conclude.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-sets-expectations-firms-making-car-finance-settlement-offers",
-      "published": "Tuesday, November 3, 2026 - 09:00",
-      "source": "FCA News",
-      "score": 8.4,
-      "action_type": "settlement",
-      "entities": [
-        "Barclays Partner Finance",
-        "Financial Ombudsman Service",
-        "Stephen Braviner Roman"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "settlement",
-        "compensation",
-        "suspension"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA proposes greater pension investment flexibility to support long-term value for savers",
-      "summary": "Workplace pension providers could have greater flexibility to invest for the long term under proposals from the FCA, helping them deliver better outcomes for savers while ensuring savers' interests remain protected.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-proposes-greater-pension-investment-flexibility-support-long-term-value-savers",
-      "published": "Thursday, November 12, 2026 - 10:05",
-      "source": "FCA News",
-      "score": 7.8,
-      "action_type": "enforcement",
-      "entities": [
-        "Independent Governance Committees",
-        "Therese Chambers",
-        "Pensions Regulatory Priorities"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "enforcement",
-        "consultation",
-        "proposed",
-        "final",
-        "rule"
       ],
       "extraction_tier": 0
     },
@@ -251,51 +70,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "FCA to explore quantum computing to tackle financial crime",
-      "summary": "A new initiative will bring together firms, quantum technology providers, and national research labs to explore practical applications of quantum computing.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-explore-quantum-computing-tackle-financial-crime",
-      "published": "Thursday, November 5, 2026 - 09:03",
-      "source": "FCA News",
-      "score": 7.2,
-      "action_type": "enforcement",
-      "entities": [
-        "The Quantum Experimentation Group",
-        "Jessica Rusu",
-        "Quantum Experimentation Group"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "fine"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Demands for disguised remuneration scheme loan repayments",
-      "summary": "We have seen demands being made for people to repay loans, or purported loans, provided as part of disguised remuneration schemes.",
-      "url": "https://www.fca.org.uk/news/statements/demands-disguised-remuneration-scheme-loan-repayments",
-      "published": "Monday, November 2, 2026 - 12:12",
-      "source": "FCA News",
-      "score": 6.6,
-      "action_type": "enforcement",
-      "entities": [
-        "Validation Order"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "hmrc",
-        "guidance",
-        "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "CMA response to consultation on equal pay and pay discrimination",
       "summary": "The Competition and Markets Authority (CMA) response to the Office for Equality and Opportunity's consultation on reform of the current equal pay framework.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-equal-pay-and-pay-discrimination",
-      "published": "2026-11-14T22:01:38.766928+00:00",
+      "published": "2026-11-15T05:13:13.059181+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -315,7 +93,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-11-14T22:01:38.767022+00:00",
+      "published": "2026-11-15T05:13:13.059251+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -333,52 +111,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "FCA encourages former Verus Financial Services Limited customers to check if they can claim with FSCS",
-      "summary": "Compensation may be available to former Verus customers through the Financial Services Compensation Scheme (FSCS), subject to assessment.",
-      "url": "https://www.fca.org.uk/news/news-stories/fca-encourages-former-verus-financial-services-limited-customers-check-if-they-can-claim-fscs",
-      "published": "Thursday, October 29, 2026 - 11:58",
-      "source": "FCA News",
-      "score": 6.0,
-      "action_type": "other",
-      "entities": [
-        "Verus Financial Services Limited",
-        "Financial Services Compensation Scheme"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "fscs",
-        "compensation"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Beyond borders: Regulating the risks we share",
-      "summary": "Speech by Ashley Alder, FCA Chair, at the Michael D. Gill Lecture on International Financial Regulatory Understanding and Cooperation.\n\nI wasn’t fortunate enough to work as closely with Mike as many of you in this room.",
-      "url": "https://www.fca.org.uk/news/speeches/beyond-borders-regulating-risks-we-share",
-      "published": "Friday, October 23, 2026 - 11:18",
-      "source": "FCA News",
-      "score": 6.0,
-      "action_type": "enforcement",
-      "entities": [
-        "Ashley Alder",
-        "Gill Lecture",
-        "International Financial Regulatory Understanding",
-        "Andrew Bailey"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra",
-        "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-11-14T22:01:38.767046+00:00",
+      "published": "2026-11-15T05:13:13.059266+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -399,7 +135,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA secures compensation for heating oil customers",
       "summary": "Hundreds set to receive compensation after their orders were cancelled following the conflict in the Middle East.",
       "url": "https://www.gov.uk/government/news/cma-secures-compensation-for-heating-oil-customers",
-      "published": "2026-11-14T22:01:38.767065+00:00",
+      "published": "2026-11-15T05:13:13.059279+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "enforcement",
@@ -411,62 +147,6 @@ window.SMARTKIT_DATA = {
         "cma",
         "compensation",
         "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Brits nearly twice as likely to spot pressure tactics in horror films as investment red flags",
-      "summary": "Investors are almost twice as likely to recognise pressure tactics in a horror film as they are when those tactics are used to promote an investment opportunity, new FCA data suggests.",
-      "url": "https://www.fca.org.uk/news/press-releases/brits-nearly-twice-likely-spot-pressure-tactics-horror-films-investment-red-flags",
-      "published": "Friday, October 30, 2026 - 09:00",
-      "source": "FCA News",
-      "score": 4.8,
-      "action_type": "enforcement",
-      "entities": [
-        "Lucy Castledine",
-        "Its Hype Type Revealer",
-        "Hype Type Revealer"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "fine"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "What does 'fair value' look like in practice? Three years into the Consumer Duty, here’s what we’ve learned.",
-      "summary": "Fair value is a simple yet important principle at the heart of the Consumer Duty: the price customers pay should be reasonable, relative to the benefits they get. But applying that principle in practice requires judgement.",
-      "url": "https://www.fca.org.uk/news/blogs/fair-value-look-practice-three-years-consumer-duty",
-      "published": "Thursday, October 29, 2026 - 10:03",
-      "source": "FCA News",
-      "score": 4.8,
-      "action_type": "enforcement",
-      "entities": [
-        "Consumer Duty"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "consumer duty"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA calls on private market firms to manage conflicts of interest in line with rapid growth",
-      "summary": "Private market firms vary in how well they identify and manage conflicts of interest, according to an FCA review.\n\nPrivate markets refer to investments in assets, companies, or debt not listed or traded on public exchanges.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-calls-private-market-firms-manage-conflicts-interest-line-rapid-growth",
-      "published": "Friday, October 23, 2026 - 11:31",
-      "source": "FCA News",
-      "score": 4.8,
-      "action_type": "other",
-      "entities": [
-        "Michelle Beck"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "pra"
       ],
       "extraction_tier": 0
     },
@@ -531,7 +211,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-11-14T22:01:38.766990+00:00",
+      "published": "2026-11-15T05:13:13.059229+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -544,31 +224,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Chandler King (City) Limited enters creditors’ voluntary liquidation",
-      "summary": "On 17 September 2026, Chandler King (City) Limited (Chandler King) went into creditors’ voluntary liquidation. Grace Jones and Karyn Jones of Parker Andrews were appointed as joint liquidators.",
-      "url": "https://www.fca.org.uk/news/news-stories/chandler-king-enters-creditors-voluntary-liquidation",
-      "published": "Monday, October 26, 2026 - 10:00",
-      "source": "FCA News",
-      "score": 4.2,
-      "action_type": "settlement",
-      "entities": [
-        "Chandler King",
-        "Grace Jones",
-        "Karyn Jones",
-        "Parker Andrews"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "authorised firm"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "CMA opens investigation into Meta’s commercial terms",
       "summary": "Investigation will examine concerns that Meta’s terms and conditions unfairly harm news publishers and other content businesses.",
       "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
-      "published": "2026-11-14T22:01:38.766964+00:00",
+      "published": "2026-11-15T05:13:13.059211+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -577,28 +236,6 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "investigation"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Act now to be resilient in the quantum future",
-      "summary": "Quantum computing will bring significant opportunities to the UK financial sector, but firms need to act now to prepare for a world where a viable hostile quantum computer could break today’s widely used cryptography standards.",
-      "url": "https://www.fca.org.uk/news/blogs/act-now-be-resilient-quantum-future",
-      "published": "Wednesday, November 4, 2026 - 10:01",
-      "source": "FCA News",
-      "score": 3.6,
-      "action_type": "guidance",
-      "entities": [
-        "The National Centre",
-        "Cyber Security",
-        "Cyber Coordination Groups",
-        "Cross Market Operational Resilience Group",
-        "Cyber Expert Group"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "guidance"
       ],
       "extraction_tier": 0
     },
@@ -633,6 +270,295 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "pra",
         "guidance"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Green notice 2026/02",
+      "summary": "Green notices cover significant and/or significant proposals for Bank of England reporting. If any of these proposals are finalised and are to be implemented, they will appear in a statistical notice.",
+      "url": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02",
+      "published": "2026-08-06T11:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 3.0,
+      "action_type": "guidance",
+      "entities": [],
+      "dates": [],
+      "key_terms": [
+        "bank of england",
+        "final"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Aldi and Lidl will be subject to same rules as major supermarkets",
+      "summary": "CMA confirms Aldi and Lidl will be covered by the same land agreement rules as the UK’s other large supermarkets to ensure customers get the best choice of where to shop.",
+      "url": "https://www.gov.uk/government/news/aldi-and-lidl-will-be-subject-to-same-rules-as-major-supermarkets",
+      "published": "2026-11-15T05:13:13.059216+00:00",
+      "source": "CMA News",
+      "score": 2.75,
+      "action_type": "settlement",
+      "entities": [],
+      "dates": [],
+      "key_terms": [
+        "cma",
+        "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Guidance: Money Laundering Advisory Notice: High Risk Third Countries",
+      "summary": "This document contains advice issued by HM Treasury about risks posed by jurisdictions with unsatisfactory money laundering and terrorist financing controls.",
+      "url": "https://www.gov.uk/government/publications/money-laundering-advisory-notice-high-risk-third-countries--2",
+      "published": "2026-11-15T05:13:13.078795+00:00",
+      "source": "HM Treasury",
+      "score": 2.5,
+      "action_type": "enforcement",
+      "entities": [
+        "Money Laundering Advisory Notice",
+        "High Risk Third Countries This"
+      ],
+      "dates": [],
+      "key_terms": [
+        "hm treasury",
+        "guidance"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Guidance: OSCAR guidance for Budgeting (Plans and Outturn)",
+      "summary": "Guidance on how to load data, review control totals and download reports for HM Treasury's OSCAR database.",
+      "url": "https://www.gov.uk/government/publications/oscar-guidance-for-budgeting-plans-and-outturn",
+      "published": "2026-11-15T05:13:13.078806+00:00",
+      "source": "HM Treasury",
+      "score": 2.5,
+      "action_type": "guidance",
+      "entities": [],
+      "dates": [],
+      "key_terms": [
+        "hm treasury",
+        "guidance"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+      "summary": "Joint media release",
+      "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
+      "published": "2026-11-13T09:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 2.4,
+      "action_type": "other",
+      "entities": [
+        "The Bank",
+        "Monetary Authority",
+        "Project Meridian"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "published": "2026-11-05T12:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 2.4,
+      "action_type": "other",
+      "entities": [
+        "Monetary Policy Summary",
+        "Minutes The Bank",
+        "Monetary Policy Committee",
+        "Bank Rate"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
+      "summary": "The Atlantic puffin, barn owl, buff-tailed bumblebee and European hedgehog will represent UK wildlife and feature as the central images on our next series of banknotes.",
+      "url": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
+      "published": "2026-10-07T23:01:00+00:00",
+      "source": "Bank of England News",
+      "score": 2.4,
+      "action_type": "other",
+      "entities": [
+        "The Atlantic"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
+      "summary": "The Bank of England provides the Secretariat to the London Foreign Exchange Joint Standing Committee (FXJSC) Legal Sub-Committee. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+      "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
+      "published": "2026-10-07T13:36:25+00:00",
+      "source": "Bank of England News",
+      "score": 2.4,
+      "action_type": "other",
+      "entities": [
+        "Legal Sub Committee Meeting",
+        "The Bank",
+        "London Foreign Exchange Joint Standing Committee",
+        "Legal Sub"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 16 June 2026",
+      "summary": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Operations and Legal Sub-Committees. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+      "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-operations-sub-committee-meeting-16-june-2026",
+      "published": "2026-10-07T09:49:25+00:00",
+      "source": "Bank of England News",
+      "score": 2.4,
+      "action_type": "other",
+      "entities": [
+        "Operations Sub",
+        "Committee Meeting",
+        "The Bank",
+        "London Foreign Exchange Joint Standing Committee",
+        "Legal Sub"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Minutes of the London FXJSC Main Committee Meeting – 24 June 2026",
+      "summary": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market.",
+      "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026",
+      "published": "2026-10-07T09:08:40+00:00",
+      "source": "Bank of England News",
+      "score": 2.4,
+      "action_type": "other",
+      "entities": [
+        "Main Committee Meeting",
+        "The Bank",
+        "London Foreign Exchange Joint Standing Committee"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Minutes of the Market Participants Group meeting – 24 September 2026",
+      "summary": "The Market Participants Group (MPG) is a senior-level forum for financial market participants to share their views on relevant themes and narratives in financial markets with members of the Bank of England’s Monetary Policy Committee.",
+      "url": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
+      "published": "2026-09-25T06:30:00+00:00",
+      "source": "Bank of England News",
+      "score": 2.4,
+      "action_type": "other",
+      "entities": [
+        "Market Participants Group",
+        "The Market Participants Group",
+        "Monetary Policy Committee"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Bank of England announces new office space in Leeds",
+      "summary": "The Bank of England has secured a new long-term premises in Leeds, marking a major milestone in its commitment to build its presence in the region.",
+      "url": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
+      "published": "2026-09-21T12:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 2.4,
+      "action_type": "other",
+      "entities": [
+        "Leeds The Bank"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
+      "summary": "The Transaction and Post-trade Reporting Harmonisation Taskforce, through its three working groups, will help inform the design of the Bank and FCA’s long-term approach to harmonising UK MiFIR, UK EMIR and UK SFTR reporting requirements",
+      "url": "https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026",
+      "published": "2026-09-18T11:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 2.4,
+      "action_type": "other",
+      "entities": [
+        "Reporting Harmonisation Taskforce",
+        "The Transaction"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "published": "2026-09-17T11:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 2.4,
+      "action_type": "other",
+      "entities": [
+        "Monetary Policy Summary",
+        "Minutes The Bank",
+        "Monetary Policy Committee",
+        "Bank Rate"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Chancellor announces Bank of England appointments",
+      "summary": "His Majesty the King and the Chancellor have appointed three new non-executive directors to the Bank of England’s Court of Directors",
+      "url": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
+      "published": "2026-09-16T14:03:08+00:00",
+      "source": "Bank of England News",
+      "score": 2.4,
+      "action_type": "other",
+      "entities": [
+        "His Majesty"
+      ],
+      "dates": [],
+      "key_terms": [
+        "bank of england"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Announcement of the publication of the Governor's interview transcript",
+      "summary": "Statement from the Bank of England",
+      "url": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview",
+      "published": "2026-09-10T09:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 2.4,
+      "action_type": "other",
+      "entities": [],
+      "dates": [],
+      "key_terms": [
+        "bank of england"
       ],
       "extraction_tier": 0
     }
