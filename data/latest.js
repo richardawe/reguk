@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-11-18T00:38:29.292682+00:00",
+  "generated_at": "2026-11-18T15:14:03.383671+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -144,7 +144,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-11-18T00:38:28.117683+00:00",
+      "published": "2026-11-18T15:14:02.230783+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -314,10 +314,27 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "Travel and leisure businesses investigated over pricing practices",
+      "summary": "CMA launches 3 new investigations over concerns that customers were not shown the total price upfront when purchasing holidays or gym memberships.",
+      "url": "https://www.gov.uk/government/news/travel-and-leisure-businesses-investigated-over-pricing-practices",
+      "published": "2026-11-18T15:14:02.230698+00:00",
+      "source": "CMA News",
+      "score": 6.05,
+      "action_type": "other",
+      "entities": [],
+      "dates": [],
+      "key_terms": [
+        "pra",
+        "cma",
+        "investigation"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "CMA response to consultation on equal pay and pay discrimination",
       "summary": "The Competition and Markets Authority (CMA) response to the Office for Equality and Opportunity's consultation on reform of the current equal pay framework.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-equal-pay-and-pay-discrimination",
-      "published": "2026-11-18T00:38:28.117600+00:00",
+      "published": "2026-11-18T15:14:02.230728+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -337,7 +354,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-11-18T00:38:28.117689+00:00",
+      "published": "2026-11-18T15:14:02.230788+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -378,7 +395,7 @@ window.SMARTKIT_DATA = {
       "title": "Public procurement in the national interest: Reflections from the CMA",
       "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
       "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-11-18T00:38:28.117712+00:00",
+      "published": "2026-11-18T15:14:02.230805+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -494,7 +511,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-11-18T00:38:28.117657+00:00",
+      "published": "2026-11-18T15:14:02.230764+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -510,7 +527,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA opens investigation into Meta’s commercial terms",
       "summary": "Investigation will examine concerns that Meta’s terms and conditions unfairly harm news publishers and other content businesses.",
       "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
-      "published": "2026-11-18T00:38:28.117621+00:00",
+      "published": "2026-11-18T15:14:02.230743+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -611,22 +628,6 @@ window.SMARTKIT_DATA = {
       "dates": [],
       "key_terms": [
         "fca",
-        "final"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Green notice 2026/02",
-      "summary": "Green notices cover significant and/or significant proposals for Bank of England reporting. If any of these proposals are finalised and are to be implemented, they will appear in a statistical notice.",
-      "url": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02",
-      "published": "2026-08-06T11:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 3.0,
-      "action_type": "guidance",
-      "entities": [],
-      "dates": [],
-      "key_terms": [
-        "bank of england",
         "final"
       ],
       "extraction_tier": 0
