@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-11-20T06:01:40.492409+00:00",
+  "generated_at": "2026-11-20T19:40:34.002006+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -193,7 +193,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-11-20T06:01:39.601212+00:00",
+      "published": "2026-11-20T19:40:33.369067+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -363,10 +363,34 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "CMA response to Consumer Services Code Review consultations",
+      "summary": "The Competition and Markets Authority (CMA) has responded to Citizens Advice and Consumer Scotland consultations on their Consumer Service Codes Reviews.",
+      "url": "https://www.gov.uk/government/publications/cma-response-to-consumer-services-code-review-consultations",
+      "published": "2026-11-20T19:40:33.368951+00:00",
+      "source": "CMA News",
+      "score": 6.05,
+      "action_type": "other",
+      "entities": [
+        "Consumer Services Code Review",
+        "The Competition",
+        "Markets Authority",
+        "Citizens Advice",
+        "Consumer Scotland",
+        "Consumer Service Codes Reviews"
+      ],
+      "dates": [],
+      "key_terms": [
+        "cma",
+        "competition and markets authority",
+        "consultation"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "Travel and leisure businesses investigated over pricing practices",
       "summary": "CMA launches 3 new investigations over concerns that customers were not shown the total price upfront when purchasing holidays or gym memberships.",
       "url": "https://www.gov.uk/government/news/travel-and-leisure-businesses-investigated-over-pricing-practices",
-      "published": "2026-11-20T06:01:39.601123+00:00",
+      "published": "2026-11-20T19:40:33.368982+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -383,7 +407,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on equal pay and pay discrimination",
       "summary": "The Competition and Markets Authority (CMA) response to the Office for Equality and Opportunity's consultation on reform of the current equal pay framework.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-equal-pay-and-pay-discrimination",
-      "published": "2026-11-20T06:01:39.601138+00:00",
+      "published": "2026-11-20T19:40:33.368995+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -403,7 +427,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-11-20T06:01:39.601218+00:00",
+      "published": "2026-11-20T19:40:33.369073+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -443,27 +467,6 @@ window.SMARTKIT_DATA = {
         "fca",
         "pra",
         "compliance"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Public procurement in the national interest: Reflections from the CMA",
-      "summary": "Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority,\nJubilee Room, House of Commons on 8 September 2026.",
-      "url": "https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma",
-      "published": "2026-11-20T06:01:39.601242+00:00",
-      "source": "CMA News",
-      "score": 4.95,
-      "action_type": "other",
-      "entities": [
-        "Sarah Cardell",
-        "Chief Executive",
-        "Markets Authority",
-        "Jubilee Room"
-      ],
-      "dates": [],
-      "key_terms": [
-        "cma",
-        "competition and markets authority"
       ],
       "extraction_tier": 0
     },
@@ -529,7 +532,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-11-20T06:01:39.601186+00:00",
+      "published": "2026-11-20T19:40:33.369043+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -545,7 +548,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA provisionally finds that viagogo may have broken the law on hidden fees",
       "summary": "Investigation considers how mandatory costs were presented to UK fans on 3 viagogo websites.",
       "url": "https://www.gov.uk/government/news/cma-provisionally-finds-that-viagogo-may-have-broken-the-law-on-hidden-fees",
-      "published": "2026-11-20T06:01:39.601100+00:00",
+      "published": "2026-11-20T19:40:33.368974+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -561,7 +564,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA opens investigation into Meta’s commercial terms",
       "summary": "Investigation will examine concerns that Meta’s terms and conditions unfairly harm news publishers and other content businesses.",
       "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
-      "published": "2026-11-20T06:01:39.601158+00:00",
+      "published": "2026-11-20T19:40:33.369016+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
