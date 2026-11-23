@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-11-23T06:08:49.804604+00:00",
+  "generated_at": "2026-11-23T23:29:32.902485+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -193,7 +193,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-11-23T06:08:49.392171+00:00",
+      "published": "2026-11-23T23:29:32.005479+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -230,6 +230,27 @@ window.SMARTKIT_DATA = {
         "guidance",
         "proposed",
         "order"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
+      "summary": "The Prudential Regulation Authority (PRA) has today published the results of its 2026 Dynamic General Insurance Stress Test (DyGIST)",
+      "url": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
+      "published": "2026-11-23T10:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 9.0,
+      "action_type": "rulemaking",
+      "entities": [
+        "The Prudential Regulation Authority",
+        "Dynamic General Insurance Stress Test"
+      ],
+      "dates": [],
+      "key_terms": [
+        "pra",
+        "prudential regulation authority",
+        "prudential",
+        "stress test"
       ],
       "extraction_tier": 0
     },
@@ -343,30 +364,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Demands for disguised remuneration scheme loan repayments",
-      "summary": "We have seen demands being made for people to repay loans, or purported loans, provided as part of disguised remuneration schemes.",
-      "url": "https://www.fca.org.uk/news/statements/demands-disguised-remuneration-scheme-loan-repayments",
-      "published": "Monday, November 2, 2026 - 12:12",
-      "source": "FCA News",
-      "score": 6.6,
-      "action_type": "enforcement",
-      "entities": [
-        "Validation Order"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "hmrc",
-        "guidance",
-        "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "CMA response to Consumer Services Code Review consultations",
       "summary": "The Competition and Markets Authority (CMA) has responded to Citizens Advice and Consumer Scotland consultations on their Consumer Service Codes Reviews.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consumer-services-code-review-consultations",
-      "published": "2026-11-23T06:08:49.392079+00:00",
+      "published": "2026-11-23T23:29:32.005365+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -390,7 +391,7 @@ window.SMARTKIT_DATA = {
       "title": "Travel and leisure businesses investigated over pricing practices",
       "summary": "CMA launches 3 new investigations over concerns that customers were not shown the total price upfront when purchasing holidays or gym memberships.",
       "url": "https://www.gov.uk/government/news/travel-and-leisure-businesses-investigated-over-pricing-practices",
-      "published": "2026-11-23T06:08:49.392115+00:00",
+      "published": "2026-11-23T23:29:32.005395+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -407,7 +408,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on equal pay and pay discrimination",
       "summary": "The Competition and Markets Authority (CMA) response to the Office for Equality and Opportunity's consultation on reform of the current equal pay framework.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-equal-pay-and-pay-discrimination",
-      "published": "2026-11-23T06:08:49.392124+00:00",
+      "published": "2026-11-23T23:29:32.005409+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -427,7 +428,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-11-23T06:08:49.392175+00:00",
+      "published": "2026-11-23T23:29:32.005485+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -467,6 +468,25 @@ window.SMARTKIT_DATA = {
         "fca",
         "pra",
         "compliance"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Bereaved families need support, not a battle with paperwork",
+      "summary": "Investment firms must do more to help people dealing with the death of a loved one, after a review found confusing communications, delays and gaps in support.",
+      "url": "https://www.fca.org.uk/news/press-releases/bereaved-families-need-support-not-battle-paperwork",
+      "published": "Monday, November 23, 2026 - 09:01",
+      "source": "FCA News",
+      "score": 4.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Kate Tuckley",
+        "The Consumer Duty"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "consumer duty"
       ],
       "extraction_tier": 0
     },
@@ -532,7 +552,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-11-23T06:08:49.392155+00:00",
+      "published": "2026-11-23T23:29:32.005455+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -545,10 +565,34 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "Kandoo Car Credit Ltd enters administration",
+      "summary": "On 23 November 2026, Kandoo Car Credit Ltd (Kandoo) was placed into administration. Steve Kenny and Richard Cole of KBL Advisory Limited were appointed as joint administrators.",
+      "url": "https://www.fca.org.uk/news/news-stories/kandoo-car-credit-ltd-enters-administration",
+      "published": "Monday, November 23, 2026 - 14:54",
+      "source": "FCA News",
+      "score": 4.2,
+      "action_type": "guidance",
+      "entities": [
+        "Kandoo Car Credit Ltd",
+        "Steve Kenny",
+        "Richard Cole",
+        "Advisory Limited",
+        "Kandoo Car Credit",
+        "Advisory Ltd",
+        "Firm Checker"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "compensation"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "CMA provisionally finds that viagogo may have broken the law on hidden fees",
       "summary": "Investigation considers how mandatory costs were presented to UK fans on 3 viagogo websites.",
       "url": "https://www.gov.uk/government/news/cma-provisionally-finds-that-viagogo-may-have-broken-the-law-on-hidden-fees",
-      "published": "2026-11-23T06:08:49.392109+00:00",
+      "published": "2026-11-23T23:29:32.005387+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -564,7 +608,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA opens investigation into Meta’s commercial terms",
       "summary": "Investigation will examine concerns that Meta’s terms and conditions unfairly harm news publishers and other content businesses.",
       "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
-      "published": "2026-11-23T06:08:49.392137+00:00",
+      "published": "2026-11-23T23:29:32.005428+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -617,22 +661,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "PRA consults on updated guidance for friendly society amalgamations and transfers",
-      "summary": "The proposals would provide more detail on the PRA’s approach to Part VIII transactions, helping firms plan amalgamations and transfers more efficiently.",
-      "url": "https://www.bankofengland.co.uk/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers",
-      "published": "2026-07-22T09:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 3.6,
-      "action_type": "guidance",
-      "entities": [],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "guidance"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Looking back to move forward: why reviewing our rules matters",
       "summary": "Markets evolve. Consumer behaviour changes. Technology creates new opportunities and risks. Rules that were appropriate when they were introduced may need to be updated, simplified or, in some cases, removed altogether.",
       "url": "https://www.fca.org.uk/news/blogs/looking-back-move-forward-why-reviewing-our-rules-matters",
@@ -645,27 +673,6 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "fca",
         "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA publishes terms of reference for independent review concerning Mr Andriesz",
-      "summary": "We have published the terms of reference for the review into our handling of interactions with Mr Simon Andriesz, a whistleblower who made protected disclosures to the FCA.",
-      "url": "https://www.fca.org.uk/news/statements/fca-publishes-terms-reference-independent-review-concerning-mr-andriesz",
-      "published": "Monday, November 2, 2026 - 10:30",
-      "source": "FCA News",
-      "score": 3.0,
-      "action_type": "other",
-      "entities": [
-        "Mr Andriesz We",
-        "Mr Simon Andriesz",
-        "Mr Andriesz",
-        "Lea Paterson"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "final"
       ],
       "extraction_tier": 0
     }
