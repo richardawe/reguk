@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-11-24T08:46:37.582558+00:00",
+  "generated_at": "2026-11-24T21:59:07.173189+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -193,7 +193,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
       "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-11-24T08:46:36.794238+00:00",
+      "published": "2026-11-24T21:59:06.666992+00:00",
       "source": "CMA News",
       "score": 9.9,
       "action_type": "enforcement",
@@ -251,28 +251,6 @@ window.SMARTKIT_DATA = {
         "prudential regulation authority",
         "prudential",
         "stress test"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "FCA sets expectations for firms making car finance settlement offers",
-      "summary": "Research shows consumers want the choice, rather than wait for the legal challenges to conclude.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-sets-expectations-firms-making-car-finance-settlement-offers",
-      "published": "Tuesday, November 3, 2026 - 09:00",
-      "source": "FCA News",
-      "score": 8.4,
-      "action_type": "settlement",
-      "entities": [
-        "Barclays Partner Finance",
-        "Financial Ombudsman Service",
-        "Stephen Braviner Roman"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "settlement",
-        "compensation",
-        "suspension"
       ],
       "extraction_tier": 0
     },
@@ -367,7 +345,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to Consumer Services Code Review consultations",
       "summary": "The Competition and Markets Authority (CMA) has responded to Citizens Advice and Consumer Scotland consultations on their Consumer Service Codes Reviews.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consumer-services-code-review-consultations",
-      "published": "2026-11-24T08:46:36.794120+00:00",
+      "published": "2026-11-24T21:59:06.666907+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -391,7 +369,7 @@ window.SMARTKIT_DATA = {
       "title": "Travel and leisure businesses investigated over pricing practices",
       "summary": "CMA launches 3 new investigations over concerns that customers were not shown the total price upfront when purchasing holidays or gym memberships.",
       "url": "https://www.gov.uk/government/news/travel-and-leisure-businesses-investigated-over-pricing-practices",
-      "published": "2026-11-24T08:46:36.794152+00:00",
+      "published": "2026-11-24T21:59:06.666935+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -408,7 +386,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on equal pay and pay discrimination",
       "summary": "The Competition and Markets Authority (CMA) response to the Office for Equality and Opportunity's consultation on reform of the current equal pay framework.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-equal-pay-and-pay-discrimination",
-      "published": "2026-11-24T08:46:36.794165+00:00",
+      "published": "2026-11-24T21:59:06.666944+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -428,7 +406,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on consumer protection for home upgrade schemes",
       "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-11-24T08:46:36.794244+00:00",
+      "published": "2026-11-24T21:59:06.666996+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -468,6 +446,27 @@ window.SMARTKIT_DATA = {
         "fca",
         "pra",
         "compliance"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Smarter regulation means understanding the trade-offs",
+      "summary": "Regulation inevitably involves choices.Protecting consumers and maintaining confidence in our markets are fundamental to what we do. But rules also have costs. They can affect businesses’ decisions to invest, innovate and compete.",
+      "url": "https://www.fca.org.uk/news/blogs/smarter-regulation-means-understanding-trade-offs",
+      "published": "Tuesday, November 24, 2026 - 14:04",
+      "source": "FCA News",
+      "score": 5.4,
+      "action_type": "rulemaking",
+      "entities": [
+        "Economics Conference",
+        "Senior Managers",
+        "Certification Regime"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra",
+        "rule"
       ],
       "extraction_tier": 0
     },
@@ -552,7 +551,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-11-24T08:46:36.794213+00:00",
+      "published": "2026-11-24T21:59:06.666976+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -566,7 +565,7 @@ window.SMARTKIT_DATA = {
     },
     {
       "title": "Kandoo Car Credit Ltd enters administration",
-      "summary": "On 23 November 2026, Kandoo Car Credit Ltd (Kandoo) was placed into administration. Steve Kenny and Richard Cole of KBL Advisory Limited were appointed as joint administrators.",
+      "summary": "On 19 November 2026, Kandoo Car Credit Ltd (Kandoo) was placed into administration. Steve Kenny and Richard Cole of KBL Advisory Limited were appointed as joint administrators.",
       "url": "https://www.fca.org.uk/news/news-stories/kandoo-car-credit-ltd-enters-administration",
       "published": "Monday, November 23, 2026 - 14:54",
       "source": "FCA News",
@@ -592,7 +591,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA provisionally finds that viagogo may have broken the law on hidden fees",
       "summary": "Investigation considers how mandatory costs were presented to UK fans on 3 viagogo websites.",
       "url": "https://www.gov.uk/government/news/cma-provisionally-finds-that-viagogo-may-have-broken-the-law-on-hidden-fees",
-      "published": "2026-11-24T08:46:36.794144+00:00",
+      "published": "2026-11-24T21:59:06.666930+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -608,7 +607,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA opens investigation into Meta’s commercial terms",
       "summary": "Investigation will examine concerns that Meta’s terms and conditions unfairly harm news publishers and other content businesses.",
       "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
-      "published": "2026-11-24T08:46:36.794186+00:00",
+      "published": "2026-11-24T21:59:06.666958+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
