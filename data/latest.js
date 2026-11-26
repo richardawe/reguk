@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-11-26T07:10:15.008056+00:00",
+  "generated_at": "2026-11-26T21:00:28.955191+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -40,6 +40,35 @@ window.SMARTKIT_DATA = {
         "proposed",
         "final",
         "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Authorities complete 2026 review of payments Memorandum of Understanding",
+      "summary": "The Bank of England (the Bank), Financial Conduct Authority (FCA), Prudential Regulation Authority (PRA) and Payment Systems Regulator (PSR) have completed their annual review of the Memorandum of Understanding (MoU) on payments.",
+      "url": "https://www.fca.org.uk/news/statements/payments-authorities-mou-review-2026",
+      "published": "Thursday, November 26, 2026 - 15:00",
+      "source": "FCA News",
+      "score": 18.6,
+      "action_type": "rulemaking",
+      "entities": [
+        "Understanding The Bank",
+        "Financial Conduct Authority",
+        "Prudential Regulation Authority",
+        "Payment Systems Regulator",
+        "The Authorities",
+        "Payments Vision Delivery Committee"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra",
+        "psr",
+        "financial conduct authority",
+        "prudential regulation authority",
+        "bank of england",
+        "regulated firm",
+        "prudential"
       ],
       "extraction_tier": 0
     },
@@ -185,6 +214,26 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
+      "title": "Payments systems Memorandum of Understanding",
+      "summary": "Bank of England, PRA, FCA and PSR review Memorandum of Understanding in relation to payment systems in the UK",
+      "url": "https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
+      "published": "2026-11-26T15:00:00+00:00",
+      "source": "Bank of England News",
+      "score": 9.0,
+      "action_type": "other",
+      "entities": [
+        "Understanding Bank"
+      ],
+      "dates": [],
+      "key_terms": [
+        "fca",
+        "pra",
+        "psr",
+        "bank of england"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
       "summary": "The Prudential Regulation Authority (PRA) has today published the results of its 2026 Dynamic General Insurance Stress Test (DyGIST)",
       "url": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
@@ -293,23 +342,29 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "FCA to explore quantum computing to tackle financial crime",
-      "summary": "A new initiative will bring together firms, quantum technology providers, and national research labs to explore practical applications of quantum computing.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-explore-quantum-computing-tackle-financial-crime",
-      "published": "Thursday, November 5, 2026 - 09:03",
+      "title": "Check the firm before you invest, FCA warns, as AI scams rise",
+      "summary": "A third (33%) of UK adults say they have seen an investment promotion in the past year that they believe used artificial intelligence (AI), new research from the FCA shows.",
+      "url": "https://www.fca.org.uk/news/press-releases/check-firm-you-invest-fca-warns-ai-scams-rise",
+      "published": "Thursday, November 26, 2026 - 09:16",
       "source": "FCA News",
-      "score": 7.2,
-      "action_type": "enforcement",
+      "score": 6.6,
+      "action_type": "other",
       "entities": [
-        "The Quantum Experimentation Group",
-        "Jessica Rusu",
-        "Quantum Experimentation Group"
+        "Report Fraud",
+        "Martin Lewis",
+        "Sheree Howard",
+        "Firm Checker",
+        "Annual Assessment",
+        "The Financial Services Register",
+        "Financial Ombudsman Service",
+        "Financial Services Compensation Scheme"
       ],
       "dates": [],
       "key_terms": [
         "fca",
-        "pra",
-        "fine"
+        "authorised firm",
+        "compensation",
+        "rule"
       ],
       "extraction_tier": 0
     },
@@ -317,7 +372,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to Consumer Services Code Review consultations",
       "summary": "The Competition and Markets Authority (CMA) has responded to Citizens Advice and Consumer Scotland consultations on their Consumer Service Codes Reviews.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consumer-services-code-review-consultations",
-      "published": "2026-11-26T07:10:14.096287+00:00",
+      "published": "2026-11-26T21:00:28.377553+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -341,7 +396,7 @@ window.SMARTKIT_DATA = {
       "title": "Travel and leisure businesses investigated over pricing practices",
       "summary": "CMA launches 3 new investigations over concerns that customers were not shown the total price upfront when purchasing holidays or gym memberships.",
       "url": "https://www.gov.uk/government/news/travel-and-leisure-businesses-investigated-over-pricing-practices",
-      "published": "2026-11-26T07:10:14.096295+00:00",
+      "published": "2026-11-26T21:00:28.377566+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -358,7 +413,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on equal pay and pay discrimination",
       "summary": "The Competition and Markets Authority (CMA) response to the Office for Equality and Opportunity's consultation on reform of the current equal pay framework.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-equal-pay-and-pay-discrimination",
-      "published": "2026-11-26T07:10:14.096303+00:00",
+      "published": "2026-11-26T21:00:28.377579+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -404,7 +459,7 @@ window.SMARTKIT_DATA = {
       "title": "Correspondence: CMA correspondence in relation to private provision in the dentistry market",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in the UK government, the Welsh and Scottish governments and the Northern Ireland Executive, and the CMA's response to the General Dental Council's consultation.",
       "url": "https://www.gov.uk/government/publications/cma-correspondence-in-relation-to-private-provision-in-the-dentistry-market",
-      "published": "2026-11-26T07:10:14.124715+00:00",
+      "published": "2026-11-26T21:00:28.401976+00:00",
       "source": "HM Treasury",
       "score": 5.5,
       "action_type": "other",
@@ -446,7 +501,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to private provision in the dentistry market",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in the UK government, the Welsh and Scottish governments and the Northern Ireland Executive, and the CMA's response to the General Dental Council&#…",
       "url": "https://www.gov.uk/government/publications/cma-correspondence-in-relation-to-private-provision-in-the-dentistry-market",
-      "published": "2026-11-26T07:10:14.096248+00:00",
+      "published": "2026-11-26T21:00:28.377498+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -538,31 +593,10 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
-      "summary": "Following an external recruitment process, the Bank of England (the Bank) has appointed Nicholas Segal as Chair of its Enforcement Decision Making Committee (EDMC), and Peter King as Deputy Chair, with effect from 1 August 2026.",
-      "url": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc",
-      "published": "2026-08-03T09:00:00+00:00",
-      "source": "Bank of England News",
-      "score": 4.8,
-      "action_type": "enforcement",
-      "entities": [
-        "Deputy Chair",
-        "Enforcement Decision Making Committee",
-        "Nicholas Segal",
-        "Peter King"
-      ],
-      "dates": [],
-      "key_terms": [
-        "bank of england",
-        "enforcement"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Major fragrance suppliers fined £85 million by the CMA for illegal collusion",
       "summary": "3 fragrance suppliers broke competition law by coordinating their approach to pricing strategies and commercial negotiations.",
       "url": "https://www.gov.uk/government/news/major-fragrance-suppliers-fined-85-million-by-the-cma-for-illegal-collusion",
-      "published": "2026-11-26T07:10:14.096275+00:00",
+      "published": "2026-11-26T21:00:28.377531+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -578,7 +612,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-11-26T07:10:14.096329+00:00",
+      "published": "2026-11-26T21:00:28.377625+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -618,7 +652,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA provisionally finds that viagogo may have broken the law on hidden fees",
       "summary": "Investigation considers how mandatory costs were presented to UK fans on 3 viagogo websites.",
       "url": "https://www.gov.uk/government/news/cma-provisionally-finds-that-viagogo-may-have-broken-the-law-on-hidden-fees",
-      "published": "2026-11-26T07:10:14.096291+00:00",
+      "published": "2026-11-26T21:00:28.377559+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -634,7 +668,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA opens investigation into Meta’s commercial terms",
       "summary": "Investigation will examine concerns that Meta’s terms and conditions unfairly harm news publishers and other content businesses.",
       "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
-      "published": "2026-11-26T07:10:14.096315+00:00",
+      "published": "2026-11-26T21:00:28.377599+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -643,26 +677,6 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "investigation"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "How should investors evaluate performance?",
-      "summary": "Why fund performance needs a detailed review in concentrated marketsA fund’s headline return tells only part of the story. Before selling a fund that has underperformed its benchmark, investors should ask why and whether it still meets their needs.",
-      "url": "https://www.fca.org.uk/news/blogs/how-should-investors-evaluate-performance",
-      "published": "Wednesday, November 25, 2026 - 14:45",
-      "source": "FCA News",
-      "score": 3.6,
-      "action_type": "other",
-      "entities": [
-        "Magnificent Seven",
-        "World Index"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "proposed",
-        "rule"
       ],
       "extraction_tier": 0
     }
