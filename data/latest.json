@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:11:03.650868+00:00",
+  "generated_at": "2026-11-26T07:10:15.008056+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -162,27 +162,6 @@
       "extraction_tier": 0
     },
     {
-      "title": "CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement",
-      "summary": "Response by the Competition and Markets Authority (CMA) to the Department for Business, Innovation, Science and Trade's (BIST) consultation.",
-      "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-swifter-and-simpler-competition-redress-regulatory-appeals-and-competition-enforcement",
-      "published": "2026-11-25T21:11:03.167323+00:00",
-      "source": "CMA News",
-      "score": 9.9,
-      "action_type": "enforcement",
-      "entities": [
-        "Markets Authority"
-      ],
-      "dates": [],
-      "key_terms": [
-        "cma",
-        "competition and markets authority",
-        "enforcement",
-        "redress",
-        "consultation"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "FCA acts to protect consumers facing demands for disguised remuneration scheme loan repayments",
       "summary": "We've intervened and Ethica Resolve Limited (Ethica), an FCA authorised firm that services and collects debt on behalf of creditors, has agreed to restrictions.",
       "url": "https://www.fca.org.uk/news/statements/fca-acts-protect-consumers-demands-disguised-remuneration-scheme-loan-repayments",
@@ -338,7 +317,7 @@
       "title": "CMA response to Consumer Services Code Review consultations",
       "summary": "The Competition and Markets Authority (CMA) has responded to Citizens Advice and Consumer Scotland consultations on their Consumer Service Codes Reviews.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consumer-services-code-review-consultations",
-      "published": "2026-11-25T21:11:03.167226+00:00",
+      "published": "2026-11-26T07:10:14.096287+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -362,7 +341,7 @@
       "title": "Travel and leisure businesses investigated over pricing practices",
       "summary": "CMA launches 3 new investigations over concerns that customers were not shown the total price upfront when purchasing holidays or gym memberships.",
       "url": "https://www.gov.uk/government/news/travel-and-leisure-businesses-investigated-over-pricing-practices",
-      "published": "2026-11-25T21:11:03.167239+00:00",
+      "published": "2026-11-26T07:10:14.096295+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -379,34 +358,13 @@
       "title": "CMA response to consultation on equal pay and pay discrimination",
       "summary": "The Competition and Markets Authority (CMA) response to the Office for Equality and Opportunity's consultation on reform of the current equal pay framework.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-equal-pay-and-pay-discrimination",
-      "published": "2026-11-25T21:11:03.167253+00:00",
+      "published": "2026-11-26T07:10:14.096303+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
       "entities": [
         "The Competition",
         "Markets Authority"
-      ],
-      "dates": [],
-      "key_terms": [
-        "cma",
-        "competition and markets authority",
-        "consultation"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "CMA response to consultation on consumer protection for home upgrade schemes",
-      "summary": "Competition and Markets Authority (CMA) response to the Department for Energy Security and Net Zero (DESNZ) on consumer protection for home upgrade schemes.",
-      "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-consumer-protection-for-home-upgrade-schemes",
-      "published": "2026-11-25T21:11:03.167330+00:00",
-      "source": "CMA News",
-      "score": 6.05,
-      "action_type": "other",
-      "entities": [
-        "Markets Authority",
-        "Energy Security",
-        "Net Zero"
       ],
       "dates": [],
       "key_terms": [
@@ -443,6 +401,27 @@
       "extraction_tier": 0
     },
     {
+      "title": "Correspondence: CMA correspondence in relation to private provision in the dentistry market",
+      "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in the UK government, the Welsh and Scottish governments and the Northern Ireland Executive, and the CMA's response to the General Dental Council's consultation.",
+      "url": "https://www.gov.uk/government/publications/cma-correspondence-in-relation-to-private-provision-in-the-dentistry-market",
+      "published": "2026-11-26T07:10:14.124715+00:00",
+      "source": "HM Treasury",
+      "score": 5.5,
+      "action_type": "other",
+      "entities": [
+        "Markets Authority",
+        "Northern Ireland Executive",
+        "General Dental Council"
+      ],
+      "dates": [],
+      "key_terms": [
+        "cma",
+        "competition and markets authority",
+        "consultation"
+      ],
+      "extraction_tier": 0
+    },
+    {
       "title": "Smarter regulation means understanding the trade-offs",
       "summary": "Regulation inevitably involves choices.Protecting consumers and maintaining confidence in our markets are fundamental to what we do. But rules also have costs. They can affect businesses’ decisions to invest, innovate and compete.",
       "url": "https://www.fca.org.uk/news/blogs/smarter-regulation-means-understanding-trade-offs",
@@ -460,6 +439,45 @@
         "fca",
         "pra",
         "rule"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "CMA correspondence in relation to private provision in the dentistry market",
+      "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in the UK government, the Welsh and Scottish governments and the Northern Ireland Executive, and the CMA's response to the General Dental Council&#…",
+      "url": "https://www.gov.uk/government/publications/cma-correspondence-in-relation-to-private-provision-in-the-dentistry-market",
+      "published": "2026-11-26T07:10:14.096248+00:00",
+      "source": "CMA News",
+      "score": 4.95,
+      "action_type": "other",
+      "entities": [
+        "Markets Authority",
+        "Northern Ireland Executive",
+        "General Dental Council"
+      ],
+      "dates": [],
+      "key_terms": [
+        "cma",
+        "competition and markets authority"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "Motor finance compensation scheme calculation",
+      "summary": "While preparing our response to the legal challenges to our motor finance redress scheme, we identified some errors in how we categorised a small group of loan agreements.",
+      "url": "https://www.fca.org.uk/news/statements/motor-finance-compensation-scheme-calculation",
+      "published": "Thursday, November 26, 2026 - 07:03",
+      "source": "FCA News",
+      "score": 4.8,
+      "action_type": "enforcement",
+      "entities": [
+        "Financial Ombudsman Service"
+      ],
+      "dates": [],
+      "key_terms": [
+        "compensation",
+        "redress",
+        "order"
       ],
       "extraction_tier": 0
     },
@@ -544,7 +562,7 @@
       "title": "Major fragrance suppliers fined £85 million by the CMA for illegal collusion",
       "summary": "3 fragrance suppliers broke competition law by coordinating their approach to pricing strategies and commercial negotiations.",
       "url": "https://www.gov.uk/government/news/major-fragrance-suppliers-fined-85-million-by-the-cma-for-illegal-collusion",
-      "published": "2026-11-25T21:11:03.167187+00:00",
+      "published": "2026-11-26T07:10:14.096275+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -560,7 +578,7 @@
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-11-25T21:11:03.167298+00:00",
+      "published": "2026-11-26T07:10:14.096329+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -600,7 +618,7 @@
       "title": "CMA provisionally finds that viagogo may have broken the law on hidden fees",
       "summary": "Investigation considers how mandatory costs were presented to UK fans on 3 viagogo websites.",
       "url": "https://www.gov.uk/government/news/cma-provisionally-finds-that-viagogo-may-have-broken-the-law-on-hidden-fees",
-      "published": "2026-11-25T21:11:03.167233+00:00",
+      "published": "2026-11-26T07:10:14.096291+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -616,7 +634,7 @@
       "title": "CMA opens investigation into Meta’s commercial terms",
       "summary": "Investigation will examine concerns that Meta’s terms and conditions unfairly harm news publishers and other content businesses.",
       "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
-      "published": "2026-11-25T21:11:03.167273+00:00",
+      "published": "2026-11-26T07:10:14.096315+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -645,28 +663,6 @@
         "pra",
         "proposed",
         "rule"
-      ],
-      "extraction_tier": 0
-    },
-    {
-      "title": "Act now to be resilient in the quantum future",
-      "summary": "Quantum computing will bring significant opportunities to the UK financial sector, but firms need to act now to prepare for a world where a viable hostile quantum computer could break today’s widely used cryptography standards.",
-      "url": "https://www.fca.org.uk/news/blogs/act-now-be-resilient-quantum-future",
-      "published": "Wednesday, November 4, 2026 - 10:01",
-      "source": "FCA News",
-      "score": 3.6,
-      "action_type": "guidance",
-      "entities": [
-        "The National Centre",
-        "Cyber Security",
-        "Cyber Coordination Groups",
-        "Cross Market Operational Resilience Group",
-        "Cyber Expert Group"
-      ],
-      "dates": [],
-      "key_terms": [
-        "pra",
-        "guidance"
       ],
       "extraction_tier": 0
     }
