@@ -1,5 +1,5 @@
 window.SMARTKIT_DATA = {
-  "generated_at": "2026-11-27T07:05:57.222376+00:00",
+  "generated_at": "2026-11-27T20:45:51.360438+00:00",
   "title": "UK Regulatory Monitor",
   "subtitle": "FCA · PRA · ICO · CMA · FRC — enforcement, guidance, and rulemaking",
   "schedule_note": "Updated every 6 hours via GitHub Actions",
@@ -191,29 +191,6 @@ window.SMARTKIT_DATA = {
       "extraction_tier": 0
     },
     {
-      "title": "FCA acts to protect consumers facing demands for disguised remuneration scheme loan repayments",
-      "summary": "We've intervened and Ethica Resolve Limited (Ethica), an FCA authorised firm that services and collects debt on behalf of creditors, has agreed to restrictions.",
-      "url": "https://www.fca.org.uk/news/statements/fca-acts-protect-consumers-demands-disguised-remuneration-scheme-loan-repayments",
-      "published": "Thursday, November 5, 2026 - 13:46",
-      "source": "FCA News",
-      "score": 9.0,
-      "action_type": "enforcement",
-      "entities": [
-        "Ethica Resolve Limited",
-        "Street Limited"
-      ],
-      "dates": [],
-      "key_terms": [
-        "fca",
-        "hmrc",
-        "authorised firm",
-        "guidance",
-        "proposed",
-        "order"
-      ],
-      "extraction_tier": 0
-    },
-    {
       "title": "Payments systems Memorandum of Understanding",
       "summary": "Bank of England, PRA, FCA and PSR review Memorandum of Understanding in relation to payment systems in the UK",
       "url": "https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
@@ -372,7 +349,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to Consumer Services Code Review consultations",
       "summary": "The Competition and Markets Authority (CMA) has responded to Citizens Advice and Consumer Scotland consultations on their Consumer Service Codes Reviews.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consumer-services-code-review-consultations",
-      "published": "2026-11-27T07:05:56.687996+00:00",
+      "published": "2026-11-27T20:45:49.638382+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -396,7 +373,7 @@ window.SMARTKIT_DATA = {
       "title": "Travel and leisure businesses investigated over pricing practices",
       "summary": "CMA launches 3 new investigations over concerns that customers were not shown the total price upfront when purchasing holidays or gym memberships.",
       "url": "https://www.gov.uk/government/news/travel-and-leisure-businesses-investigated-over-pricing-practices",
-      "published": "2026-11-27T07:05:56.688008+00:00",
+      "published": "2026-11-27T20:45:49.638409+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -413,7 +390,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA response to consultation on equal pay and pay discrimination",
       "summary": "The Competition and Markets Authority (CMA) response to the Office for Equality and Opportunity's consultation on reform of the current equal pay framework.",
       "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-equal-pay-and-pay-discrimination",
-      "published": "2026-11-27T07:05:56.688022+00:00",
+      "published": "2026-11-27T20:45:49.638423+00:00",
       "source": "CMA News",
       "score": 6.05,
       "action_type": "other",
@@ -459,7 +436,7 @@ window.SMARTKIT_DATA = {
       "title": "Correspondence: CMA correspondence in relation to private provision in the dentistry market",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in the UK government, the Welsh and Scottish governments and the Northern Ireland Executive, and the CMA's response to the General Dental Council's consultation.",
       "url": "https://www.gov.uk/government/publications/cma-correspondence-in-relation-to-private-provision-in-the-dentistry-market",
-      "published": "2026-11-27T07:05:56.720198+00:00",
+      "published": "2026-11-27T20:45:50.310733+00:00",
       "source": "HM Treasury",
       "score": 5.5,
       "action_type": "other",
@@ -501,7 +478,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA correspondence in relation to private provision in the dentistry market",
       "summary": "Letters between the Competition and Markets Authority (CMA) and minsters in the UK government, the Welsh and Scottish governments and the Northern Ireland Executive, and the CMA's response to the General Dental Council&#…",
       "url": "https://www.gov.uk/government/publications/cma-correspondence-in-relation-to-private-provision-in-the-dentistry-market",
-      "published": "2026-11-27T07:05:56.687943+00:00",
+      "published": "2026-11-27T20:45:49.638324+00:00",
       "source": "CMA News",
       "score": 4.95,
       "action_type": "other",
@@ -596,7 +573,7 @@ window.SMARTKIT_DATA = {
       "title": "Major fragrance suppliers fined £85 million by the CMA for illegal collusion",
       "summary": "3 fragrance suppliers broke competition law by coordinating their approach to pricing strategies and commercial negotiations.",
       "url": "https://www.gov.uk/government/news/major-fragrance-suppliers-fined-85-million-by-the-cma-for-illegal-collusion",
-      "published": "2026-11-27T07:05:56.687977+00:00",
+      "published": "2026-11-27T20:45:49.638353+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -612,7 +589,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA fines firms £6 million for misleading sales tactics",
       "summary": "Customers will receive around £440,000 in refunds.",
       "url": "https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics",
-      "published": "2026-11-27T07:05:56.688062+00:00",
+      "published": "2026-11-27T20:45:49.638467+00:00",
       "source": "CMA News",
       "score": 4.4,
       "action_type": "enforcement",
@@ -652,7 +629,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA provisionally finds that viagogo may have broken the law on hidden fees",
       "summary": "Investigation considers how mandatory costs were presented to UK fans on 3 viagogo websites.",
       "url": "https://www.gov.uk/government/news/cma-provisionally-finds-that-viagogo-may-have-broken-the-law-on-hidden-fees",
-      "published": "2026-11-27T07:05:56.688002+00:00",
+      "published": "2026-11-27T20:45:49.638396+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -668,7 +645,7 @@ window.SMARTKIT_DATA = {
       "title": "CMA opens investigation into Meta’s commercial terms",
       "summary": "Investigation will examine concerns that Meta’s terms and conditions unfairly harm news publishers and other content businesses.",
       "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
-      "published": "2026-11-27T07:05:56.688039+00:00",
+      "published": "2026-11-27T20:45:49.638442+00:00",
       "source": "CMA News",
       "score": 3.85,
       "action_type": "other",
@@ -677,6 +654,26 @@ window.SMARTKIT_DATA = {
       "key_terms": [
         "cma",
         "investigation"
+      ],
+      "extraction_tier": 0
+    },
+    {
+      "title": "How should investors evaluate performance?",
+      "summary": "Why fund performance needs a detailed review in concentrated marketsA fund’s headline return tells only part of the story. Before selling a fund that has underperformed its benchmark, investors should ask why and whether it still meets their needs.",
+      "url": "https://www.fca.org.uk/news/blogs/how-should-investors-evaluate-performance",
+      "published": "Wednesday, November 25, 2026 - 14:45",
+      "source": "FCA News",
+      "score": 3.6,
+      "action_type": "other",
+      "entities": [
+        "Magnificent Seven",
+        "World Index"
+      ],
+      "dates": [],
+      "key_terms": [
+        "pra",
+        "proposed",
+        "rule"
       ],
       "extraction_tier": 0
     }
